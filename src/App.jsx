@@ -4,30 +4,47 @@ import TabBar from './components/TabBar'
 import WordDetail from './components/WordDetail'
 import Arena from './components/Arena'
 import Exame from './components/Exame'
-import { IconBoat, IconSpeaker } from './components/Icons'
+import { IconBoat, IconSpeaker, IconHandStar } from './components/Icons'
 import { speakPortuguese } from './utils/audio'
 import './index.css'
+
+// Check if localStorage is available (private browsing may block it)
+function isStorageAvailable() {
+    try {
+        const t = '__storage_test__'
+        localStorage.setItem(t, t)
+        localStorage.removeItem(t)
+        return true
+    } catch { return false }
+}
 
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 
 // ── localStorage helpers ──────────────────────────────────────────
+const storageOk = isStorageAvailable()
 function loadMastered() {
+    if (!storageOk) return []
     try { return JSON.parse(localStorage.getItem('notas_mastered')) || [] } catch { return [] }
 }
 function saveMastered(ids) {
-    localStorage.setItem('notas_mastered', JSON.stringify(ids))
+    if (!storageOk) return
+    try { localStorage.setItem('notas_mastered', JSON.stringify(ids)) } catch { }
 }
 function loadFavorites() {
+    if (!storageOk) return []
     try { return JSON.parse(localStorage.getItem('notas_favorites')) || [] } catch { return [] }
 }
 function saveFavorites(ids) {
-    localStorage.setItem('notas_favorites', JSON.stringify(ids))
+    if (!storageOk) return
+    try { localStorage.setItem('notas_favorites', JSON.stringify(ids)) } catch { }
 }
 function loadLevelIndex(level) {
+    if (!storageOk) return 0
     try { return parseInt(localStorage.getItem(`notas_index_${level}`)) || 0 } catch { return 0 }
 }
 function saveLevelIndex(level, index) {
-    localStorage.setItem(`notas_index_${level}`, index)
+    if (!storageOk) return
+    try { localStorage.setItem(`notas_index_${level}`, String(index)) } catch { }
 }
 
 // ── Skip-forward logic: find first non-mastered word from index i ─
@@ -245,7 +262,8 @@ function App() {
                 {/* ── FAVORITOS TAB ── */}
                 {activeTab === 'favoritos' && (
                     <div className="quiz-container animate-fade">
-                        <h2 className="handwritten" style={{ textAlign: 'center', color: 'var(--primary-deep)' }}>Favoritos ⭐</h2>
+                        <h2 className="handwritten" style={{ textAlign: 'center', color: 'var(--primary-deep)', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '8px' }}>
+                            Favoritos <IconHandStar color="var(--primary-deep)" filled={false} /></h2>
                         <div style={{ marginTop: '20px' }}>
                             {favoriteIds.length === 0 ? (
                                 <p style={{ textAlign: 'center', color: 'var(--text-soft)' }}>Lista vazia...</p>

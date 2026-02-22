@@ -83,3 +83,25 @@ export const IconExame = () => (
         <path d="M10 9l1 1 2-2"></path>
     </svg>
 );
+
+/* Hand-drawn tick — like a quick pen stroke ✓ */
+export const IconHandCheck = ({ size = 28, color = '#4caf50' }) => (
+    <svg width={size} height={size} viewBox="0 0 32 32" fill="none" stroke={color} strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+        <path d="M5 17 C 8 17, 11 22, 13 25 C 16 19, 22 10, 28 6" />
+    </svg>
+);
+
+/* Hand-drawn cross — two casual diagonal strokes ✕ */
+export const IconHandCross = ({ size = 28, color = '#ef5350' }) => (
+    <svg width={size} height={size} viewBox="0 0 32 32" fill="none" stroke={color} strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+        <line x1="7" y1="7" x2="25" y2="25" />
+        <line x1="25" y1="7" x2="7" y2="25" />
+    </svg>
+);
+
+/* Hand-drawn five-pointed star outline */
+export const IconHandStar = ({ size = 22, color = 'currentColor', filled = false }) => (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill={filled ? color : 'none'} stroke={color} strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+    </svg>
+);

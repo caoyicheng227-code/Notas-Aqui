@@ -14,6 +14,8 @@
   --example-font: Avenir, "Avenir Next", "Century Gothic", sans-serif;
   --chinese-font: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
   --handwriting-font: var(--pt-word-font);
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
 }
 
 * {
@@ -22,11 +24,19 @@
   padding: 0;
 }
 
+html,
+body {
+  height: 100%;
+  /* Prevent iOS overscroll bounce */
+  overscroll-behavior: none;
+}
+
 body {
   background-color: var(--bg-ocean);
   color: var(--text-main);
   font-family: var(--chinese-font);
-  min-height: 100vh;
+  /* Use dvh (dynamic viewport height) to handle iOS Safari toolbar */
+  min-height: 100dvh;
   display: flex;
   justify-content: center;
   overflow-x: hidden;
@@ -36,13 +46,15 @@ body {
   width: 100%;
   max-width: 480px;
   background-color: var(--bg-ocean);
-  min-height: 100vh;
+  min-height: 100dvh;
   position: relative;
   display: flex;
   flex-direction: column;
+  /* Account for device notch / status bar */
+  padding-top: var(--safe-top);
 }
 
-/* Doodle Hand-drawn Border Effect */
+/* ── Doodle Hand-drawn Border ──────────────────────────────────── */
 .sticky-note {
   background: var(--card-white);
   border: 2px solid var(--doodle-border);
@@ -67,12 +79,12 @@ body {
   font-family: var(--handwriting-font);
 }
 
-/* Level Indicator Ink Circles */
+/* ── Level selector ────────────────────────────────────────────── */
 .level-selector {
   display: flex;
   justify-content: center;
-  gap: 12px;
-  padding: 20px 0;
+  gap: 8px;
+  padding: 12px 0;
 }
 
 .level-btn {
@@ -82,7 +94,7 @@ body {
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   cursor: pointer;
   position: relative;
   transition: color 0.3s;
@@ -114,11 +126,11 @@ body {
   }
 }
 
-/* Sailing Progress Bar */
+/* ── Sailing Progress Bar ──────────────────────────────────────── */
 .sailing-progress {
   position: relative;
   height: 40px;
-  margin: 10px 24px;
+  margin: 6px 24px;
   display: flex;
   align-items: center;
 }
@@ -137,7 +149,6 @@ body {
   position: absolute;
   width: 100%;
   height: 20px;
-  /* Complex doodle waves via multiple overlapping SVG paths */
   background: url("data:image/svg+xml,%3Csvg width='200' height='20' viewBox='0 0 200 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 15 C 20 15, 30 5, 50 5 C 70 5, 80 15, 100 15 C 120 15, 130 5, 150 5 C 170 5, 180 15, 200 15' stroke='%232E5A88' fill='transparent' stroke-width='1.5' stroke-linecap='round'/%3E%3Cpath d='M10 18 C 30 18, 40 10, 60 10 C 80 10, 90 18, 110 18 C 130 18, 140 10, 160 10 C 180 10, 190 18, 210 18' stroke='%232E5A88' fill='transparent' stroke-width='1' stroke-dasharray='4 2' opacity='0.4'/%3E%3C/svg%3E");
   background-repeat: repeat-x;
   top: -12px;
@@ -167,7 +178,13 @@ body {
   }
 }
 
-/* Tab Bar */
+/* ── Quiz container ────────────────────────────────────────────── */
+.quiz-container {
+  padding: 0 16px;
+  flex: 1;
+}
+
+/* ── Tab Bar ───────────────────────────────────────────────────── */
 .tab-bar {
   position: fixed;
   bottom: 0;
@@ -175,14 +192,15 @@ body {
   transform: translateX(-50%);
   width: 100%;
   max-width: 480px;
-  height: 75px;
+  /* Use dvh-safe bottom padding for home indicator */
+  padding-bottom: max(var(--safe-bottom), 8px);
   background: white;
   display: flex;
   justify-content: space-around;
   align-items: center;
   border-top: 1px solid #e0e0e0;
-  padding-bottom: env(safe-area-inset-bottom);
   z-index: 100;
+  min-height: 60px;
 }
 
 .tab-item {
@@ -193,6 +211,7 @@ body {
   cursor: pointer;
   font-size: 0.75rem;
   transition: color 0.2s;
+  padding: 8px 16px;
 }
 
 .tab-item.active {
@@ -203,7 +222,12 @@ body {
   margin-bottom: 4px;
 }
 
-/* Detail Popup */
+/* Main content bottom padding (tab bar height + safe area) */
+main {
+  padding-bottom: calc(75px + var(--safe-bottom));
+}
+
+/* ── Detail popup ──────────────────────────────────────────────── */
 .detail-overlay {
   position: fixed;
   top: 0;
@@ -216,11 +240,14 @@ body {
   align-items: center;
   justify-content: center;
   z-index: 200;
+  padding: 16px;
 }
 
 .detail-modal {
-  width: 90%;
+  width: 100%;
   max-width: 400px;
+  max-height: 85dvh;
+  overflow-y: auto;
   background: white;
   border: 2px solid var(--primary-deep);
   border-radius: 12px;
@@ -239,10 +266,11 @@ body {
   color: var(--text-soft);
 }
 
+/* ── Option buttons ────────────────────────────────────────────── */
 .option-btn {
   width: 100%;
-  padding: 16px;
-  margin-bottom: 12px;
+  padding: 14px 16px;
+  margin-bottom: 10px;
   text-align: left;
   background: white;
   border: 2px solid var(--doodle-border);
@@ -254,6 +282,8 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
+  /* Prevent text overflow on small screens */
+  word-break: break-word;
 }
 
 .option-btn::after {
@@ -284,6 +314,7 @@ body {
   color: #c62828;
 }
 
+/* ── Action bar ────────────────────────────────────────────────── */
 .action-bar {
   display: flex;
   gap: 16px;
@@ -303,6 +334,7 @@ body {
   font-weight: bold;
   cursor: pointer;
   transition: all 0.2s;
+  font-size: 0.95rem;
 }
 
 .action-btn.active {
@@ -310,6 +342,7 @@ body {
   color: white;
 }
 
+/* ── Priberam trigger ──────────────────────────────────────────── */
 .priberam-trigger {
   transition: transform 0.2s ease, opacity 0.2s ease;
 }
@@ -321,4 +354,65 @@ body {
 
 .example-text {
   font-family: var(--example-font);
+}
+
+/* ── Exame: prevent keyboard from squashing layout ────────────── */
+.exam-input-row {
+  display: flex;
+  gap: 8px;
+  position: sticky;
+  bottom: 0;
+  background: white;
+  padding: 8px 0 4px;
+}
+
+/* ── Animations ────────────────────────────────────────────────── */
+.animate-fade {
+  animation: fade-in 0.25s ease-out;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ── Responsive fine-tuning ────────────────────────────────────── */
+/* Small phones (iPhone SE, 375px wide) */
+@media (max-height: 668px) {
+  .level-selector {
+    padding: 8px 0;
+    gap: 6px;
+  }
+
+  .sailing-progress {
+    margin: 4px 24px;
+    height: 36px;
+  }
+
+  .sticky-note h1 {
+    font-size: 2.4rem !important;
+  }
+
+  .option-btn {
+    padding: 11px 14px;
+    font-size: 0.95rem;
+  }
+}
+
+/* Large phones (iPhone 15 Pro Max, 430px wide) */
+@media (min-width: 400px) {
+  .tab-item {
+    font-size: 0.8rem;
+  }
+
+  .option-btn {
+    font-size: 1.05rem;
+  }
 }
