@@ -5,7 +5,7 @@ import WordDetail from './components/WordDetail'
 import Arena from './components/Arena'
 import Exame from './components/Exame'
 import { IconBoat, IconSpeaker, IconHandStar } from './components/Icons'
-import { speakPortuguese } from './utils/audio'
+import { speakPortuguese, playSuccess, playError } from './utils/audio'
 import './index.css'
 
 // Check if localStorage is available (private browsing may block it)
@@ -132,6 +132,7 @@ function App() {
     const handleChoice = (choice) => {
         if (feedback === 'correct') return
         if (choice.id === currentWord.id) {
+            playSuccess()
             setFeedback('correct')
             setTimeout(() => {
                 const nextRaw = displayIndex + 1
@@ -140,6 +141,7 @@ function App() {
                 setCurrentIndex(nextIdx)
             }, 1000)
         } else {
+            playError()
             setFeedback(choice.id)
         }
     }
@@ -204,7 +206,19 @@ function App() {
                                         Nível {currentLevel} — {displayIndex + 1} / {filteredWords.length}
                                     </div>
                                     <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '15px' }}>
-                                        <h1 className="handwritten" style={{ fontSize: '3rem', color: 'var(--primary-deep)' }}>
+                                        <h1 className="handwritten" style={{
+                                            fontSize: currentWord.word.length > 14
+                                                ? 'clamp(1.4rem, 6vw, 2rem)'
+                                                : currentWord.word.length > 10
+                                                    ? 'clamp(1.8rem, 7vw, 2.4rem)'
+                                                    : '3rem',
+                                            color: 'var(--primary-deep)',
+                                            overflowWrap: 'break-word',
+                                            wordBreak: 'break-word',
+                                            maxWidth: '100%',
+                                            textAlign: 'center',
+                                            lineHeight: 1.2
+                                        }}>
                                             {currentWord.word}
                                         </h1>
                                         <button
