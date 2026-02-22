@@ -48,7 +48,8 @@ let _successUrl = null;
 let _errorUrl = null;
 function getSuccessUrl() {
     if (!_successUrl) {
-        try { _successUrl = makeWavUrl(700, 0.18, false); } catch { _successUrl = ''; }
+        // "硬币弹起" / 清脆水滴：900→1100Hz 极短正弦波
+        try { _successUrl = makeWavUrl(900, 0.09, false); } catch { _successUrl = ''; }
     }
     return _successUrl;
 }

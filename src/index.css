@@ -133,7 +133,7 @@ body {
 .sailing-progress {
   position: relative;
   height: 40px;
-  margin: 6px 24px;
+  margin: 14px 24px 2px;
   display: flex;
   align-items: center;
 }
