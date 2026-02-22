@@ -41,37 +41,50 @@ function getAudioCtx() {
 export function playSuccess() {
     const ctx = getAudioCtx();
     if (!ctx) return;
-    // Bright xylophone-like ding: two quick sine tones rising in pitch
-    const now = ctx.currentTime;
-    [0, 0.1].forEach((offset, i) => {
-        const osc = ctx.createOscillator();
-        const gain = ctx.createGain();
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.type = 'sine';
-        osc.frequency.setValueAtTime(600 + i * 200, now + offset);
-        osc.frequency.exponentialRampToValueAtTime(900 + i * 200, now + offset + 0.15);
-        gain.gain.setValueAtTime(0.35, now + offset);
-        gain.gain.exponentialRampToValueAtTime(0.001, now + offset + 0.35);
-        osc.start(now + offset);
-        osc.stop(now + offset + 0.35);
-    });
+    // iOS Safari suspends AudioContext until a user gesture — resume it first
+    const play = () => {
+        const now = ctx.currentTime;
+        [0, 0.1].forEach((offset, i) => {
+            const osc = ctx.createOscillator();
+            const gain = ctx.createGain();
+            osc.connect(gain);
+            gain.connect(ctx.destination);
+            osc.type = 'sine';
+            osc.frequency.setValueAtTime(600 + i * 200, now + offset);
+            osc.frequency.exponentialRampToValueAtTime(900 + i * 200, now + offset + 0.15);
+            gain.gain.setValueAtTime(0.35, now + offset);
+            gain.gain.exponentialRampToValueAtTime(0.001, now + offset + 0.35);
+            osc.start(now + offset);
+            osc.stop(now + offset + 0.35);
+        });
+    };
+    if (ctx.state === 'suspended') {
+        ctx.resume().then(play);
+    } else {
+        play();
+    }
 }
 
 export function playError() {
     const ctx = getAudioCtx();
     if (!ctx) return;
-    // Dull thud: sawtooth wave dropping quickly
-    const now = ctx.currentTime;
-    const osc = ctx.createOscillator();
-    const gain = ctx.createGain();
-    osc.connect(gain);
-    gain.connect(ctx.destination);
-    osc.type = 'sawtooth';
-    osc.frequency.setValueAtTime(180, now);
-    osc.frequency.exponentialRampToValueAtTime(80, now + 0.2);
-    gain.gain.setValueAtTime(0.3, now);
-    gain.gain.exponentialRampToValueAtTime(0.001, now + 0.25);
-    osc.start(now);
-    osc.stop(now + 0.25);
+    const play = () => {
+        const now = ctx.currentTime;
+        const osc = ctx.createOscillator();
+        const gain = ctx.createGain();
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        osc.type = 'sawtooth';
+        osc.frequency.setValueAtTime(180, now);
+        osc.frequency.exponentialRampToValueAtTime(80, now + 0.2);
+        gain.gain.setValueAtTime(0.3, now);
+        gain.gain.exponentialRampToValueAtTime(0.001, now + 0.25);
+        osc.start(now);
+        osc.stop(now + 0.25);
+    };
+    if (ctx.state === 'suspended') {
+        ctx.resume().then(play);
+    } else {
+        play();
+    }
 }

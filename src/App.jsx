@@ -191,7 +191,10 @@ function App() {
                 {/* Sailing progress bar */}
                 <div className="sailing-progress">
                     <div className="wave-line"></div>
-                    <div className="boat-icon" style={{ left: `calc(${progressPercent}% - 16px)` }}>
+                    <div
+                        className="boat-icon"
+                        style={{ transform: `translateX(calc(${progressPercent}% - 16px))` }}
+                    >
                         <div className="boat-icon-inner">
                             <IconBoat />
                         </div>

@@ -159,14 +159,14 @@ body {
 
 .boat-icon {
   position: absolute;
-  /* Fix 2: spring bounce transition for boat — ONLY for left, never transform */
-  transition: left 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
-  /* translateY lives in .boat-icon-inner so it doesn't conflict with left transition */
-  transform: none;
+  left: 0;
+  /* anchor — horizontal movement via transform:translateX */
+  /* GPU-composited translateX: never conflicts with bobbing animation */
+  transition: transform 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
   z-index: 2;
 }
 
-/* Inner wrapper: handles vertical bobbing independently */
+/* Inner wrapper: ONLY vertical bobbing — completely isolated from X movement */
 .boat-icon-inner {
   transform: translateY(-28px);
   animation: bobbing 3s ease-in-out infinite;
