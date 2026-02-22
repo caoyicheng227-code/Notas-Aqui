@@ -1,0 +1,110 @@
+import json
+
+# Data for A1 (10 already exist, adding 90)
+a1_words = [
+    {"word": "água", "translation": "水", "gender": "a", "cefr_level": "A1", "category": "food"},
+    {"word": "pão", "translation": "面包", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "café", "translation": "咖啡", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "leite", "translation": "牛奶", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "arroz", "translation": "米饭", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "fruta", "translation": "水果", "gender": "a", "cefr_level": "A1", "category": "food"},
+    {"word": "carne", "translation": "肉", "gender": "a", "cefr_level": "A1", "category": "food"},
+    {"word": "peixe", "translation": "鱼", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "ovo", "translation": "蛋", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "sal", "translation": "盐", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "açúcar", "translation": "糖", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "chá", "translation": "茶", "gender": "o", "cefr_level": "A1", "category": "food"},
+    {"word": "comida", "translation": "食物", "gender": "a", "cefr_level": "A1", "category": "food"},
+    {"word": "bebida", "translation": "饮料", "gender": "a", "cefr_level": "A1", "category": "food"},
+    {"word": "mãe", "translation": "母亲; 妈妈", "gender": "a", "cefr_level": "A1", "category": "family"},
+    {"word": "pai", "translation": "父亲; 爸爸", "gender": "o", "cefr_level": "A1", "category": "family"},
+    {"word": "filho", "translation": "儿子", "gender": "o", "cefr_level": "A1", "category": "family"},
+    {"word": "filha", "translation": "女儿", "gender": "a", "cefr_level": "A1", "category": "family"},
+    {"word": "irmão", "translation": "兄弟; 哥哥; 弟弟", "gender": "o", "cefr_level": "A1", "category": "family"},
+    {"word": "irmã", "translation": "姐妹; 姐姐; 妹妹", "gender": "a", "cefr_level": "A1", "category": "family"},
+    {"word": "avô", "translation": "祖父; 爷爷", "gender": "o", "cefr_level": "A1", "category": "family"},
+    {"word": "avó", "translation": "祖母; 奶奶", "gender": "a", "cefr_level": "A1", "category": "family"},
+    {"word": "amigo", "translation": "朋友", "gender": "o", "cefr_level": "A1", "category": "people"},
+    {"word": "amiga", "translation": "朋友 (女)", "gender": "a", "cefr_level": "A1", "category": "people"},
+    {"word": "criança", "translation": "小孩", "gender": "a", "cefr_level": "A1", "category": "people"},
+    {"word": "escola", "translation": "学校", "gender": "a", "cefr_level": "A1", "category": "place"},
+    {"word": "sala", "translation": "客厅; 房间", "gender": "a", "cefr_level": "A1", "category": "place"},
+    {"word": "cozinha", "translation": "厨房", "gender": "a", "cefr_level": "A1", "category": "place"},
+    {"word": "quarto", "translation": "卧室; 房间", "gender": "o", "cefr_level": "A1", "category": "place"},
+    {"word": "banheiro", "translation": "浴室; 洗手间", "gender": "o", "cefr_level": "A1", "category": "place"},
+    {"word": "mesa", "translation": "桌子", "gender": "a", "cefr_level": "A1", "category": "items"},
+    {"word": "cadeira", "translation": "椅子", "gender": "a", "cefr_level": "A1", "category": "items"},
+    {"word": "cama", "translation": "床", "gender": "a", "cefr_level": "A1", "category": "items"},
+    {"word": "porta", "translation": "门", "gender": "a", "cefr_level": "A1", "category": "items"},
+    {"word": "chave", "translation": "钥匙", "gender": "a", "cefr_level": "A1", "category": "items"},
+    {"word": "carro", "translation": "车; 汽车", "gender": "o", "cefr_level": "A1", "category": "transport"},
+    {"word": "bicicleta", "translation": "自行车", "gender": "a", "cefr_level": "A1", "category": "transport"},
+    {"word": "autocarro", "translation": "巴士; 公交车", "gender": "o", "cefr_level": "A1", "category": "transport"},
+    {"word": "comboio", "translation": "火车", "gender": "o", "cefr_level": "A1", "category": "transport"},
+    {"word": "avião", "translation": "飞机", "gender": "o", "cefr_level": "A1", "category": "transport"},
+    {"word": "sol", "translation": "太阳", "gender": "o", "cefr_level": "A1", "category": "nature"},
+    {"word": "lua", "translation": "月亮", "gender": "a", "cefr_level": "A1", "category": "nature"},
+    {"word": "mar", "translation": "海", "gender": "o", "cefr_level": "A1", "category": "nature"},
+    {"word": "rio", "translation": "河", "gender": "o", "cefr_level": "A1", "category": "nature"},
+    {"word": "flor", "translation": "花", "gender": "a", "cefr_level": "A1", "category": "nature"},
+    {"word": "árvore", "translation": "树", "gender": "a", "cefr_level": "A1", "category": "nature"},
+    {"word": "animal", "translation": "动物", "gender": "o", "cefr_level": "A1", "category": "nature"},
+    {"word": "cão", "translation": "狗", "gender": "o", "cefr_level": "A1", "category": "nature"},
+    {"word": "gato", "translation": "猫", "gender": "o", "cefr_level": "A1", "category": "nature"},
+    {"word": "bom", "translation": "好的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "mau", "translation": "坏的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "grande", "translation": "大的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "pequeno", "translation": "小的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "novo", "translation": "新的; 年轻的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "velho", "translation": "旧的; 老的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "alto", "translation": "高的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "baixo", "translation": "矮的; 低的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "frio", "translation": "冷的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "quente", "translation": "热的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "feliz", "translation": "开心的; 幸福的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "triste", "translation": "伤心的; 难过的", "gender": "adj", "cefr_level": "A1", "category": "abstract"},
+    {"word": "um", "translation": "一", "gender": "num", "cefr_level": "A1", "category": "number"},
+    {"word": "dois", "translation": "二", "gender": "num", "cefr_level": "A1", "category": "number"},
+    {"word": "três", "translation": "三", "gender": "num", "cefr_level": "A1", "category": "number"},
+    {"word": "quatro", "translation": "四", "gender": "num", "cefr_level": "A1", "category": "number"},
+    {"word": "cinco", "translation": "五", "gender": "num", "cefr_level": "A1", "category": "number"},
+    {"word": "vermelho", "translation": "红色的", "gender": "adj", "cefr_level": "A1", "category": "color"},
+    {"word": "azul", "translation": "蓝色的", "gender": "adj", "cefr_level": "A1", "category": "color"},
+    {"word": "verde", "translation": "绿色的", "gender": "adj", "cefr_level": "A1", "category": "color"},
+    {"word": "amarelo", "translation": "黄色的", "gender": "adj", "cefr_level": "A1", "category": "color"},
+    {"word": "preto", "translation": "黑色的", "gender": "adj", "cefr_level": "A1", "category": "color"},
+    {"word": "branco", "translation": "白色的", "gender": "adj", "cefr_level": "A1", "category": "color"},
+    {"word": "eu", "translation": "我", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "tu", "translation": "你", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "ele", "translation": "他", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "ela", "translation": "她", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "nós", "translation": "我们", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "vós", "translation": "你们", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "eles", "translation": "他们", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "elas", "translation": "她们", "gender": "pron", "cefr_level": "A1", "category": "pronoun"},
+    {"word": "ser", "translation": "是; 存在", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "estar", "translation": "是; 处于", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "ter", "translation": "有; 拥有", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "fazer", "translation": "做; 制造", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "ir", "translation": "去", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "vir", "translation": "来", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "comer", "translation": "吃", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "beber", "translation": "喝", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "ver", "translation": "看", "gender": "v", "cefr_level": "A1", "category": "action"},
+    {"word": "ler", "translation": "读; 阅读", "gender": "v", "cefr_level": "A1", "category": "action"}
+]
+
+# Adding metadata automatically
+def enrich(words):
+    for i, w in enumerate(words):
+        w["id"] = i + 1000 # Offset for expansion
+        w["priberam_definition"] = f"Definição de {w['word']}."
+        w["examples"] = [{"pt": f"Exemplo de {w['word']}.", "cn": f"这是{w['translation']}的一个例子。"}]
+        w["synonyms"] = []
+        w["antonyms"] = []
+    return words
+
+a1_enriched = enrich(a1_words)
+
+with open("batch1.json", "w") as f:
+    json.dump(a1_enriched, f, ensure_ascii=False, indent=4)
