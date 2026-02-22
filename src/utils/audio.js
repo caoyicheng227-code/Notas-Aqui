@@ -43,13 +43,62 @@ function makeWavUrl(frequency, duration, descend = false) {
     return URL.createObjectURL(new Blob([buf], { type: 'audio/wav' }));
 }
 
+// ── 百词斩风格正确音：双振荡器 + 指数衰减 ─────────────────────
+// Tone1: 950→1300Hz 上升正弦（上升感）
+// Tone2: 1900Hz 泛音（高八度，增加清亮度）
+// Envelope: 0.05s 保持最大 → 0.2s 指数衰减，总时长 0.25s
+function makeSuccessWav() {
+    const sampleRate = 22050;
+    const duration = 0.25;
+    const attackTime = 0.05;    // flat peak duration
+    const numSamples = Math.floor(sampleRate * duration);
+    const buf = new ArrayBuffer(44 + numSamples * 2);
+    const dv = new DataView(buf);
+    const ws = (off, s) => [...s].forEach((c, i) => dv.setUint8(off + i, c.charCodeAt(0)));
+    ws(0, 'RIFF'); dv.setUint32(4, 36 + numSamples * 2, true);
+    ws(8, 'WAVE'); ws(12, 'fmt ');
+    dv.setUint32(16, 16, true); dv.setUint16(20, 1, true);
+    dv.setUint16(22, 1, true);
+    dv.setUint32(24, sampleRate, true);
+    dv.setUint32(28, sampleRate * 2, true);
+    dv.setUint16(32, 2, true);
+    dv.setUint16(34, 16, true);
+    ws(36, 'data'); dv.setUint32(40, numSamples * 2, true);
+
+    // Phase accumulators for accurate frequency sweep
+    let phase1 = 0, phase2 = 0;
+    for (let i = 0; i < numSamples; i++) {
+        const t = i / sampleRate;
+
+        // Tone1: 950→1300Hz linear sweep over 0.1s then hold at 1300Hz
+        const f1 = t < 0.1 ? 950 + (1300 - 950) * (t / 0.1) : 1300;
+        // Tone2: fixed 1900Hz overtone
+        const f2 = 1900;
+
+        // Envelope: flat during attack, exponential decay after
+        const env = t < attackTime
+            ? 1.0
+            : Math.exp(-((t - attackTime) / 0.2) * 5);
+
+        // Mix: tone1 full + tone2 at 45% for brightness without harshness
+        const s1 = Math.sin(phase1) * env;
+        const s2 = Math.sin(phase2) * env * 0.45;
+        const mixed = (s1 + s2) * 14000;
+
+        dv.setInt16(44 + i * 2, Math.max(-32767, Math.min(32767, mixed)), true);
+
+        phase1 += 2 * Math.PI * f1 / sampleRate;
+        phase2 += 2 * Math.PI * f2 / sampleRate;
+    }
+    return URL.createObjectURL(new Blob([buf], { type: 'audio/wav' }));
+}
+
 // Pre-generate URLs once at import time (no delay on first click)
 let _successUrl = null;
 let _errorUrl = null;
 function getSuccessUrl() {
     if (!_successUrl) {
-        // "硬币弹起" / 清脆水滴：900→1100Hz 极短正弦波
-        try { _successUrl = makeWavUrl(900, 0.09, false); } catch { _successUrl = ''; }
+        try { _successUrl = makeSuccessWav(); } catch { _successUrl = ''; }
     }
     return _successUrl;
 }
