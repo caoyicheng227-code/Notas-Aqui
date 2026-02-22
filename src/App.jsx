@@ -68,7 +68,8 @@ function findDisplayIndex(words, fromIndex, masteredIds) {
 function App() {
     const [activeTab, setActiveTab] = useState('livro')
     const [currentLevel, setCurrentLevel] = useState('A1')
-    const [currentIndex, setCurrentIndex] = useState(0)
+    // Fix: read saved index from localStorage immediately — never default to 0 on refresh
+    const [currentIndex, setCurrentIndex] = useState(() => loadLevelIndex('A1'))
     const [showDetail, setShowDetail] = useState(false)
     const [selectedWord, setSelectedWord] = useState(null)
     const [choices, setChoices] = useState([])
@@ -98,13 +99,16 @@ function App() {
         saveFavorites(ids)
     }
 
-    // ── Save + load index on level switch ─────────────────────────
+    // ── Auto-save index on EVERY change (covers refresh, level switch, answer) ──
+    useEffect(() => {
+        saveLevelIndex(currentLevel, currentIndex)
+    }, [currentIndex, currentLevel])
+
+    // ── Load index on level switch ─────────────────────────────────
     const handleLevelChange = (newLevel) => {
         if (newLevel === currentLevel) return
-        // Save current level's index
-        saveLevelIndex(currentLevel, currentIndex)
         prevLevelRef.current = newLevel
-        // Load new level's index
+        // Load saved index for new level (auto-save handled by useEffect above)
         const stored = loadLevelIndex(newLevel)
         const newWords = vocabularyData.filter(w => w.cefr_level === newLevel)
         const safeIndex = findDisplayIndex(newWords, stored, masteredIds)
