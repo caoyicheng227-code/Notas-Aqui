@@ -197,7 +197,11 @@ function App() {
                     <div className="wave-line"></div>
                     <div
                         className="boat-icon"
-                        style={{ transform: `translateX(calc(${progressPercent}% - 16px))` }}
+                        style={{
+                            position: 'absolute',
+                            left: `${Math.min(95, (currentIndex / (filteredWords.length || 1)) * 100)}%`,
+                            transition: 'left 0.5s cubic-bezier(0.25, 1, 0.5, 1)'
+                        }}
                     >
                         <div className="boat-icon-inner">
                             <IconBoat />
