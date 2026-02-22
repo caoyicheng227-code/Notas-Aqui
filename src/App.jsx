@@ -20,31 +20,35 @@ function isStorageAvailable() {
 
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 
-// ── localStorage helpers ──────────────────────────────────────────
+// ── localStorage helpers ─────────────────────────────────────────
+// Keys: NotasAqui_<Level>_Index | NotasAqui_Mastered | NotasAqui_Favorites
+// Arena/Duelo has NO localStorage calls — fully decoupled by design.
 const storageOk = isStorageAvailable()
 function loadMastered() {
     if (!storageOk) return []
-    try { return JSON.parse(localStorage.getItem('notas_mastered')) || [] } catch { return [] }
+    try { return JSON.parse(localStorage.getItem('NotasAqui_Mastered')) || [] } catch { return [] }
 }
 function saveMastered(ids) {
     if (!storageOk) return
-    try { localStorage.setItem('notas_mastered', JSON.stringify(ids)) } catch { }
+    try { localStorage.setItem('NotasAqui_Mastered', JSON.stringify(ids)) } catch { }
 }
 function loadFavorites() {
     if (!storageOk) return []
-    try { return JSON.parse(localStorage.getItem('notas_favorites')) || [] } catch { return [] }
+    try { return JSON.parse(localStorage.getItem('NotasAqui_Favorites')) || [] } catch { return [] }
 }
 function saveFavorites(ids) {
     if (!storageOk) return
-    try { localStorage.setItem('notas_favorites', JSON.stringify(ids)) } catch { }
+    try { localStorage.setItem('NotasAqui_Favorites', JSON.stringify(ids)) } catch { }
 }
+// Level index: key = 'NotasAqui_A1_Index', 'NotasAqui_B2_Index', etc.
 function loadLevelIndex(level) {
     if (!storageOk) return 0
-    try { return parseInt(localStorage.getItem(`notas_index_${level}`)) || 0 } catch { return 0 }
+    try { return parseInt(localStorage.getItem(`NotasAqui_${level}_Index`)) || 0 } catch { return 0 }
 }
 function saveLevelIndex(level, index) {
     if (!storageOk) return
-    try { localStorage.setItem(`notas_index_${level}`, String(index)) } catch { }
+    // Write immediately — called on every word advance and level switch
+    try { localStorage.setItem(`NotasAqui_${level}_Index`, String(index)) } catch { }
 }
 
 // ── Skip-forward logic: find first non-mastered word from index i ─
