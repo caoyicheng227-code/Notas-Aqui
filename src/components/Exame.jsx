@@ -2,22 +2,48 @@ import { useState } from 'react';
 import vocabularyData from '../data/vocabulary.json';
 import { IconHandCheck, IconHandCross, IconHandStar } from './Icons';
 
-// Build a cloze sentence by blanking out the target word (and inflections)
+// Build a cloze sentence by blanking the target word and capturing the actual form used.
+// Returns { cloze: string, answers: string[] }
+// answers = all inflected forms found in the sentence (e.g. ["efêmera"] for "efêmero")
 function buildCloze(wordObj, examplePt) {
-    if (!examplePt) return null;
+    if (!examplePt) return { cloze: null, answers: [wordObj.word.toLowerCase()] };
+
     const base = wordObj.word.toLowerCase();
+    // Stem: first 70% of the word length (minimum 4 chars) to match inflections
     const stem = base.slice(0, Math.max(4, Math.floor(base.length * 0.7)));
-    const regex = new RegExp(`\\b${stem}\\w*`, 'gi');
-    const blanked = examplePt.replace(regex, '________');
-    if (blanked === examplePt) {
-        const words = examplePt.split(' ');
+    // Escape special regex chars in stem (e.g. accented chars are fine, but be safe)
+    const escapedStem = stem.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`\\b${escapedStem}\\w*`, 'gi');
+
+    const answers = [];
+    const blanked = examplePt.replace(regex, (match) => {
+        // Strip trailing punctuation from captured word before storing
+        const clean = match.replace(/[.,;:!?"'()\[\]]+$/, '');
+        answers.push(clean.toLowerCase());
+        return '________';
+    });
+
+    // No match found — fallback: blank the first token of 4+ chars
+    if (answers.length === 0) {
+        const tokens = examplePt.split(' ');
         let replaced = false;
-        return words.map(w => {
-            if (!replaced && w.length >= 4) { replaced = true; return '________'; }
+        const fallback = tokens.map(w => {
+            if (!replaced && w.replace(/[.,;!?]/g, '').length >= 4) {
+                replaced = true;
+                answers.push(w.replace(/[.,;!?]/g, '').toLowerCase());
+                return '________';
+            }
             return w;
         }).join(' ');
+        return { cloze: fallback, answers };
     }
-    return blanked;
+
+    return { cloze: blanked, answers };
+}
+
+// Normalize for comparison: lowercase + NFC unicode normalization
+function normalize(s) {
+    return s.trim().toLowerCase().normalize('NFC');
 }
 
 export default function Exame({ masteredIds, onUnmaster }) {
@@ -49,9 +75,14 @@ export default function Exame({ masteredIds, onUnmaster }) {
     const handleSubmit = () => {
         if (!userInput.trim() || showAnswer) return;
         const word = examWords[currentQ];
-        const correct = userInput.trim().toLowerCase() === word.word.toLowerCase();
+        const example = word.examples?.[0];
+        // answers = actual forms found in the sentence (e.g. ["efêmera"])
+        const { answers } = buildCloze(word, example?.pt);
+        const input = normalize(userInput);
+        // Accept if user's answer matches ANY of the captured forms
+        const correct = answers.some(a => normalize(a) === input);
         setLastCorrect(correct);
-        const newResults = [...results, { word, userAnswer: userInput.trim(), correct }];
+        const newResults = [...results, { word, userAnswer: userInput.trim(), correct, answers }];
         setResults(newResults);
 
         if (correct) {
@@ -125,7 +156,9 @@ export default function Exame({ masteredIds, onUnmaster }) {
     if (phase === 'testing') {
         const word = examWords[currentQ];
         const example = word.examples?.[0];
-        const cloze = example ? buildCloze(word, example.pt) : null;
+        const { cloze, answers } = buildCloze(word, example?.pt);
+        // The first captured answer is what we show on reveal
+        const revealAnswer = answers?.[0] || word.word;
 
         return (
             <div className="quiz-container animate-fade" style={{ display: 'flex', flexDirection: 'column' }}>
@@ -179,7 +212,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
                                                 fontStyle: 'normal',
                                                 fontWeight: 'bold'
                                             }}>
-                                                {showAnswer ? word.word : ''}
+                                                {showAnswer ? revealAnswer : ''}
                                             </span>
                                         )}
                                     </span>
@@ -257,7 +290,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
                                 <div>
                                     <p style={{ fontSize: '0.8rem', color: '#ef5350' }}>你的答案：<span style={{ textDecoration: 'line-through' }}>{results[results.length - 1]?.userAnswer}</span></p>
                                     <p style={{ fontSize: '1rem', fontWeight: 'bold', color: 'var(--primary-deep)', marginTop: '4px' }}>
-                                        正确答案：{word.word}
+                                        正确答案：{results[results.length - 1]?.answers?.[0] || word.word}
                                     </p>
                                 </div>
                             </div>
