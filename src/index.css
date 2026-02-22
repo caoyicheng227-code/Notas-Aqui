@@ -159,11 +159,18 @@ body {
 
 .boat-icon {
   position: absolute;
-  /* Fix 2: spring bounce transition for boat */
+  /* Fix 2: spring bounce transition for boat — ONLY for left, never transform */
   transition: left 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
-  transform: translateY(-28px);
+  /* translateY lives in .boat-icon-inner so it doesn't conflict with left transition */
+  transform: none;
   z-index: 2;
+}
+
+/* Inner wrapper: handles vertical bobbing independently */
+.boat-icon-inner {
+  transform: translateY(-28px);
   animation: bobbing 3s ease-in-out infinite;
+  display: flex;
 }
 
 @keyframes bobbing {

@@ -114,40 +114,85 @@ export default function Exame({ masteredIds, onUnmaster }) {
 
     // ── IDLE ──────────────────────────────────────────────────────
     if (phase === 'idle') {
+        const count = masteredPool.length;
+        const examCount = Math.min(count, 10);
+
         return (
-            <div className="quiz-container animate-fade">
-                <h2 className="handwritten" style={{ textAlign: 'center', color: 'var(--primary-deep)', marginBottom: '20px' }}>
-                    Exame Final
-                </h2>
-                <div className="sticky-note" style={{ padding: '28px 20px', textAlign: 'center' }}>
-                    {/* Doodle pencil icon */}
-                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="var(--primary-deep)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ marginBottom: '12px' }}>
-                        <path d="M12 20h9"></path>
-                        <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
-                    </svg>
+            <div className="quiz-container animate-fade" style={{
+                display: 'flex',
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'center',
+                minHeight: '60vh'
+            }}>
+                {count === 0 ? (
+                    /* ── Empty State ── */
+                    <div className="sticky-note" style={{ padding: '32px 24px', textAlign: 'center', width: '100%' }}>
+                        <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="var(--text-soft)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ marginBottom: '14px', opacity: 0.6 }}>
+                            <path d="M12 20h9"></path>
+                            <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+                        </svg>
+                        <p className="handwritten" style={{ fontSize: '1.1rem', color: 'var(--text-soft)', marginBottom: '8px' }}>
+                            还没有已掌握的单词
+                        </p>
+                        <p style={{ fontSize: '0.82rem', color: 'var(--text-soft)', lineHeight: 1.7 }}>
+                            去 <strong>Aprender</strong> 页打开单词详情<br />点击"Dominar"标记掌握，再来考试！
+                        </p>
+                    </div>
+                ) : (
+                    /* ── Vamos Card ── */
+                    <button
+                        onClick={startExam}
+                        style={{
+                            all: 'unset',
+                            cursor: 'pointer',
+                            display: 'flex',
+                            flexDirection: 'column',
+                            alignItems: 'center',
+                            justifyContent: 'center',
+                            width: '220px',
+                            height: '220px',
+                            background: 'white',
+                            /* Doodle border matching the app style */
+                            border: '2.5px solid var(--primary-deep)',
+                            borderRadius: '255px 15px 225px 15px / 15px 225px 15px 255px',
+                            boxShadow: '4px 6px 0px var(--primary-deep)',
+                            /* Jelly spring animation */
+                            transition: 'transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.2s',
+                            WebkitTapHighlightColor: 'transparent',
+                            userSelect: 'none',
+                            position: 'relative'
+                        }}
+                        onPointerDown={e => e.currentTarget.style.transform = 'scale(0.91)'}
+                        onPointerUp={e => e.currentTarget.style.transform = ''}
+                        onPointerLeave={e => e.currentTarget.style.transform = ''}
+                    >
+                        {/* Doodle pencil */}
+                        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="var(--primary-deep)" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" style={{ marginBottom: '10px', opacity: 0.7 }}>
+                            <path d="M12 20h9"></path>
+                            <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+                        </svg>
 
-                    <p className="handwritten" style={{ fontSize: '1.1rem', marginBottom: '6px', color: 'var(--primary-deep)' }}>
-                        Palavras dominadas: <strong>{masteredPool.length}</strong>
-                    </p>
-                    <p style={{ color: 'var(--text-soft)', fontSize: '0.85rem', marginBottom: '20px', lineHeight: '1.6' }}>
-                        10道随机填空题，仅凭中文例句和葡语语境作答。
-                    </p>
+                        <span className="handwritten" style={{
+                            fontSize: '2.6rem',
+                            fontWeight: 'bold',
+                            color: 'var(--primary-deep)',
+                            letterSpacing: '0.02em',
+                            lineHeight: 1
+                        }}>
+                            Vamos
+                        </span>
 
-                    {masteredPool.length === 0 ? (
-                        <div style={{ padding: '14px', border: '2px dashed var(--text-soft)', borderRadius: '8px', color: 'var(--text-soft)' }}>
-                            <p>还没有 Dominado 的单词</p>
-                            <p style={{ fontSize: '0.8rem', marginTop: '6px' }}>去 Aprender 页，打开单词详情 → 点击"Dominar"</p>
-                        </div>
-                    ) : (
-                        <button
-                            className="action-btn handwritten"
-                            style={{ width: '100%', padding: '14px', fontSize: '1rem', background: 'var(--primary-deep)', color: 'white', borderRadius: '10px' }}
-                            onClick={startExam}
-                        >
-                            Começar Exame
-                        </button>
-                    )}
-                </div>
+                        <span style={{
+                            fontSize: '0.78rem',
+                            color: 'var(--text-soft)',
+                            marginTop: '10px',
+                            fontFamily: 'var(--chinese-font)'
+                        }}>
+                            {examCount} 道题 · {count} 词
+                        </span>
+                    </button>
+                )}
             </div>
         );
     }

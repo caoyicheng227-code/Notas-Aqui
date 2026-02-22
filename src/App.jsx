@@ -192,7 +192,9 @@ function App() {
                 <div className="sailing-progress">
                     <div className="wave-line"></div>
                     <div className="boat-icon" style={{ left: `calc(${progressPercent}% - 16px)` }}>
-                        <IconBoat />
+                        <div className="boat-icon-inner">
+                            <IconBoat />
+                        </div>
                     </div>
                 </div>
 
