@@ -1,0 +1,314 @@
+[
+    {
+        "id": "A1_1",
+        "level": "A1",
+        "title": {
+            "pt": "A Minha Rotina",
+            "cn": "我的日常"
+        },
+        "content": [
+            {
+                "pt": "Olá, eu chamo-me Sofia e sou estudante.",
+                "cn": "你好，我叫索菲亚，是一名学生。"
+            },
+            {
+                "pt": "Todos os dias acordo às sete da manhã.",
+                "cn": "我每天早上七点起床。"
+            },
+            {
+                "pt": "Tomo o pequeno-almoço com a minha família.",
+                "cn": "我和家人一起吃早餐。"
+            },
+            {
+                "pt": "Gosto de comer pão com manteiga e beber leite.",
+                "cn": "我喜欢吃黄油面包和喝牛奶。"
+            }
+        ]
+    },
+    {
+        "id": "A1_2",
+        "level": "A1",
+        "title": {
+            "pt": "A Família de João",
+            "cn": "若昂的一家"
+        },
+        "content": [
+            {
+                "pt": "O João tem uma família grande.",
+                "cn": "若昂有一个大家庭。"
+            },
+            {
+                "pt": "Ele tem dois irmãos e uma irmã.",
+                "cn": "他有两个兄弟和一个姐妹。"
+            },
+            {
+                "pt": "O pai dele é professor numa escola perto de casa.",
+                "cn": "他的父亲是家附近一所学校的老师。"
+            },
+            {
+                "pt": "Aos domingos, eles vão ao parque juntos.",
+                "cn": "每逢星期天，他们一起去公园。"
+            }
+        ]
+    },
+    {
+        "id": "A2_1",
+        "level": "A2",
+        "title": {
+            "pt": "Uma Viagem a Lisboa",
+            "cn": "里斯本之旅"
+        },
+        "content": [
+            {
+                "pt": "No ano passado, viajei para Lisboa com os meus amigos.",
+                "cn": "去年，我和朋友们去了里斯本旅行。"
+            },
+            {
+                "pt": "Nós visitámos muitos monumentos históricos, como a Torre de Belém.",
+                "cn": "我们参观了许多历史古迹，比如贝伦塔。"
+            },
+            {
+                "pt": "A comida era deliciosa, especialmente os pastéis de nata.",
+                "cn": "食物非常美味，尤其是葡式蛋挞。"
+            },
+            {
+                "pt": "Andámos no elétrico 28 e vimos vistas maravilhosas da cidade.",
+                "cn": "我们乘坐了 28 路电车，看到了城市的美丽景色。"
+            }
+        ]
+    },
+    {
+        "id": "A2_2",
+        "level": "A2",
+        "title": {
+            "pt": "O Meu Fim de Semana",
+            "cn": "我的周末"
+        },
+        "content": [
+            {
+                "pt": "Geralmente, aproveito o fim de semana para descansar.",
+                "cn": "通常，我利用周末来休息。"
+            },
+            {
+                "pt": "No sábado de manhã, vou ao supermercado fazer compras.",
+                "cn": "星期六早上，我去超市买东西。"
+            },
+            {
+                "pt": "À tarde, gosto de ler um livro ou ver um filme em casa.",
+                "cn": "下午，我喜欢在家里看书或看电影。"
+            },
+            {
+                "pt": "No domingo, às vezes janto no restaurante com os meus pais.",
+                "cn": "星期天，有时我和父母在餐厅吃晚饭。"
+            }
+        ]
+    },
+    {
+        "id": "B1_1",
+        "level": "B1",
+        "title": {
+            "pt": "A Importância da Reciclagem",
+            "cn": "回收的重要性"
+        },
+        "content": [
+            {
+                "pt": "Atualmente, a proteção do meio ambiente é uma questão global urgente.",
+                "cn": "目前，环境保护是一个紧迫的全球性问题。"
+            },
+            {
+                "pt": "A reciclagem ajuda a reduzir a poluição e poupa recursos naturais.",
+                "cn": "回收有助于减少污染并节约自然资源。"
+            },
+            {
+                "pt": "Em Portugal, existem ecopontos com diferentes cores para separar o lixo.",
+                "cn": "在葡萄牙，有不同颜色的环保垃圾桶用来分类垃圾。"
+            },
+            {
+                "pt": "É um hábito simples que todos deveríamos adotar nas nossas casas.",
+                "cn": "这是一个我们每个人都应该在家里养成的一个简单习惯。"
+            }
+        ]
+    },
+    {
+        "id": "B1_2",
+        "level": "B1",
+        "title": {
+            "pt": "As Redes Sociais no Trabalho",
+            "cn": "工作中的社交网络"
+        },
+        "content": [
+            {
+                "pt": "As redes sociais mudaram a forma como comunicamos profissionalmente.",
+                "cn": "社交网络改变了我们职业交流的方式。"
+            },
+            {
+                "pt": "Por um lado, facilitam a partilha rápida de informações entre colegas.",
+                "cn": "一方面，它们促进了同事之间信息的快速共享。"
+            },
+            {
+                "pt": "Por outro lado, podem ser uma grande distração durante o horário laboral.",
+                "cn": "另一方面，它们在工作时间内可能是一种巨大的干扰。"
+            },
+            {
+                "pt": "O desafio é encontrar um equilíbrio saudável para manter a produtividade.",
+                "cn": "挑战在于找到健康的平衡点以维持生产力。"
+            }
+        ]
+    },
+    {
+        "id": "B2_1",
+        "level": "B2",
+        "title": {
+            "pt": "O Impacto da Inteligência Artificial",
+            "cn": "人工智能的影响"
+        },
+        "content": [
+            {
+                "pt": "A Inteligência Artificial (IA) está a transformar diversos setores da sociedade moderna.",
+                "cn": "人工智能 (IA) 正在改变现代社会的各个部门。"
+            },
+            {
+                "pt": "Desde a medicina à condução autónoma, os avanços tecnológicos são notáveis e prometedores.",
+                "cn": "从医学到自动驾驶，技术的进步显著且充满希望。"
+            },
+            {
+                "pt": "Contudo, surgem preocupações éticas sobre a privacidade dos dados e o futuro do emprego.",
+                "cn": "然而，关于数据隐私和就业未来的伦理担忧也随之出现。"
+            },
+            {
+                "pt": "É fundamental criar regulamentações que garantam um desenvolvimento seguro e responsável desta tecnologia.",
+                "cn": "必须制定法规以确保这项技术的安全和负责任的发展。"
+            }
+        ]
+    },
+    {
+        "id": "B2_2",
+        "level": "B2",
+        "title": {
+            "pt": "Desafios do Ensino à Distância",
+            "cn": "远程教育的挑战"
+        },
+        "content": [
+            {
+                "pt": "A transição para o ensino à distância exigiu uma adaptação rápida de professores e alunos.",
+                "cn": "向远程教学的过渡要求教师和学生迅速适应。"
+            },
+            {
+                "pt": "Uma das principais dificuldades é manter os alunos motivados e focados fora da sala de aula.",
+                "cn": "主要的困难之一是如何在教室外保持学生的动力和专注。"
+            },
+            {
+                "pt": "Além disso, a desigualdade no acesso a equipamentos informáticos e internet exacerbou disparidades sociais.",
+                "cn": "此外，获取电子设备和互联网的不平等加剧了社会差距。"
+            },
+            {
+                "pt": "Apesar dos obstáculos, as ferramentas digitais proporcionaram novas metodologias inovadoras de aprendizagem.",
+                "cn": "尽管存在障碍，数字工具还是提供了创新的新学习方法。"
+            }
+        ]
+    },
+    {
+        "id": "C1_1",
+        "level": "C1",
+        "title": {
+            "pt": "A Globalização e a Identidade Cultural",
+            "cn": "全球化与文化身份"
+        },
+        "content": [
+            {
+                "pt": "A globalização, ao fomentar a interconexão económica, desencadeou um fluxo sem precedentes de influências culturais.",
+                "cn": "全球化在促进经济互联互通的同时，引发了前所未有的文化影响流。"
+            },
+            {
+                "pt": "Este fenómeno tem a dupla vertente de enriquecer sociedades através do multiculturalismo, mas também ameaça homogeneizar as tradições locais.",
+                "cn": "这一现象具有双重性：既通过多元文化主义丰富了社会，又威胁到同化地方传统。"
+            },
+            {
+                "pt": "O debate contemporâneo recai sobre a capacidade das nações de integrar a modernidade sem comprometerem a sua herança intrínseca.",
+                "cn": "当代辩论围绕着国家整合现代性而不损害其固有遗产的能力。"
+            },
+            {
+                "pt": "Preservar a identidade cultural obriga a políticas proativas de valorização do património imaterial frente à massificação do consumo.",
+                "cn": "在消费的全球化面前，保护文化认同需要采取积极主动的非物质遗产增值政策。"
+            }
+        ]
+    },
+    {
+        "id": "C1_2",
+        "level": "C1",
+        "title": {
+            "pt": "Sustentabilidade Macroeconómica",
+            "cn": "宏观经济可持续性"
+        },
+        "content": [
+            {
+                "pt": "A transição para uma economia verde acarreta desafios inerentes à reestruturação dos paradigmas de produção e consumo globais.",
+                "cn": "向绿色经济的过渡带来了与重构全球生产和消费范式相关的内在挑战。"
+            },
+            {
+                "pt": "Os formuladores de políticas debatem-se com o dilema de implementar taxas de carbono sem asfixiar o crescimento das indústrias emergentes.",
+                "cn": "政策制定者在实施碳排放税而不扼杀新兴产业发展的两难境地中挣扎。"
+            },
+            {
+                "pt": "Além disso, a cooperação internacional é imperativa, dado que as externalidades ambientais transcendem as fronteiras geopolíticas.",
+                "cn": "此外，由于环境外部性超越地缘政治边界，因此国际合作势在必行。"
+            },
+            {
+                "pt": "A resiliência económica a longo prazo dependerá invariavelmente da simbiose entre inovação tecnológica e responsabilidade ecológica.",
+                "cn": "长期的经济韧性将始终取决于技术创新与生态责任之间的共生。"
+            }
+        ]
+    },
+    {
+        "id": "C2_1",
+        "level": "C2",
+        "title": {
+            "pt": "O Existencialismo na Literatura Lusófona",
+            "cn": "葡语文学中的存在主义"
+        },
+        "content": [
+            {
+                "pt": "O questionamento ontológico e a angústia perante a finitude permeiam as obras mais densas da literatura contemporânea lusófona.",
+                "cn": "对本体论的探寻和面对有限性的焦虑弥漫在当代葡语文学的厚重作品中。"
+            },
+            {
+                "pt": "Autores têm escrutinado a condição humana, desnudando a alienação do indivíduo submerso numa modernidade efémera e paradoxal.",
+                "cn": "作家们审视了人类的境遇，揭示了个人沉迷于短暂和悖论的现代性中的疏离感。"
+            },
+            {
+                "pt": "Esta dissecação metafísica transcende o mero desencanto, postulando a busca incessante por sentido num universo intrinsecamente absurdo.",
+                "cn": "这种形而上学的解剖超越了单纯的幻灭，它假设在一个本质上荒谬的宇宙中不断寻找意义。"
+            },
+            {
+                "pt": "Através de uma prosa intricada, a narrativa literária converte-se num espelho impiedoso onde a efemeridade da existência é impavidamente exposta.",
+                "cn": "通过错综复杂的散文，文学叙事变成了一面无情的镜子，存在之短暂在其中被毫不畏惧地暴露出来。"
+            }
+        ]
+    },
+    {
+        "id": "C2_2",
+        "level": "C2",
+        "title": {
+            "pt": "Implicações Éticas da Edição Genética",
+            "cn": "基因编辑的伦理影响"
+        },
+        "content": [
+            {
+                "pt": "O advento da técnica CRISPR despoletou um escrutínio ético sem precedentes relativamente à manipulação do genoma humano.",
+                "cn": "CRISPR 技术的出现引发了对人类基因组操纵前所未有的伦理审查。"
+            },
+            {
+                "pt": "Enquanto a promessa de erradicar patologias hereditárias é um ímpeto formidável, o espetro do aprimoramento genético suscita dilemas morais acérrimos.",
+                "cn": "虽然根除遗传疾病的承诺是一个巨大的动力，但基因强化的隐忧引发了激烈的道德困境。"
+            },
+            {
+                "pt": "Teme-se que o acesso díspar a tais biotecnologias catalise uma clivagem ontológica, cimentando estratificações sociais inultrapassáveis.",
+                "cn": "人们担心，这些生物技术获取的不平等会催化本体论的分歧，巩固不可逾越的社会阶层分化。"
+            },
+            {
+                "pt": "Por conseguinte, imperam debates bioéticos exaustivos para forjar um arquétipo normativo que salvaguarde a intrínseca dignidade humana face à manipulação biológica.",
+                "cn": "因此，亟需进行详尽的生命伦理辩论，以建立一种规范性原型，在面对生物操纵时维护人类固有的尊严。"
+            }
+        ]
+    }
+]

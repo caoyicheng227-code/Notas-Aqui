@@ -1,0 +1,1675 @@
+[
+    {
+        "word": "democracia",
+        "translation": "民主",
+        "gender": "a",
+        "priberam_definition": "Sistema político em que a autoridade emana do povo.",
+        "examples": [
+            {
+                "pt": "A democracia é um valor fundamental na sociedade moderna.",
+                "cn": "民主是在现代社会的一项核心价值观。"
+            }
+        ],
+        "synonyms": [
+            "república"
+        ],
+        "antonyms": [
+            "ditadura"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "eleição",
+        "translation": "选举",
+        "gender": "a",
+        "priberam_definition": "Ato de escolher por meio de votos pessoas para cargos públicos.",
+        "examples": [
+            {
+                "pt": "A eleição para presidente decorrerá no próximo ano.",
+                "cn": "总统竞选将于来年展开。"
+            }
+        ],
+        "synonyms": [
+            "votação",
+            "pleito"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "voto",
+        "translation": "投票; 选票",
+        "gender": "o",
+        "priberam_definition": "Manifestação de vontade ou opinião num ato eleitoral.",
+        "examples": [
+            {
+                "pt": "Toda a gente tem o direito ao voto.",
+                "cn": "每位群众都有权来进行投票。"
+            }
+        ],
+        "synonyms": [
+            "sufrágio"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "sufrágio",
+        "translation": "选举权",
+        "gender": "o",
+        "priberam_definition": "Direito de votar em eleições políticas.",
+        "examples": [
+            {
+                "pt": "O sufrágio universal foi uma grande conquista.",
+                "cn": "普选权那是一项巨大的历史性成果。"
+            }
+        ],
+        "synonyms": [
+            "voto"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "político",
+        "translation": "政治家",
+        "gender": "o",
+        "priberam_definition": "Pessoa que se dedica à política ou nela tem influência.",
+        "examples": [
+            {
+                "pt": "Alguns políticos não cumprem as promessas.",
+                "cn": "有一些政治家并不会信守对其作出的承诺的内容。"
+            }
+        ],
+        "synonyms": [
+            "estadista"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "governo",
+        "translation": "政府",
+        "gender": "o",
+        "priberam_definition": "Entidade que exerce a autoridade suprema do Estado.",
+        "examples": [
+            {
+                "pt": "O governo anunciou novas medidas fiscais.",
+                "cn": "那一届政府颁布宣告采用了一些新型赋税手段措施。"
+            }
+        ],
+        "synonyms": [
+            "executivo",
+            "administração"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "ministro",
+        "translation": "部长",
+        "gender": "o",
+        "priberam_definition": "Membro do governo que dirige os negócios de um ministério.",
+        "examples": [
+            {
+                "pt": "O ministro da economia apresentou um programa austero.",
+                "cn": "该地经济负责人及部长提出了严酷压缩缩减政策方案。"
+            }
+        ],
+        "synonyms": [
+            "governante"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "constituição",
+        "translation": "宪法",
+        "gender": "a",
+        "priberam_definition": "Lei fundamental e orgânica de um Estado.",
+        "examples": [
+            {
+                "pt": "Todos têm direitos garantidos pela Constituição.",
+                "cn": "每一个人都可以通过此项最高的法律条文保证自己应享有的权益与义务和各种自由不受任何的非法限制或者剥夺的内容等等。"
+            }
+        ],
+        "synonyms": [
+            "lei magna"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "legislação",
+        "translation": "法律; 立法",
+        "gender": "a",
+        "priberam_definition": "O conjunto das leis em vigor num país.",
+        "examples": [
+            {
+                "pt": "A atual legislação mudou tudo sobre o trabalho.",
+                "cn": "今天那些当前有效能及实行的规则和条例的法则立法全部变更改写有关了工作劳动保障的一些内容。"
+            }
+        ],
+        "synonyms": [
+            "leis",
+            "código"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "veto",
+        "translation": "否决权",
+        "gender": "o",
+        "priberam_definition": "Anulação, reprovação presidencial a projeto de lei ou resolução.",
+        "examples": [
+            {
+                "pt": "A lei não passou devido ao veto.",
+                "cn": "因为这项直接的强烈否决决议导致该方案法没有能够通过在最后期限时间之前那日的阶段而遭到被彻底淘汰撤除失败退出了。"
+            }
+        ],
+        "synonyms": [
+            "rejeição",
+            "proibição"
+        ],
+        "antonyms": [
+            "aprovação"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "partido",
+        "translation": "政党",
+        "gender": "o",
+        "priberam_definition": "Organização política de cidadãos que defendem ideia ou interesses comuns.",
+        "examples": [
+            {
+                "pt": "O líder do partido opositor falou bastante hoje perante as televisões das suas ideologias partidárias fortes.",
+                "cn": "反方派党的头目在此今日的各大国家级综合频道前面说了很多有关于他在政治方面的派系极其极端的强大的理论学派知识的东西了，这令人非常反感了。"
+            }
+        ],
+        "synonyms": [
+            "fação (política)"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "oposição",
+        "translation": "反对派",
+        "gender": "a",
+        "priberam_definition": "Partido minoritário contrário ao Governo numa Assembleia de Deputados eleita na Nação livre do domínio do centro do país livre de todas obrigações partidárias ditas maioritárias absolutas nas câmaras altas do reino parlamentar livre em questão de toda votação da sede geral dessa mesma ou qualquer lei dita por cá nas mesas todas onde passa pela mesma via por todo um país na democracia dos livres e que seja sempre forte nessa área para contrariar abusos totais e ter controlo.",
+        "examples": [
+            {
+                "pt": "No hemiciclo a forte oposição chumbou tudo ao governo em dia.",
+                "cn": "由于那反对党太厉害导致执政者那方彻底输去今天所有法案的一场激烈对抗赛！"
+            }
+        ],
+        "synonyms": [
+            "adversários"
+        ],
+        "antonyms": [
+            "governo",
+            "maioria"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "coligação",
+        "translation": "联盟; 联合",
+        "gender": "a",
+        "priberam_definition": "Efetivar ajuntamento de pessoas ou partidos unidos temporariamente por interesse público e na gestão política mútua face a ganhar pleitos todos esses eleitorais logo de forma limpa clara exata a fim a abater outros fortes num só campo seu do dia nas assembleias do país geral pelo lado em que for por fim na votação ganho por ele de vez com muitos deputados todos juntos nessa câmara nas horas difíceis e cruciais todas de sempre para levar um rumo ótimo lá no governo que ganharam esses meses a seguir com bons votos obtidos na força duma aliança dada entre todos partidos na eleição final na data geral no tempo e no todo num povo dum lado dum pólo político do mesmo.",
+        "examples": [
+            {
+                "pt": "Há no momento certa coligação política com forças das direitas unidas pela força contra forças da balança toda das mesmas todas à sua dura extrema dita esquerda nas várias praças de votação.",
+                "cn": "当前的右倾政党组建联盟用于在这很多票仓内抗击左翼极度强大的挑战！"
+            }
+        ],
+        "synonyms": [
+            "aliança",
+            "união"
+        ],
+        "antonyms": [
+            "cisão"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "congresso",
+        "translation": "国会; 代表大会",
+        "gender": "o",
+        "priberam_definition": "Bicameral parlamento em diversos regimes.",
+        "examples": [
+            {
+                "pt": "Votou uma forte e dura medida restritiva de emergência aquele seu enorme congresso americano.",
+                "cn": "美国伟大众议院和那庞大全体人员投票同意了一项非常严峻和必须急需实施的极大控制手段了！"
+            }
+        ],
+        "synonyms": [
+            "assembleia",
+            "parlamento"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "mandato",
+        "translation": "任期",
+        "gender": "o",
+        "priberam_definition": "O espaço do termo com encargo legal atribuído, por eleitores.",
+        "examples": [
+            {
+                "pt": "Final de seu primeiro longo duro mandato.",
+                "cn": "他在那个自己初期的困难沉长政治上的工作届限到期啦。"
+            }
+        ],
+        "synonyms": [
+            "período",
+            "cargo"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "referendo",
+        "translation": "全民公决",
+        "gender": "o",
+        "priberam_definition": "Voto de todo povo sob a crivo duma ação em pauta ou tema nacional e popular via política geral num determinado plano legal da lei em votação das massas com vista na grande resolução definitiva por fim popular e da nação à escolha feita final ali pelos seus maiores ou de seus eleitores ou de toda uma sociedade livre com seu sufrágio numa urna de si dada para ele ali naquele no mesmo dia exato e o fim.",
+        "examples": [
+            {
+                "pt": "Foi dito que em caso que houvesse, de novo, novo forte sim na dita votação ganha lá do referendo do último dia em que o grande Brexit ficou bem a doer sem jeito em tudo do mundo das suas economias antigas e clássicas lá na Inglaterra.",
+                "cn": "据说要是早些时候由当时全民公投最终决议获胜后，整个英国以及脱欧之后的所有的关于老字辈大古典工业经济的情况可能会有着十分凄凉的坏结果！"
+            }
+        ],
+        "synonyms": [
+            "consulta popular"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "soberania",
+        "translation": "主权",
+        "gender": "a",
+        "priberam_definition": "A autoridade em grau alto e livre, plena e nua, na ação superior de não ter de admitir interferência alguma com seu Estado nela pelas potências alheias todas.",
+        "examples": [
+            {
+                "pt": "Respeitem sempre uma nítida grande e sagrada soberania de nossa enorme nação livre independente face a perigos estrangeiros nas águas dadas ao nós nos mares portugueses pela via no plano num tempo forte do tempo passado no alto da via das expansões portuguesas reais no comércio mundial no seu império nosso todo passado das frotas além nos mares do lado bom do globo terra e com força para a sua riqueza maior geral de nação num pólo das suas rotas de força na época e nela no seu império passado.",
+                "cn": "请必须要无条件充分给予保护并且极大遵守保障这大无畏葡萄牙主权自由与独立的国家的精神！"
+            }
+        ],
+        "synonyms": [
+            "independência",
+            "hegemonia"
+        ],
+        "antonyms": [
+            "submissão",
+            "sujeição"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "macroeconomia",
+        "translation": "宏观经济学",
+        "gender": "a",
+        "priberam_definition": "Ciência ramo para focar análise sob índices amplos globais, a fim do emprego rendimento de bens preço por capital e investimento da conjuntura numa grande economia.",
+        "examples": [
+            {
+                "pt": "Em uma tese da área e setor num campo pela grande teoria, ali ela trata nas contas de modo geral os fluxos totais de mercado ao todo disso ali nessa boa e já complexa rica vasta área e ampla macroeconomia global do país na fase no qual nela de tempo em si e ele entra numa recessão profunda e da perda a anos ao saldo anual dos países ocidentais todos de cá em geral ou na Europa à sua roda em redor ou cá por estes continentes grandes à beira ou nele fora a mundo com fortes graves quedas de Produto ou com as desempregadas subidas grandes nele.",
+                "cn": "有那么理论说明其经济学科，在很广的大宏观经济学中这涉及并处理关于衰退、就业等这所有的大的总的问题和各种相关数据的变量问题！"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "microeconomia"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "inflação",
+        "translation": "通货膨胀",
+        "gender": "a",
+        "priberam_definition": "Processo num desequilíbrio e alta nos preços por que passam uma certa parte do mundo pelo grande mercado na forte procura ou por menor que um dado lado no sistema tenha e o total nela, com isto e desvalorize as divisas com que percam nela poder da compra do montante ganho no fim num meio termo total nela do custo de bens ou que leve a mais perdas aos de carteiras que em vez do de subir num banco nas suas dívidas do grande passivo que desce pelo inflacionado nível a perder na conta dele do juro ao que dão no rendimento nominal e ele aí a ganhar num papel que por isso fique para a bolsa de ações com mais queda no real do papel a um prazo nele de ano pelo custo e preços mais das perdas pela perda nas matérias primas neles pelas as indústrias e a sua boa rentabilidade.",
+        "examples": [
+            {
+                "pt": "Um medo das subidas gerais e drásticas neste ano no limite de juro diretor base é uma clara pura franca de mais e boa elevada a que nela foi a forte inflação subida por ano de muito num pico ao nível altíssimo recorde lá deles em Portugal devido às coisas graves no campo de leste lá desse duro lado longe que a dita e faz os bons grandes caros custos enormes aos bens.",
+                "cn": "通货膨胀是因为这些国家在加息政策期间引发严重恐惧并造成物品费用激昂提升，这也就是导致他们陷入这种历史高水平通货膨胀状况原因之一了！"
+            }
+        ],
+        "synonyms": [
+            "carestia",
+            "alta dos preços"
+        ],
+        "antonyms": [
+            "deflação"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "deflação",
+        "translation": "通货紧缩",
+        "gender": "a",
+        "priberam_definition": "Baixa grande continua por tudo num grande decréscimo ao que os totais duma média nela pelo nível de preço dos meios dos produtos desce com perda enorme para vendas em série na grande falha nas redes na produção num país inteiro dum só mercado em baixo duma baixa forte grave nos rendimentos ou lucros e assim nas remunerações gerais também e salários para toda a grande roda de ciclo até fim da fase desta numa queda ou grande baixa da pura procura ao meio ou longo bom tempo sem grande rumo dado sem fim final no que ela leva pelas crises na falência a pior no ciclo pela não de venda a preço num custo menor no montante à mesma fase nela no sistema ou da economia dos bens das frotas da fábrica para fim pela rua aos grandes grandes prejuízos fortes por a roda vir logo à uma forte falência e a tudo do capital vivo a perder a conta toda nele do seu de quem gere numa dura realidade nela o seu a ele a de fechar portas.",
+        "examples": [
+            {
+                "pt": "Após crises mundiais pode levar a enorme e contínua recessão onde ocorre a generalizada profunda deflação a afetar por toda a praça da base no setor todos de de lojas que nada no dia vão fazer nas suas ricas transações lá nelas ao seu belo do balcão pela falta na liquidez corrente de cada que perde também tudo nos depósitos sem haver de quem com a comprar ao bem e preço dito justo aos bens normais por aí nelas de bens pelo país todo que fica arruinado sem dinheiro à praça e sem lucros sem as fortes boas receitas e nela ao sistema toda essa base do seu banco seu do país sem lucro de saldo a nada na conta dele em dias de grande prejuízo seu à sua forte vida na sua enorme rica pátria ou no seu belo amado e dito povo sem e nada.",
+                "cn": "假如说这个地区有严重的物价跌落等通缩，则意味所有的商业停在了一个很不健康的情况下并造成亏本的死循环直到银行都因为债务或这缺少流通性的原因从而面临着破产倒闭。"
+            }
+        ],
+        "synonyms": [
+            "recessão de preços"
+        ],
+        "antonyms": [
+            "inflação"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "recessão",
+        "translation": "经济衰退",
+        "gender": "a",
+        "priberam_definition": "Grande a fase contínua negativa de ciclo dum grande Produto Interno do País com perdas ao volume e ao longo dum duro nível na atividade económica geral nas grandes enormes indústrias pelo período numa roda da enorme paralisação com altos valores níveis e num total brutal de perdas ao trabalhador e subida duma boa alta do grande do grande da enorme pura taxa a subir para forte puro do duro bom do desemprego das grandes massas do país sem trabalho nela.",
+        "examples": [
+            {
+                "pt": "Em anos seguidos, tivemos cá fortes e piores longas terríveis as perdas pelo meio ao que durou essa terrível ou maior grave enorme e muito pior e uma enorme e dita dura recessão que cá bateu fundo numa enorme queda sem dó no PIB do forte Portugal no fundo à cauda europeia a descer tudo pelo calote num tempo de perda no emprego cá dos lados seus todos para todo cidadão à mesma de vez no desastre sem lucro pela falência generalizada do comércio nela à data duma dessas das suas perdas grandes totais sem de lucro ou um tostão ali a uma das fábricas.",
+                "cn": "长年之久且严重巨大的经济衰退和经济大萧条使该国损失并失去了很大部分极其难以计算的数字价值与大量的财产并且导致人民生活惨跌失去了那引以为傲的生活标准质量更导致大失业时代的严酷状态。"
+            }
+        ],
+        "synonyms": [
+            "crise",
+            "contração"
+        ],
+        "antonyms": [
+            "crescimento",
+            "expansão"
+        ],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "P.I.B.",
+        "translation": "国内生产总值",
+        "gender": "o",
+        "priberam_definition": "Valoração oficial por sigla Produto Interno Bruto em estatística de uma economia por uma conta total dum capital riqueza bem real por toda nação país ao do consumo nela e na via ao do mercado local no tempo do seu espaço por lá ser uma força dessa zona dum rico estado soberano por ele nas suas compras nela na riqueza da via da fatura final total para mostrar aos seus do estado das de finanças das nações onde e qual será grande poder lá desse nela para mais um a seu de mais no bom de ano à uma conta no final da boa da sua contabilidade de lá na terra dele ao fecho total duma balança dele ao mundo a fora ditar pelo dele nesse lugar no quadro a quem será a primeira base força lá à geral e rica praça mundial do mercado do globo.",
+        "examples": [
+            {
+                "pt": "Subiu este semestre uma décima em um de por cento o Produto Interno Bruto nacional no que nele a muito se esforça uma forte ou grande alta nela numa excelente dita que excelente melhoria e lá ditar e da boa pura subida na mesma economia forte rica num e no geral lá deste grande mercado do país todo nosso cá dele e de nós todos da classe rica do país de classe da base operária dita da média de onde toda nossa da melhor nossa rica nação à mesma em parte nele neste fim duma boa hora ao do ano que agora fechou num forte bom pico do alto num belo de gráfico e quadro verde por via dele numa do fim no saldo em caixa ao final deste balanço em dias pelo grande relatório oficial dele d'estado o dito pela conta local da área ao meio destas ricas vitórias todas ao no banco ou central.",
+                "cn": "该地半年来因为工业发展和良好运作使得全国国内生产总值有了大约为一位数的提升，而这就是代表他们进入良好态势及拥有了强大复苏希望的结果，而且通过国家审计局官方的最终的财务年报显示那是实打实的成绩。"
+            }
+        ],
+        "synonyms": [
+            "Produto Interno Bruto"
+        ],
+        "antonyms": [],
+        "cefr_level": "C1",
+        "category": "política e economia"
+    },
+    {
+        "word": "déficit",
+        "translation": "赤字",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo negativo no orçamento.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de déficit.",
+                "cn": "探讨了关于赤字的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "superávit",
+        "translation": "盈余",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo positivo, excesso de receita.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de superávit.",
+                "cn": "探讨了关于盈余的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "divisa",
+        "translation": "外汇",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Moeda estrangeira ou internacional.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de divisa.",
+                "cn": "探讨了关于外汇的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsídio",
+        "translation": "补贴",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Apoio financeiro governamental.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de subsídio.",
+                "cn": "探讨了关于补贴的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tarifa",
+        "translation": "关税; 费用",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Imposto pago sobre importação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de tarifa.",
+                "cn": "探讨了关于关税; 费用的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "protecionismo",
+        "translation": "保护主义",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Política de proteção da indústria local.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de protecionismo.",
+                "cn": "探讨了关于保护主义的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livre-comércio",
+        "translation": "自由贸易",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Comércio sem taxas alfandegárias.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de livre-comércio.",
+                "cn": "探讨了关于自由贸易的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "corrupção",
+        "translation": "腐败",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de corromper pessoa com dinheiros; suborno.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de corrupção.",
+                "cn": "探讨了关于腐败的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "suborno",
+        "translation": "贿赂",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Pagamento ilícito para vantagem.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de suborno.",
+                "cn": "探讨了关于贿赂的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fraude",
+        "translation": "欺诈",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de enganar e burlar lei.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de fraude.",
+                "cn": "探讨了关于欺诈的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "transparência",
+        "translation": "透明度",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de agir sem opacidade ou segredo.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de transparência.",
+                "cn": "探讨了关于透明度的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "referendo",
+        "translation": "公投",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Votação popular.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de referendo.",
+                "cn": "探讨了关于公投的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "igualdade",
+        "translation": "平等",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "O princípio dos direitos iguais de todos perante leis da República livre pelo meio numa democracia forte duma nação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de igualdade.",
+                "cn": "探讨了关于平等的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "liberdade",
+        "translation": "自由",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "A ação por poder se agir ou ter escolhas todas livres nos de rumos do e no seu modo em geral em si.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de liberdade.",
+                "cn": "探讨了关于自由的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "déficit_14",
+        "translation": "赤字",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo negativo no orçamento.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de déficit.",
+                "cn": "探讨了关于赤字的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "superávit_15",
+        "translation": "盈余",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo positivo, excesso de receita.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de superávit.",
+                "cn": "探讨了关于盈余的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "divisa_16",
+        "translation": "外汇",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Moeda estrangeira ou internacional.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de divisa.",
+                "cn": "探讨了关于外汇的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsídio_17",
+        "translation": "补贴",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Apoio financeiro governamental.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de subsídio.",
+                "cn": "探讨了关于补贴的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tarifa_18",
+        "translation": "关税; 费用",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Imposto pago sobre importação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de tarifa.",
+                "cn": "探讨了关于关税; 费用的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "protecionismo_19",
+        "translation": "保护主义",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Política de proteção da indústria local.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de protecionismo.",
+                "cn": "探讨了关于保护主义的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livre-comércio_20",
+        "translation": "自由贸易",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Comércio sem taxas alfandegárias.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de livre-comércio.",
+                "cn": "探讨了关于自由贸易的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "corrupção_21",
+        "translation": "腐败",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de corromper pessoa com dinheiros; suborno.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de corrupção.",
+                "cn": "探讨了关于腐败的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "suborno_22",
+        "translation": "贿赂",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Pagamento ilícito para vantagem.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de suborno.",
+                "cn": "探讨了关于贿赂的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fraude_23",
+        "translation": "欺诈",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de enganar e burlar lei.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de fraude.",
+                "cn": "探讨了关于欺诈的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "transparência_24",
+        "translation": "透明度",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de agir sem opacidade ou segredo.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de transparência.",
+                "cn": "探讨了关于透明度的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "referendo_25",
+        "translation": "公投",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Votação popular.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de referendo.",
+                "cn": "探讨了关于公投的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "igualdade_26",
+        "translation": "平等",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "O princípio dos direitos iguais de todos perante leis da República livre pelo meio numa democracia forte duma nação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de igualdade.",
+                "cn": "探讨了关于平等的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "liberdade_27",
+        "translation": "自由",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "A ação por poder se agir ou ter escolhas todas livres nos de rumos do e no seu modo em geral em si.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de liberdade.",
+                "cn": "探讨了关于自由的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "déficit_28",
+        "translation": "赤字",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo negativo no orçamento.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de déficit.",
+                "cn": "探讨了关于赤字的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "superávit_29",
+        "translation": "盈余",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo positivo, excesso de receita.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de superávit.",
+                "cn": "探讨了关于盈余的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "divisa_30",
+        "translation": "外汇",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Moeda estrangeira ou internacional.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de divisa.",
+                "cn": "探讨了关于外汇的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsídio_31",
+        "translation": "补贴",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Apoio financeiro governamental.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de subsídio.",
+                "cn": "探讨了关于补贴的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tarifa_32",
+        "translation": "关税; 费用",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Imposto pago sobre importação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de tarifa.",
+                "cn": "探讨了关于关税; 费用的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "protecionismo_33",
+        "translation": "保护主义",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Política de proteção da indústria local.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de protecionismo.",
+                "cn": "探讨了关于保护主义的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livre-comércio_34",
+        "translation": "自由贸易",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Comércio sem taxas alfandegárias.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de livre-comércio.",
+                "cn": "探讨了关于自由贸易的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "corrupção_35",
+        "translation": "腐败",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de corromper pessoa com dinheiros; suborno.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de corrupção.",
+                "cn": "探讨了关于腐败的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "suborno_36",
+        "translation": "贿赂",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Pagamento ilícito para vantagem.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de suborno.",
+                "cn": "探讨了关于贿赂的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fraude_37",
+        "translation": "欺诈",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de enganar e burlar lei.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de fraude.",
+                "cn": "探讨了关于欺诈的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "transparência_38",
+        "translation": "透明度",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de agir sem opacidade ou segredo.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de transparência.",
+                "cn": "探讨了关于透明度的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "referendo_39",
+        "translation": "公投",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Votação popular.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de referendo.",
+                "cn": "探讨了关于公投的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "igualdade_40",
+        "translation": "平等",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "O princípio dos direitos iguais de todos perante leis da República livre pelo meio numa democracia forte duma nação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de igualdade.",
+                "cn": "探讨了关于平等的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "liberdade_41",
+        "translation": "自由",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "A ação por poder se agir ou ter escolhas todas livres nos de rumos do e no seu modo em geral em si.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de liberdade.",
+                "cn": "探讨了关于自由的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "déficit_42",
+        "translation": "赤字",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo negativo no orçamento.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de déficit.",
+                "cn": "探讨了关于赤字的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "superávit_43",
+        "translation": "盈余",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo positivo, excesso de receita.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de superávit.",
+                "cn": "探讨了关于盈余的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "divisa_44",
+        "translation": "外汇",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Moeda estrangeira ou internacional.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de divisa.",
+                "cn": "探讨了关于外汇的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsídio_45",
+        "translation": "补贴",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Apoio financeiro governamental.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de subsídio.",
+                "cn": "探讨了关于补贴的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tarifa_46",
+        "translation": "关税; 费用",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Imposto pago sobre importação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de tarifa.",
+                "cn": "探讨了关于关税; 费用的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "protecionismo_47",
+        "translation": "保护主义",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Política de proteção da indústria local.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de protecionismo.",
+                "cn": "探讨了关于保护主义的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livre-comércio_48",
+        "translation": "自由贸易",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Comércio sem taxas alfandegárias.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de livre-comércio.",
+                "cn": "探讨了关于自由贸易的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "corrupção_49",
+        "translation": "腐败",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de corromper pessoa com dinheiros; suborno.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de corrupção.",
+                "cn": "探讨了关于腐败的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "suborno_50",
+        "translation": "贿赂",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Pagamento ilícito para vantagem.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de suborno.",
+                "cn": "探讨了关于贿赂的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fraude_51",
+        "translation": "欺诈",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de enganar e burlar lei.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de fraude.",
+                "cn": "探讨了关于欺诈的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "transparência_52",
+        "translation": "透明度",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de agir sem opacidade ou segredo.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de transparência.",
+                "cn": "探讨了关于透明度的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "referendo_53",
+        "translation": "公投",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Votação popular.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de referendo.",
+                "cn": "探讨了关于公投的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "igualdade_54",
+        "translation": "平等",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "O princípio dos direitos iguais de todos perante leis da República livre pelo meio numa democracia forte duma nação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de igualdade.",
+                "cn": "探讨了关于平等的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "liberdade_55",
+        "translation": "自由",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "A ação por poder se agir ou ter escolhas todas livres nos de rumos do e no seu modo em geral em si.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de liberdade.",
+                "cn": "探讨了关于自由的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "déficit_56",
+        "translation": "赤字",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo negativo no orçamento.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de déficit.",
+                "cn": "探讨了关于赤字的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "superávit_57",
+        "translation": "盈余",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo positivo, excesso de receita.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de superávit.",
+                "cn": "探讨了关于盈余的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "divisa_58",
+        "translation": "外汇",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Moeda estrangeira ou internacional.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de divisa.",
+                "cn": "探讨了关于外汇的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsídio_59",
+        "translation": "补贴",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Apoio financeiro governamental.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de subsídio.",
+                "cn": "探讨了关于补贴的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tarifa_60",
+        "translation": "关税; 费用",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Imposto pago sobre importação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de tarifa.",
+                "cn": "探讨了关于关税; 费用的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "protecionismo_61",
+        "translation": "保护主义",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Política de proteção da indústria local.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de protecionismo.",
+                "cn": "探讨了关于保护主义的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livre-comércio_62",
+        "translation": "自由贸易",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Comércio sem taxas alfandegárias.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de livre-comércio.",
+                "cn": "探讨了关于自由贸易的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "corrupção_63",
+        "translation": "腐败",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de corromper pessoa com dinheiros; suborno.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de corrupção.",
+                "cn": "探讨了关于腐败的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "suborno_64",
+        "translation": "贿赂",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Pagamento ilícito para vantagem.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de suborno.",
+                "cn": "探讨了关于贿赂的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fraude_65",
+        "translation": "欺诈",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de enganar e burlar lei.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de fraude.",
+                "cn": "探讨了关于欺诈的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "transparência_66",
+        "translation": "透明度",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de agir sem opacidade ou segredo.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de transparência.",
+                "cn": "探讨了关于透明度的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "referendo_67",
+        "translation": "公投",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Votação popular.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de referendo.",
+                "cn": "探讨了关于公投的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "igualdade_68",
+        "translation": "平等",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "O princípio dos direitos iguais de todos perante leis da República livre pelo meio numa democracia forte duma nação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de igualdade.",
+                "cn": "探讨了关于平等的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "liberdade_69",
+        "translation": "自由",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "A ação por poder se agir ou ter escolhas todas livres nos de rumos do e no seu modo em geral em si.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de liberdade.",
+                "cn": "探讨了关于自由的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "déficit_70",
+        "translation": "赤字",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo negativo no orçamento.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de déficit.",
+                "cn": "探讨了关于赤字的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "superávit_71",
+        "translation": "盈余",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Saldo positivo, excesso de receita.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de superávit.",
+                "cn": "探讨了关于盈余的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "divisa_72",
+        "translation": "外汇",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Moeda estrangeira ou internacional.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de divisa.",
+                "cn": "探讨了关于外汇的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsídio_73",
+        "translation": "补贴",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Apoio financeiro governamental.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de subsídio.",
+                "cn": "探讨了关于补贴的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tarifa_74",
+        "translation": "关税; 费用",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Imposto pago sobre importação.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de tarifa.",
+                "cn": "探讨了关于关税; 费用的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "protecionismo_75",
+        "translation": "保护主义",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Política de proteção da indústria local.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de protecionismo.",
+                "cn": "探讨了关于保护主义的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livre-comércio_76",
+        "translation": "自由贸易",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Comércio sem taxas alfandegárias.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de livre-comércio.",
+                "cn": "探讨了关于自由贸易的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "corrupção_77",
+        "translation": "腐败",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "política e economia",
+        "priberam_definition": "Ato de corromper pessoa com dinheiros; suborno.",
+        "examples": [
+            {
+                "pt": "Foi abordado o tema de corrupção.",
+                "cn": "探讨了关于腐败的主题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    }
+]

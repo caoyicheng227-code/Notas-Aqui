@@ -1,0 +1,1602 @@
+[
+    {
+        "word": "loja",
+        "translation": "商店",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Estabelecimento comercial.",
+        "examples": [
+            {
+                "pt": "Eu vou à loja.",
+                "cn": "我要去商店。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "mercado",
+        "translation": "市场",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Lugar onde se compra e vende.",
+        "examples": [
+            {
+                "pt": "Feira no mercado.",
+                "cn": "市场上公平。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "supermercado",
+        "translation": "超市",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Grande mercado com autosserviço.",
+        "examples": [
+            {
+                "pt": "Compras no supermercado.",
+                "cn": "在超市购物。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "padaria",
+        "translation": "面包店",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Loja que vende pão.",
+        "examples": [
+            {
+                "pt": "Pão fresco na padaria.",
+                "cn": "面包店的新鲜面包。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "talho",
+        "translation": "肉店",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Loja onde se vende carne.",
+        "examples": [
+            {
+                "pt": "Comprar bifes no talho.",
+                "cn": "去肉店买牛排。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "farmácia",
+        "translation": "药店",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Estabelecimento onde se vendem medicamentos.",
+        "examples": [
+            {
+                "pt": "Comprar remédios na farmácia.",
+                "cn": "在药房购买药品。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "dinheiro",
+        "translation": "钱",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Moeda de troca.",
+        "examples": [
+            {
+                "pt": "Não tenho dinheiro.",
+                "cn": "我没有钱。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "caixa",
+        "translation": "收银台",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Local de pagamento.",
+        "examples": [
+            {
+                "pt": "Pagar na caixa.",
+                "cn": "在收银台付款。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "preço",
+        "translation": "价格",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Valor em dinheiro.",
+        "examples": [
+            {
+                "pt": "Qual é o preço?",
+                "cn": "价格是多少？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "barato",
+        "translation": "便宜的",
+        "gender": "adj",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Que custa pouco.",
+        "examples": [
+            {
+                "pt": "É muito barato.",
+                "cn": "非常便宜。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "caro",
+        "translation": "昂贵的",
+        "gender": "adj",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Que custa muito.",
+        "examples": [
+            {
+                "pt": "Demasiado caro.",
+                "cn": "太贵了。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "comprar",
+        "translation": "买",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Adquirir com dinheiro.",
+        "examples": [
+            {
+                "pt": "Quero comprar isto.",
+                "cn": "我想买这个。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "vender",
+        "translation": "卖",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Ceder por preço.",
+        "examples": [
+            {
+                "pt": "Eles vão vender a casa.",
+                "cn": "他们要卖掉房子。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pagar",
+        "translation": "支付",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Dar dinheiro em troca.",
+        "examples": [
+            {
+                "pt": "Pagar a conta.",
+                "cn": "付帐。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "troco",
+        "translation": "找零",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Dinheiro devolvido.",
+        "examples": [
+            {
+                "pt": "Fique com o troco.",
+                "cn": "留着零钱吧。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "multibanco",
+        "translation": "ATM机/刷卡机",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Máquina bancária.",
+        "examples": [
+            {
+                "pt": "Pagar com multibanco.",
+                "cn": "使用 ATM 机付款。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "recibo",
+        "translation": "收据",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Comprovante de pagamento.",
+        "examples": [
+            {
+                "pt": "Aqui está o recibo.",
+                "cn": "这是你的收据。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "saco",
+        "translation": "袋子",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Recipiente de plástico ou papel.",
+        "examples": [
+            {
+                "pt": "Precisa de saco?",
+                "cn": "你需要一个包吗？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "produto",
+        "translation": "产品",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Bem produzido ou vendido.",
+        "examples": [
+            {
+                "pt": "Bom produto.",
+                "cn": "好产品。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "promoção",
+        "translation": "促销",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Venda a preço reduzido.",
+        "examples": [
+            {
+                "pt": "Está em promoção.",
+                "cn": "它正减价出售。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "desconto",
+        "translation": "折扣",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Redução do preço.",
+        "examples": [
+            {
+                "pt": "Tem desconto.",
+                "cn": "有折扣。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "roupa",
+        "translation": "衣服",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Vestuário geral.",
+        "examples": [
+            {
+                "pt": "Lavar a roupa.",
+                "cn": "洗衣服。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "sapato",
+        "translation": "鞋子",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Calçado exterior.",
+        "examples": [
+            {
+                "pt": "Sapato preto.",
+                "cn": "黑鞋。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "calças",
+        "translation": "裤子",
+        "gender": "as",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Roupa para as pernas.",
+        "examples": [
+            {
+                "pt": "Vestir calças.",
+                "cn": "穿裤子。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "camisa",
+        "translation": "衬衫",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Peça de vestir com botões.",
+        "examples": [
+            {
+                "pt": "Camisa branca.",
+                "cn": "白衬衫。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "camisola",
+        "translation": "毛衣/卫衣",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Vestuário de malha.",
+        "examples": [
+            {
+                "pt": "Camisola quente.",
+                "cn": "温暖的毛衣。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "casaco",
+        "translation": "外套",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Roupa de agasalho.",
+        "examples": [
+            {
+                "pt": "Vestir o casaco.",
+                "cn": "穿上外套。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "vestido",
+        "translation": "连衣裙",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Peça feminina inteira.",
+        "examples": [
+            {
+                "pt": "Vestido longo.",
+                "cn": "长裙。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "saia",
+        "translation": "裙子",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Peça feminina até certas alturas.",
+        "examples": [
+            {
+                "pt": "Saia curta.",
+                "cn": "短裙。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "chapéu",
+        "translation": "帽子",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Cobertura para a cabeça.",
+        "examples": [
+            {
+                "pt": "Pôr o chapéu.",
+                "cn": "戴上你的帽子。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "mala",
+        "translation": "包/行李箱",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Objeto para levar coisas.",
+        "examples": [
+            {
+                "pt": "Levar a mala.",
+                "cn": "拿行李箱。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tamanho",
+        "translation": "尺码",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Dimensão da roupa.",
+        "examples": [
+            {
+                "pt": "Qual é o tamanho?",
+                "cn": "尺寸是多少？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "número",
+        "translation": "尺码(鞋)",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Medida do sapato.",
+        "examples": [
+            {
+                "pt": "Número 40.",
+                "cn": "40 号。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "cor",
+        "translation": "颜色",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Sensação visual.",
+        "examples": [
+            {
+                "pt": "Que cor prefere?",
+                "cn": "你喜欢什么颜色？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "provador",
+        "translation": "试衣间",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Tenda para experimentar roupa.",
+        "examples": [
+            {
+                "pt": "Onde é o provador?",
+                "cn": "试衣间在哪？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "cinema",
+        "translation": "电影院",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Local para ver filmes.",
+        "examples": [
+            {
+                "pt": "Vamos ao cinema.",
+                "cn": "我们去电影院吧。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "filme",
+        "translation": "电影",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Obra cinematográfica.",
+        "examples": [
+            {
+                "pt": "Ver um filme.",
+                "cn": "看电影。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bilhete",
+        "translation": "票",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Entrada paga.",
+        "examples": [
+            {
+                "pt": "Comprar bilhete.",
+                "cn": "买票。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pipocas",
+        "translation": "爆米花",
+        "gender": "as",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Milho rebentado.",
+        "examples": [
+            {
+                "pt": "Gosto de pipocas.",
+                "cn": "我喜欢爆米花。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "teatro",
+        "translation": "剧院",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Local de atuações.",
+        "examples": [
+            {
+                "pt": "Peça de teatro.",
+                "cn": "玩。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "parque",
+        "translation": "公园",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Espaço verde público.",
+        "examples": [
+            {
+                "pt": "Passear no parque.",
+                "cn": "在公园里散步。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "jardim",
+        "translation": "花园",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Terreno com plantas cultivadas.",
+        "examples": [
+            {
+                "pt": "Jardim botânico.",
+                "cn": "植物园。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "praia",
+        "translation": "海滩",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Margem cheia de areia.",
+        "examples": [
+            {
+                "pt": "Vamos à praia.",
+                "cn": "我们去海滩吧。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "piscina",
+        "translation": "游泳池",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Tanque de água para nadar.",
+        "examples": [
+            {
+                "pt": "Nadar na piscina.",
+                "cn": "在游泳池里游泳。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "museu",
+        "translation": "博物馆",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Local de arte e história.",
+        "examples": [
+            {
+                "pt": "Visitar o museu.",
+                "cn": "参观博物馆。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "concerto",
+        "translation": "音乐会",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Atuação musical.",
+        "examples": [
+            {
+                "pt": "O concerto foi bom.",
+                "cn": "演唱会很好。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "música",
+        "translation": "音乐",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Arte dos sons.",
+        "examples": [
+            {
+                "pt": "Ouvir música.",
+                "cn": "听音乐。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "restaurante",
+        "translation": "餐厅",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Local para comer.",
+        "examples": [
+            {
+                "pt": "Jantar no restaurante.",
+                "cn": "晚餐于餐厅。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "café",
+        "translation": "咖啡馆/咖啡",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Bebida ou local que a serve.",
+        "examples": [
+            {
+                "pt": "Tomar um café.",
+                "cn": "喝杯咖啡。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bar",
+        "translation": "酒吧",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Local de bebidas.",
+        "examples": [
+            {
+                "pt": "Beber no bar.",
+                "cn": "在酒吧喝酒。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ementa",
+        "translation": "菜单",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Lista de comida.",
+        "examples": [
+            {
+                "pt": "Ver a ementa.",
+                "cn": "查看菜单。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "conta",
+        "translation": "账单",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Valor a pagar.",
+        "examples": [
+            {
+                "pt": "A conta, por favor.",
+                "cn": "我要买单。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "gorjeta",
+        "translation": "小费",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Dinheiro extra para o serviço.",
+        "examples": [
+            {
+                "pt": "Deixar gorjeta.",
+                "cn": "留下小费。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "passear",
+        "translation": "散步",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Andar sem rumo; viajar perto.",
+        "examples": [
+            {
+                "pt": "Passear à noite.",
+                "cn": "晚上散步。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "brincar",
+        "translation": "玩耍",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Entreter-se infantilemente.",
+        "examples": [
+            {
+                "pt": "Crianças a brincar.",
+                "cn": "孩子们玩耍。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "correr",
+        "translation": "跑步",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Andar rápido.",
+        "examples": [
+            {
+                "pt": "Correr no parque.",
+                "cn": "在公园里跑步。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "nadar",
+        "translation": "游泳",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Mover-se na água.",
+        "examples": [
+            {
+                "pt": "Sabe nadar?",
+                "cn": "你知道如何游泳吗？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "dançar",
+        "translation": "跳舞",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Mover ao som da música.",
+        "examples": [
+            {
+                "pt": "Dançar bem.",
+                "cn": "跳舞跳得好。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "cantar",
+        "translation": "唱歌",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Fazer música com a voz.",
+        "examples": [
+            {
+                "pt": "Cantar uma canção.",
+                "cn": "唱歌。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ler",
+        "translation": "阅读",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Decifrar texto.",
+        "examples": [
+            {
+                "pt": "Ler um livro.",
+                "cn": "读一本书。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livro",
+        "translation": "书",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Conjunto de folhas impressas.",
+        "examples": [
+            {
+                "pt": "Lê este livro.",
+                "cn": "读这本书。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "revista",
+        "translation": "杂志",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Publicação periódica.",
+        "examples": [
+            {
+                "pt": "Comprar uma revista.",
+                "cn": "买一本杂志。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "jornal",
+        "translation": "报纸",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Publicação diária de notícias.",
+        "examples": [
+            {
+                "pt": "Ler o jornal.",
+                "cn": "读报纸。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "televisão",
+        "translation": "电视",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Aparelho que transmite imagem e som.",
+        "examples": [
+            {
+                "pt": "Ver televisão.",
+                "cn": "看电视。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rádio",
+        "translation": "收音机/广播",
+        "gender": "a/o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Transmissão sonora.",
+        "examples": [
+            {
+                "pt": "Ouvir rádio.",
+                "cn": "听广播。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "computador",
+        "translation": "电脑",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Máquina de processamento.",
+        "examples": [
+            {
+                "pt": "Jogo no computador.",
+                "cn": "在电脑上玩游戏。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "jogo",
+        "translation": "游戏",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Atividade lúdica.",
+        "examples": [
+            {
+                "pt": "Jogo de tabuleiro.",
+                "cn": "棋盘游戏。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bola",
+        "translation": "球",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Objeto esférico para jogar.",
+        "examples": [
+            {
+                "pt": "Jogar à bola.",
+                "cn": "打球。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bicicleta",
+        "translation": "自行车",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Veículo de duas rodas.",
+        "examples": [
+            {
+                "pt": "Andar de bicicleta.",
+                "cn": "骑自行车去。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "desporto",
+        "translation": "运动",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Atividade física regrada.",
+        "examples": [
+            {
+                "pt": "Fazer desporto.",
+                "cn": "做运动。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "futebol",
+        "translation": "足球",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Desporto popular.",
+        "examples": [
+            {
+                "pt": "Jogo de futebol.",
+                "cn": "足球比赛。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "jogar",
+        "translation": "玩/打",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Praticar um jogo desportivo.",
+        "examples": [
+            {
+                "pt": "Jogar ténis.",
+                "cn": "打网球。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "equipa",
+        "translation": "队伍",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Grupo de jogadores.",
+        "examples": [
+            {
+                "pt": "Vitória da equipa.",
+                "cn": "团队胜利。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ganhar",
+        "translation": "赢",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Sair vitorioso.",
+        "examples": [
+            {
+                "pt": "Ganhar o jogo.",
+                "cn": "赢得比赛。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "perder",
+        "translation": "输",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Ficar derrotado.",
+        "examples": [
+            {
+                "pt": "Perder o jogo.",
+                "cn": "输掉比赛。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fim de semana",
+        "translation": "周末",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Sábado e domingo.",
+        "examples": [
+            {
+                "pt": "Bom fim de semana.",
+                "cn": "祝你周末愉快。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "férias",
+        "translation": "假期",
+        "gender": "as",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Período de descanso prolongado.",
+        "examples": [
+            {
+                "pt": "Boas férias!",
+                "cn": "节日快乐！"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "viagem",
+        "translation": "旅行",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Ir de um lugar para outro.",
+        "examples": [
+            {
+                "pt": "Viagem de avião.",
+                "cn": "飞机旅行。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "turista",
+        "translation": "游客",
+        "gender": "o/a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Pessoa que viaja.",
+        "examples": [
+            {
+                "pt": "Grupo de turistas.",
+                "cn": "一群游客。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fotografia",
+        "translation": "照片",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Imagem capturada.",
+        "examples": [
+            {
+                "pt": "Tirar fotografia.",
+                "cn": "拍照。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "câmara",
+        "translation": "相机",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Aparelho para fotos.",
+        "examples": [
+            {
+                "pt": "Câmara digital.",
+                "cn": "数码相机。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tirar",
+        "translation": "拍摄/拿走",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Fazer uma foto; remover.",
+        "examples": [
+            {
+                "pt": "Tirar foto.",
+                "cn": "拍照。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "festa",
+        "translation": "派对",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Celebração convívio.",
+        "examples": [
+            {
+                "pt": "Festa de anos.",
+                "cn": "生日聚会。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bolo",
+        "translation": "蛋糕",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Doce cozido.",
+        "examples": [
+            {
+                "pt": "Bolo de chocolate.",
+                "cn": "巧克力蛋糕。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "presente",
+        "translation": "礼物",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Prenda.",
+        "examples": [
+            {
+                "pt": "Abrir o presente.",
+                "cn": "打开礼物。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "prenda",
+        "translation": "礼物",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Presente, dom.",
+        "examples": [
+            {
+                "pt": "Uma linda prenda.",
+                "cn": "一个美丽的礼物。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "amigo",
+        "translation": "朋友",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Pessoa de quem se gosta.",
+        "examples": [
+            {
+                "pt": "Querido amigo.",
+                "cn": "亲爱的朋友。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "convidar",
+        "translation": "邀请",
+        "gender": "v",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Pedir para ir.",
+        "examples": [
+            {
+                "pt": "Convidar para jantar.",
+                "cn": "邀请共进晚餐。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "encontro",
+        "translation": "约会/见面",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Ato de reunir.",
+        "examples": [
+            {
+                "pt": "Temos um encontro hoje.",
+                "cn": "我们今天有一个会议。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "óculos",
+        "translation": "眼镜",
+        "gender": "os",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Lentes para ver melhor.",
+        "examples": [
+            {
+                "pt": "Pôr os óculos.",
+                "cn": "戴上眼镜。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "relógio",
+        "translation": "手表/钟",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Aparelho que mede o tempo.",
+        "examples": [
+            {
+                "pt": "Ver o relógio.",
+                "cn": "看时钟。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pulseira",
+        "translation": "手链",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Adorno para o pulso.",
+        "examples": [
+            {
+                "pt": "Pulseira de ouro.",
+                "cn": "金手镯。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "brinco",
+        "translation": "耳环",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Adorno para as orelhas.",
+        "examples": [
+            {
+                "pt": "Lindo brinco.",
+                "cn": "漂亮的耳环。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "anel",
+        "translation": "戒指",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Adorno para o dedo.",
+        "examples": [
+            {
+                "pt": "Anel de prata.",
+                "cn": "银戒指。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fio",
+        "translation": "项链",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Cordão adornado para pescoço.",
+        "examples": [
+            {
+                "pt": "Fio bonito.",
+                "cn": "美丽的纱线。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "carne",
+        "translation": "肉",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Alimento dos animais.",
+        "examples": [
+            {
+                "pt": "Comprar carne.",
+                "cn": "买肉。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "peixe",
+        "translation": "鱼",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Animal do mar, para comer.",
+        "examples": [
+            {
+                "pt": "Peixe assado.",
+                "cn": "烤鱼。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fruta",
+        "translation": "水果",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Produto das árvores.",
+        "examples": [
+            {
+                "pt": "Comer fruta fresca.",
+                "cn": "吃新鲜水果。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "verdura",
+        "translation": "蔬菜",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Hortaliça.",
+        "examples": [
+            {
+                "pt": "Sopa de verdura.",
+                "cn": "蔬菜汤。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pão",
+        "translation": "面包",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "compras e lazer",
+        "priberam_definition": "Alimento cozido.",
+        "examples": [
+            {
+                "pt": "Comprar pão.",
+                "cn": "买面包。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    }
+]

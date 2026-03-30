@@ -1,0 +1,709 @@
+{
+    "id": "A2_CIPLE_REAL_COMPLETO",
+    "level": "A2",
+    "title": "CIPLE (Prova Oficial Completa)",
+    "parts": [
+        {
+            "id": "p1_A",
+            "type": "leitura_match",
+            "title": "PARTE 1 // Questões 1-5",
+            "instruction": "Leia as frases 1 a 5 e as mensagens de telemóvel (A, B e C). A cada frase corresponde uma mensagem de telemóvel. Identifique a mensagem (A, B ou C) que corresponde a cada frase.",
+            "messages": [
+                {
+                    "id": "A",
+                    "text": "Olá, Ana! Pode ficar com ele agora e na próxima semana dá-me o livro."
+                },
+                {
+                    "id": "B",
+                    "text": "Ana, preciso do livro hoje. Tem de o trazer esta tarde. Obrigada."
+                },
+                {
+                    "id": "C",
+                    "text": "Ana, não se preocupe. Não faz mal. Pode trazer o livro amanhã?"
+                }
+            ],
+            "questions": [
+                {
+                    "id": "q1",
+                    "question": "1. A D. Teresa pede à Ana para lhe levar o livro.",
+                    "options": [
+                        "A",
+                        "B",
+                        "C"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "id": "q2",
+                    "question": "2. A Isabel quer falar com a Joana.",
+                    "options": [
+                        "A",
+                        "B",
+                        "C"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "id": "q3",
+                    "question": "3. O Sérgio continua à espera do metro.",
+                    "options": [
+                        "A",
+                        "B",
+                        "C"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "id": "q4",
+                    "question": "4. O João vai visitar um amigo e não sabe o caminho para casa dele.",
+                    "options": [
+                        "A",
+                        "B",
+                        "C"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "id": "q5",
+                    "question": "5. O Sr. Santos pede ajuda ao assistente.",
+                    "options": [
+                        "A",
+                        "B",
+                        "C"
+                    ],
+                    "answer": 0
+                }
+            ]
+        },
+        {
+            "id": "p1_B",
+            "type": "leitura_texto_curto",
+            "title": "PARTE 1 // Questões 6-10",
+            "instruction": "Vai ler 5 textos. Depois de ler os textos, escolha uma das opções (A, B ou C) para as questões 6-10.",
+            "texts": [
+                {
+                    "id": "t6",
+                    "content": "Arrenda-se\\nApartamento T2 mobilado, sala com varanda, em zona comercial, perto do mar e de transportes. 700€"
+                },
+                {
+                    "id": "t7",
+                    "content": "Serviços de Identificação Civil - Horário de Atendimento\\nLisboa - Dias úteis, das 8h30 às 19h30, em horário contínuo.\\nPorto - Dias úteis, das 9h00 às 16h00, em horário contínuo."
+                },
+                {
+                    "id": "t8",
+                    "content": "Museu do Fado\\nDe terça a domingo, das 10h00 às 19h00. Encerra nos feriados de 1 de janeiro, 1 de maio e 25 de dezembro. Preço especial para pessoas com mais de 65 anos, crianças e estudantes. Visitas guiadas com marcação prévia."
+                },
+                {
+                    "id": "t9",
+                    "content": "EMPREGO: OFERECE-SE\\nProcuro trabalho na área de televendas. Experiência de vendas em diferentes áreas. Carta de condução de ligeiros e carro próprio. Telefone: 939 898 989"
+                },
+                {
+                    "id": "t10",
+                    "content": "Escolas de Avis e Fronteira\\nINSCRIÇÕES NO 1.º ANO\\nDESTINATÁRIOS: todas as crianças nascidas no ano de 2007\\nPRAZO: de 16 de junho a 31 de julho\\nDOCUMENTOS NECESSÁRIOS: Cartão de cidadão e boletim de vacinas."
+                }
+            ],
+            "questions": [
+                {
+                    "id": "q6",
+                    "question": "6. Este apartamento:",
+                    "options": [
+                        "A. fica perto de lojas.",
+                        "B. fica no interior do país.",
+                        "C. está vazio."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "id": "q7",
+                    "question": "7. Os Serviços de Identificação Civil:",
+                    "options": [
+                        "A. têm um horário igual em ambas as cidades.",
+                        "B. estão abertos num período maior, no Porto.",
+                        "C. começam a funcionar mais cedo, em Lisboa."
+                    ],
+                    "answer": 2
+                },
+                {
+                    "id": "q8",
+                    "question": "8. Sobre o Museu do Fado, qual é a afirmação verdadeira?",
+                    "options": [
+                        "A. O Museu do Fado está fechado ao fim de semana.",
+                        "B. O Museu pode ser visitado em qualquer dia feriado.",
+                        "C. Alguns visitantes têm direito a bilhetes mais baratos."
+                    ],
+                    "answer": 2
+                },
+                {
+                    "id": "q9",
+                    "question": "9. Qual é a afirmação verdadeira (Emprego)?",
+                    "options": [
+                        "A. O anúncio oferece um posto de trabalho numa empresa de vendas.",
+                        "B. Quem escreveu o anúncio está à procura de trabalho.",
+                        "C. O anúncio pede experiência de vendas em várias áreas."
+                    ],
+                    "answer": 1
+                },
+                {
+                    "id": "q10",
+                    "question": "10. Qual é a afirmação verdadeira (Escolas)?",
+                    "options": [
+                        "A. As escolas estão a admitir novos alunos para o 1.º ano.",
+                        "B. As escolas só admitem alunos nascidos antes de 2007.",
+                        "C. Não é preciso apresentar documentos para fazer a inscrição."
+                    ],
+                    "answer": 0
+                }
+            ]
+        },
+        {
+            "id": "p1_C",
+            "type": "leitura",
+            "title": "Parte 1C: Compreensão da Leitura (Correspondência)",
+            "instruction": "Leia o texto. Faça a correspondência entre as questões (11-15) e as opções (A-H) para formar frases verdadeiras. Há opções a mais.",
+            "text": "Ex.mos(as) Senhores(as)\\nVenho, por este meio, responder ao anúncio para empregada de mesa e de balcão. Sou romena e tenho 20 anos. Vivo em Portugal há dois anos, mas os meus pais já cá estão há seis anos.\\nQuando cheguei, comecei a estudar português, à noite. No princípio, foi muito difícil, mas penso que agora já falo e compreendo bem o português. Além de romeno e português, também falo bem inglês e estudei francês durante um ano. Na Roménia, terminei o ensino secundário e este ano comecei a estudar Economia, à noite, numa universidade, em Lisboa.\\nJá trabalhei como empregada de mesa num restaurante e agora estou a trabalhar numa pastelaria, num centro comercial, mas não consigo conciliar o meu horário de trabalho com os estudos.\\nGostava de trabalhar na vossa pastelaria porque o vosso horário de trabalho me permite continuar a estudar na universidade sem problemas, pois as aulas só começam às 18h30. Além disso, o facto de ter o domingo livre é muito conveniente para mim. Penso que tenho o perfil adequado para o lugar, uma vez que já tenho alguma experiência profissional e sou uma pessoa muito ativa.\\nEnvio, em anexo, o meu currículo e aguardo o vosso contacto. Estou disponível para uma entrevista e posso começar a trabalhar a partir do próximo mês.\\nSem outro assunto, atenciosamente, Irina.\\n\\nOpções disponíveis:\\n[A] os pais ainda não estavam cá.\\n[B] começou a aprender português.\\n[C] começou a estudar outras línguas.\\n[D] para começar a trabalhar já no próximo mês.\\n[E] porque o horário a deixa fazer outras coisas.\\n[F] os pais já cá viviam há alguns anos.\\n[G] pode ser importante para ser selecionada.\\n[H] já falava português.",
+            "questions": [
+                {
+                    "id": "q11",
+                    "question": "11. Quando a Irina chegou a Portugal...",
+                    "options": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F",
+                        "G",
+                        "H"
+                    ],
+                    "answer": 5
+                },
+                {
+                    "id": "q12",
+                    "question": "12. Quando chegou a Portugal, a Irina...",
+                    "options": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F",
+                        "G",
+                        "H"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "id": "q13",
+                    "question": "13. A Irina gostava de trabalhar na pastelaria...",
+                    "options": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F",
+                        "G",
+                        "H"
+                    ],
+                    "answer": 4
+                },
+                {
+                    "id": "q14",
+                    "question": "14. A Irina acha que a experiência que tem como empregada de mesa...",
+                    "options": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F",
+                        "G",
+                        "H"
+                    ],
+                    "answer": 6
+                },
+                {
+                    "id": "q15",
+                    "question": "15. A Irina tem disponibilidade...",
+                    "options": [
+                        "A",
+                        "B",
+                        "C",
+                        "D",
+                        "E",
+                        "F",
+                        "G",
+                        "H"
+                    ],
+                    "answer": 3
+                }
+            ]
+        },
+        {
+            "id": "p1_D",
+            "type": "leitura",
+            "title": "Parte 1D: Compreensão da Leitura (Texto Longo)",
+            "instruction": "Leia o texto e escolha uma das opções (A, B ou C) para as questões 16-20.",
+            "text": "A empresa onde o João trabalha está com problemas financeiros e reduziu o tempo de trabalho semanal dos funcionários. Agora, o João só trabalha 3 dias e, por isso, também recebe menos. Ainda dá para viver, mas começa a ser difícil.\\nA Ana ficou desempregada há 6 meses. Tinha uma loja num centro comercial que teve de fechar porque as pessoas não têm muito dinheiro para gastar. Agora, está inscrita no Centro de Emprego de Setúbal.\\nA situação profissional e económica dos dois não é boa e para tentar melhorá-la resolveram ir para a Suíça. Podiam continuar em Portugal, mesmo sem trabalho, porque os pais os podem ajudar, mas preferem sair do país.\\nUns amigos deles também lá estão e disseram-lhes para eles fazerem o mesmo. A maior preocupação do João e da Ana é o filho. Não sabem se ele se vai adaptar bem a uma nova escola e a uma nova vida, mas agora estão com mais confiança, porque os amigos lhes disseram que as crianças se adaptam, normalmente, com muita facilidade a novas situações.\\nA língua também não é um problema. As crianças aprendem muito depressa a falar uma língua nova. O João e a Ana já decidiram que, depois de algum tempo na Suíça, se vão inscrever numa escola de línguas para aprender francês e alemão. Querem começar a comunicar com as pessoas rapidamente e com confiança.",
+            "questions": [
+                {
+                    "id": "q16",
+                    "question": "16. A empresa onde o João trabalha",
+                    "options": [
+                        "A. aumentou o horário de trabalho do João.",
+                        "B. diminuiu o horário de trabalho do João.",
+                        "C. está a ganhar muito dinheiro."
+                    ],
+                    "answer": 1
+                },
+                {
+                    "id": "q17",
+                    "question": "17. A Ana está",
+                    "options": [
+                        "A. empregada num centro comercial.",
+                        "B. a trabalhar numa loja.",
+                        "C. sem trabalho."
+                    ],
+                    "answer": 2
+                },
+                {
+                    "id": "q18",
+                    "question": "18. A Ana e o João decidiram sair de Portugal",
+                    "options": [
+                        "A. por causa da educação do filho.",
+                        "B. porque não têm trabalho em Portugal.",
+                        "C. porque querem ter uma vida melhor."
+                    ],
+                    "answer": 2
+                },
+                {
+                    "id": "q19",
+                    "question": "19. O João e a Ana",
+                    "options": [
+                        "A. decidiram sair do país e levar o filho com eles.",
+                        "B. vão fazer um curso de línguas ainda em Portugal.",
+                        "C. querem primeiro encontrar trabalho e só depois levar o filho."
+                    ],
+                    "answer": 0
+                },
+                {
+                    "id": "q20",
+                    "question": "20. Os amigos do João e da Ana disseram-lhes que",
+                    "options": [
+                        "A. as crianças têm dificuldade em adaptar-se a novas situações.",
+                        "B. as crianças não têm problemas em começar a viver em lugares novos.",
+                        "C. as crianças demoram muito tempo a aprender uma língua nova."
+                    ],
+                    "answer": 1
+                }
+            ]
+        },
+        {
+            "id": "p2",
+            "type": "escrita",
+            "title": "Produção e Interação Escritas",
+            "instruction": "Nesta parte, tem de escrever dois textos. O primeiro curto (25-35 palavras) e o segundo mais longo (60-80 palavras). (Dica: utilize a caixa de texto para registar a sua resposta; no exame real, escreve em papel).",
+            "text": "TEXTO 1: Você marcou um encontro com os seus amigos e não vai poder chegar à hora marcada. Eles enviam: 'Olá! Já chegámos. Estamos à tua espera no café do parque. Ainda demoras?' Responda a esta mensagem. (25-35 palavras)\\n\\nTEXTO 2: Você não conseguiu ir a casa dos seus amigos portugueses no fim de semana passado porque teve vários problemas. Escreva-lhes um email a contar o que lhe aconteceu. O email começa assim: 'Caros Amigos, Queria muito estar convosco no fim de semana, mas não consegui...' (60-80 palavras)",
+            "text_blocks": [
+                {
+                    "type": "textarea",
+                    "id": "w1",
+                    "placeholder": "Escreva o TEXTO 1 aqui..."
+                },
+                {
+                    "type": "textarea",
+                    "id": "w2",
+                    "placeholder": "Escreva o TEXTO 2 aqui..."
+                }
+            ]
+        },
+        {
+            "id": "p3_A",
+            "type": "audio",
+            "title": "PARTE 1 // Questões 1-15",
+            "instruction": "Vai ouvir os textos duas vezes. Responda às questões selecionando a melhor opção.",
+            "audio_url": "/simulado/A2/CAPLE_A2_Audio.mp3",
+            "audio_groups": [
+                {
+                    "title": "Texto 1",
+                    "questions": [
+                        {
+                            "id": "a1",
+                            "question": "1. O entrevistado diz que",
+                            "options": [
+                                "A. é vegetariano e por isso não come nem peixe nem carne.",
+                                "B. não pode comer todo o tipo de alimentos.",
+                                "C. prefere comer legumes a outro tipo de alimentos."
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 2",
+                    "questions": [
+                        {
+                            "id": "a2",
+                            "question": "2. O comentário sobre a relação entre ter trabalho e ter formação académica é este:",
+                            "options": [
+                                "A. quem tem um curso superior arranja trabalho muito mais depressa.",
+                                "B. os amigos dela arranjaram trabalho por causa da formação académica.",
+                                "C. ter mais e melhor preparação para a vida profissional não quer dizer ter trabalho."
+                            ],
+                            "answer": 2
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 3",
+                    "questions": [
+                        {
+                            "id": "a3",
+                            "question": "3. A indicação sobre a localização do Centro é a seguinte:",
+                            "options": [
+                                "A. o Centro fica no fim das escadas, na 1.ª porta à esquerda.",
+                                "B. o Centro fica no 1.º andar e está sempre aberto.",
+                                "C. o Centro fica no 1.º andar, na 2.ª porta à direita."
+                            ],
+                            "answer": 0
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 4",
+                    "questions": [
+                        {
+                            "id": "a4",
+                            "question": "4. Na piscina, duas amigas conversam sobre desporto. Uma delas diz",
+                            "options": [
+                                "A. que gosta de natação, mas prefere a ginástica.",
+                                "B. que, quando está bom tempo, prefere nadar no mar.",
+                                "C. que nadar no mar é mais fácil, por causa do bom tempo."
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 5",
+                    "questions": [
+                        {
+                            "id": "a5",
+                            "question": "5. A cliente quer",
+                            "options": [
+                                "A. comprar um casaco.",
+                                "B. trocar o casaco.",
+                                "C. devolver o casaco."
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "id": "a6",
+                            "question": "6. A loja",
+                            "options": [
+                                "A. não faz devoluções.",
+                                "B. faz devoluções durante a semana seguinte à compra.",
+                                "C. faz devoluções quando o cliente apresenta o talão de compra."
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 6",
+                    "questions": [
+                        {
+                            "id": "a7",
+                            "question": "7. O senhor",
+                            "options": [
+                                "A. não tem visto.",
+                                "B. tem um visto que não é válido.",
+                                "C. tem um visto que caduca no dia 20 de março."
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "id": "a8",
+                            "question": "8. A empregada diz que o senhor",
+                            "options": [
+                                "A. tem de tirar primeiro o visto.",
+                                "B. precisa de tirar outra senha.",
+                                "C. tem de candidatar-se ao emprego noutros serviços."
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 7",
+                    "questions": [
+                        {
+                            "id": "a9",
+                            "question": "9. A senhora quer comprar um bilhete para",
+                            "options": [
+                                "A. o autocarro das 18h30, para Faro.",
+                                "B. o autocarro das 14h30, para Faro.",
+                                "C. o primeiro autocarro, para Faro."
+                            ],
+                            "answer": 1
+                        },
+                        {
+                            "id": "a10",
+                            "question": "10. A senhora",
+                            "options": [
+                                "A. já sabe o que vai fazer nas 3 horas de espera.",
+                                "B. fica contente por ter 3 horas livres.",
+                                "C. vai pensar no que vai fazer no tempo de espera."
+                            ],
+                            "answer": 2
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 8",
+                    "questions": [
+                        {
+                            "id": "a11",
+                            "question": "11. Para iniciar o processo de candidatura, é preciso",
+                            "options": [
+                                "A. preencher apenas um impresso.",
+                                "B. entregar apenas o passaporte.",
+                                "C. juntar uma cópia do passaporte e preencher um impresso."
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "id": "a12",
+                            "question": "12. Normalmente, há muitos candidatos,",
+                            "options": [
+                                "A. por isso a senhora não deve conseguir o trabalho.",
+                                "B. mas quem fala várias línguas tem mais hipóteses.",
+                                "C. mas não é difícil conseguir o trabalho."
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 9",
+                    "questions": [
+                        {
+                            "id": "a13",
+                            "question": "13. A indicação para chegar aos correios é esta:",
+                            "options": [
+                                "A. 'Vai em frente até ao hotel e os correios ficam ao lado'.",
+                                "B. 'Vai em frente e vira à direita. Os correios ficam em frente a um hotel'.",
+                                "C. 'Vira à direita e depois vai em frente. Os correios são ao lado do hotel'."
+                            ],
+                            "answer": 1
+                        }
+                    ]
+                },
+                {
+                    "title": "Texto 10",
+                    "questions": [
+                        {
+                            "id": "a14",
+                            "question": "14. Diferenças entre viver dentro ou fora da cidade:",
+                            "options": [
+                                "A. as casas são maiores na cidade.",
+                                "B. as rendas são mais baratas no centro da cidade.",
+                                "C. é mais fácil arrendar casa com garagem fora da cidade."
+                            ],
+                            "answer": 2
+                        },
+                        {
+                            "id": "a15",
+                            "question": "15. Viver no centro tem desvantagens:",
+                            "options": [
+                                "A. há muitos turistas.",
+                                "B. não há escolas.",
+                                "C. as casas não têm garagem."
+                            ],
+                            "answer": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "p3_B",
+            "type": "audio_match",
+            "title": "Compreensão do Oral (Parte 2)",
+            "instruction": "O que se diz onde. Vai ouvir 10 frases. Faça a correspondência das frases (16-25) com os espaços (A-J).",
+            "audio_url": null,
+            "questions": [
+                {
+                    "id": "a16",
+                    "question": "16. Frase 1",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 4
+                },
+                {
+                    "id": "a17",
+                    "question": "17. Frase 2",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 2
+                },
+                {
+                    "id": "a18",
+                    "question": "18. Frase 3",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 8
+                },
+                {
+                    "id": "a19",
+                    "question": "19. Frase 4",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 5
+                },
+                {
+                    "id": "a20",
+                    "question": "20. Frase 5",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 3
+                },
+                {
+                    "id": "a21",
+                    "question": "21. Frase 6",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 0
+                },
+                {
+                    "id": "a22",
+                    "question": "22. Frase 7",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 9
+                },
+                {
+                    "id": "a23",
+                    "question": "23. Frase 8",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 6
+                },
+                {
+                    "id": "a24",
+                    "question": "24. Frase 9",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 1
+                },
+                {
+                    "id": "a25",
+                    "question": "25. Frase 10",
+                    "options": [
+                        "A. escola",
+                        "B. táxi",
+                        "C. mercado",
+                        "D. centro de Saúde",
+                        "E. agência de emprego",
+                        "F. consulado/embaixada",
+                        "G. restaurante",
+                        "H. correios",
+                        "I. aeroporto",
+                        "J. loja de produtos informáticos"
+                    ],
+                    "answer": 7
+                }
+            ]
+        }
+    ]
+}

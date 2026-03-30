@@ -5,3 +5,6 @@ dist/
 .env.local
 .DS_Store
 *.local
+.vercel
+scripts/__pycache__/
+*.txt

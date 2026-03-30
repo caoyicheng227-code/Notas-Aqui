@@ -51,7 +51,7 @@ export function playSuccess() {
         const gain1 = ctx.createGain();
         osc1.type = 'sine';
         osc1.frequency.setValueAtTime(880, now);
-        osc1.frequency.linearRampToValueAtTime(1100, now + 0.1); // smooth sweep
+        osc1.frequency.linearRampToValueAtTime(1100, now + 0.1); // sweep to 1100Hz
         osc1.connect(gain1);
         gain1.connect(ctx.destination);
         gain1.gain.setValueAtTime(0.5, now);

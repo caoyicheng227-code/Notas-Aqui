@@ -1,0 +1,1863 @@
+[
+    {
+        "word": "aeroporto",
+        "translation": "机场",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Local com instalações para o voo de aviões.",
+        "examples": [
+            {
+                "pt": "O aeroporto fica longe do centro.",
+                "cn": "机场离市中心很远。"
+            }
+        ],
+        "synonyms": [
+            "aeródromo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "avião",
+        "translation": "飞机",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Aeronave mais pesada que o ar.",
+        "examples": [
+            {
+                "pt": "O avião parte às oito horas.",
+                "cn": "飞机八点起飞。"
+            }
+        ],
+        "synonyms": [
+            "aeronave"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "mala",
+        "translation": "行李箱",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Saco ou caixa para levar roupa em viagem.",
+        "examples": [
+            {
+                "pt": "Esta mala é muito pesada.",
+                "cn": "这个行李箱很重。"
+            }
+        ],
+        "synonyms": [
+            "bagagem"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "hotel",
+        "translation": "酒店",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Estabelecimento para alojamento turístico.",
+        "examples": [
+            {
+                "pt": "Ficamos num hotel perto da praia.",
+                "cn": "我们住在海滩附近的一家酒店。"
+            }
+        ],
+        "synonyms": [
+            "estalagem"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "bilhete",
+        "translation": "票",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Papel que dá direito a entrar ou viajar.",
+        "examples": [
+            {
+                "pt": "Onde posso comprar o bilhete?",
+                "cn": "我可以在哪里买票？"
+            }
+        ],
+        "synonyms": [
+            "passagem",
+            "ingresso"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "passaporte",
+        "translation": "护照",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Documento oficial para viajar a outro país.",
+        "examples": [
+            {
+                "pt": "Não te esqueças do passaporte.",
+                "cn": "别忘了你的护照。"
+            }
+        ],
+        "synonyms": [
+            "documento"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "táxi",
+        "translation": "出租车",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Automóvel de aluguer com motorista.",
+        "examples": [
+            {
+                "pt": "Vamos chamar um táxi.",
+                "cn": "我们叫一辆出租车吧。"
+            }
+        ],
+        "synonyms": [
+            "carro de praça"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "autocarro",
+        "translation": "公交车; 巴士",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Veículo público para muitos passageiros.",
+        "examples": [
+            {
+                "pt": "O autocarro está cheio.",
+                "cn": "公交车满了。"
+            }
+        ],
+        "synonyms": [
+            "ónibus"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "comboio",
+        "translation": "火车",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Série de carruagens ligadas a uma locomotiva.",
+        "examples": [
+            {
+                "pt": "Viajar de comboio é confortável.",
+                "cn": "坐火车旅行很舒服。"
+            }
+        ],
+        "synonyms": [
+            "trem"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "estação",
+        "translation": "车站",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lugar onde param transportes públicos.",
+        "examples": [
+            {
+                "pt": "A estação de comboios é central.",
+                "cn": "火车站位于市中心。"
+            }
+        ],
+        "synonyms": [
+            "paragem",
+            "gare"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "paragem",
+        "translation": "站点; 停靠站",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lugar onde os veículos param regularmente.",
+        "examples": [
+            {
+                "pt": "Esta é a minha paragem.",
+                "cn": "这是我的站点。"
+            }
+        ],
+        "synonyms": [
+            "estação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "porto",
+        "translation": "港口",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lugar na costa seguro para navios.",
+        "examples": [
+            {
+                "pt": "Os navios chegaram ao porto.",
+                "cn": "船只到达了港口。"
+            }
+        ],
+        "synonyms": [
+            "cais"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "barco",
+        "translation": "船",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Pequena ou grande embarcação.",
+        "examples": [
+            {
+                "pt": "Fazemos a viagem de barco.",
+                "cn": "我们乘船旅行。"
+            }
+        ],
+        "synonyms": [
+            "navio",
+            "embarcação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "mapa",
+        "translation": "地图",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Representação gráfica do território.",
+        "examples": [
+            {
+                "pt": "Preciso de um mapa da cidade.",
+                "cn": "我需要一张城市地图。"
+            }
+        ],
+        "synonyms": [
+            "planta",
+            "carta"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "guia",
+        "translation": "导游; 指南",
+        "gender": "o/a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Pessoa que mostra um local aos turistas.",
+        "examples": [
+            {
+                "pt": "O nosso guia conhece bem o museu.",
+                "cn": "我们的导游很熟悉这家博物馆。"
+            }
+        ],
+        "synonyms": [
+            "orientador"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "turista",
+        "translation": "游客",
+        "gender": "o/a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Pessoa que viaja por recreação.",
+        "examples": [
+            {
+                "pt": "Há muitos turistas no verão.",
+                "cn": "夏天有很多游客。"
+            }
+        ],
+        "synonyms": [
+            "viajante",
+            "visitante"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "turismo",
+        "translation": "旅游业",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Conjunto das atividades das viagens.",
+        "examples": [
+            {
+                "pt": "O turismo em Portugal cresceu.",
+                "cn": "葡萄牙的旅游业增长了。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "viagem",
+        "translation": "旅行",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Deslocação de um lugar para outro.",
+        "examples": [
+            {
+                "pt": "Fiz uma viagem longa.",
+                "cn": "我进行了一次漫长的旅行。"
+            }
+        ],
+        "synonyms": [
+            "deslocação",
+            "passeio"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "passagem",
+        "translation": "车票; 机票",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Bilhete de transporte ou o ato de passar.",
+        "examples": [
+            {
+                "pt": "Já comprei as passagens.",
+                "cn": "我已经买了机票。"
+            }
+        ],
+        "synonyms": [
+            "bilhete"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "voo",
+        "translation": "航班",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Viagem de avião.",
+        "examples": [
+            {
+                "pt": "O voo foi muito tranquilo.",
+                "cn": "航班非常平稳。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "chegada",
+        "translation": "到达",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Ato de chegar ao destino.",
+        "examples": [
+            {
+                "pt": "A chegada é às duas horas.",
+                "cn": "到达时间是两点。"
+            }
+        ],
+        "synonyms": [
+            "advento",
+            "destino"
+        ],
+        "antonyms": [
+            "partida"
+        ]
+    },
+    {
+        "word": "partida",
+        "translation": "出发",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Ato de partir ou iniciar a viagem.",
+        "examples": [
+            {
+                "pt": "A hora da partida mudou.",
+                "cn": "出发时间变了。"
+            }
+        ],
+        "synonyms": [
+            "saída"
+        ],
+        "antonyms": [
+            "chegada"
+        ]
+    },
+    {
+        "word": "atraso",
+        "translation": "延误",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Falta de pontualidade.",
+        "examples": [
+            {
+                "pt": "O comboio teve um atraso de dez minutos.",
+                "cn": "火车晚点了十分钟。"
+            }
+        ],
+        "synonyms": [
+            "demora"
+        ],
+        "antonyms": [
+            "pontualidade"
+        ]
+    },
+    {
+        "word": "reserva",
+        "translation": "预订",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Ação de guardar antecipadamente alojamento ou lugar.",
+        "examples": [
+            {
+                "pt": "Fiz uma reserva no restaurante.",
+                "cn": "我在餐厅做了预订。"
+            }
+        ],
+        "synonyms": [
+            "marcação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "quarto",
+        "translation": "房间",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Divisão para dormir.",
+        "examples": [
+            {
+                "pt": "O meu quarto de hotel é luminoso.",
+                "cn": "我的酒店房间很明亮。"
+            }
+        ],
+        "synonyms": [
+            "aposento",
+            "dormitório"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "chave",
+        "translation": "钥匙",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Instrumento para abrir e fechar portas.",
+        "examples": [
+            {
+                "pt": "Esqueci-me da chave do quarto.",
+                "cn": "我忘了房间钥匙。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "praia",
+        "translation": "海滩",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Extensão de areia junta ao mar.",
+        "examples": [
+            {
+                "pt": "Gosto de ir à praia no verão.",
+                "cn": "夏天我喜欢去海滩。"
+            }
+        ],
+        "synonyms": [
+            "costa",
+            "litoral"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "férias",
+        "translation": "假期",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Período de descanso prolongado.",
+        "examples": [
+            {
+                "pt": "Para a semana vou de férias.",
+                "cn": "下周我去度假。"
+            }
+        ],
+        "synonyms": [
+            "descanso",
+            "folga"
+        ],
+        "antonyms": [
+            "trabalho"
+        ]
+    },
+    {
+        "word": "passageiro",
+        "translation": "乘客",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Pessoa que viaja num transporte.",
+        "examples": [
+            {
+                "pt": "O passageiro dormiu durante a viagem.",
+                "cn": "乘客在旅途中睡着了。"
+            }
+        ],
+        "synonyms": [
+            "viajante"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "bagagem",
+        "translation": "行李",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Conjunto de objetos ou malas de um viajante.",
+        "examples": [
+            {
+                "pt": "Tenho muita bagagem.",
+                "cn": "我有很多行李。"
+            }
+        ],
+        "synonyms": [
+            "malas"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "destino",
+        "translation": "目的地",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lugar para onde alguém viaja.",
+        "examples": [
+            {
+                "pt": "Lisboa é o nosso destino.",
+                "cn": "里斯本是我们的目的地。"
+            }
+        ],
+        "synonyms": [
+            "meta",
+            "lugar"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "ida",
+        "translation": "去程",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Ação de se deslocar a um lugar.",
+        "examples": [
+            {
+                "pt": "Comprei um bilhete de ida e volta.",
+                "cn": "我买了一张往返票。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "volta",
+            "regresso"
+        ]
+    },
+    {
+        "word": "volta",
+        "translation": "返程; 返回",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Ação de regressar.",
+        "examples": [
+            {
+                "pt": "A volta foi cansativa.",
+                "cn": "回程很累。"
+            }
+        ],
+        "synonyms": [
+            "regresso"
+        ],
+        "antonyms": [
+            "ida"
+        ]
+    },
+    {
+        "word": "carro",
+        "translation": "汽车",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Veículo automóvel.",
+        "examples": [
+            {
+                "pt": "Alugamos um carro em Faro.",
+                "cn": "我们在法鲁租了一辆车。"
+            }
+        ],
+        "synonyms": [
+            "automóvel",
+            "veículo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "estrada",
+        "translation": "公路",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Via pública para trânsito de viaturas.",
+        "examples": [
+            {
+                "pt": "A estrada tem muito trânsito.",
+                "cn": "公路上交通很拥挤。"
+            }
+        ],
+        "synonyms": [
+            "via",
+            "rodovia"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "rua",
+        "translation": "街道",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Via urbana onde há casas.",
+        "examples": [
+            {
+                "pt": "A rua principal tem lojas boas.",
+                "cn": "主街有不错的商店。"
+            }
+        ],
+        "synonyms": [
+            "avenida"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "ponte",
+        "translation": "桥",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Construção que liga dois passeios ou margens.",
+        "examples": [
+            {
+                "pt": "Atravessámos a ponte sobre o rio.",
+                "cn": "我们穿过了河上的桥。"
+            }
+        ],
+        "synonyms": [
+            "viaduto"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "fotografia",
+        "translation": "照片",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Imagem tirada por uma câmara.",
+        "examples": [
+            {
+                "pt": "Gosto de tirar fotografias de paisagens.",
+                "cn": "我喜欢给风景拍照。"
+            }
+        ],
+        "synonyms": [
+            "foto",
+            "imagem"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "câmara",
+        "translation": "相机",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Máquina fotográfica ou de filmar.",
+        "examples": [
+            {
+                "pt": "Trouxe uma nova câmara para a viagem.",
+                "cn": "我旅行带了新相机。"
+            }
+        ],
+        "synonyms": [
+            "máquina fotográfica"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "dinheiro",
+        "translation": "钱",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Moeda circulante, valor financeiro.",
+        "examples": [
+            {
+                "pt": "Precisamos de trocar dinheiro.",
+                "cn": "我们需要换钱。"
+            }
+        ],
+        "synonyms": [
+            "moeda"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "banco",
+        "translation": "银行",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Instituição onde se levanta ou guarda dinheiro.",
+        "examples": [
+            {
+                "pt": "O banco fecha às três.",
+                "cn": "银行三点关门。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "preço",
+        "translation": "价格",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Valor em dinheiro necessário para comprar.",
+        "examples": [
+            {
+                "pt": "Qual é o preço do bilhete?",
+                "cn": "票价是多少？"
+            }
+        ],
+        "synonyms": [
+            "valor",
+            "custo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "restaurante",
+        "translation": "餐厅",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Local onde se vendem e servem refeições.",
+        "examples": [
+            {
+                "pt": "O hotel tem um restaurante excelente.",
+                "cn": "这家酒店有一家很棒的餐厅。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "menu",
+        "translation": "菜单",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lista de pratos num restaurante.",
+        "examples": [
+            {
+                "pt": "Posso ver o menu, por favor?",
+                "cn": "请给我看一下菜单好吗？"
+            }
+        ],
+        "synonyms": [
+            "ementa",
+            "cardápio"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "conta",
+        "translation": "账单",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Cálculo do que se deve pagar.",
+        "examples": [
+            {
+                "pt": "A conta, por favor.",
+                "cn": "买单。"
+            }
+        ],
+        "synonyms": [
+            "fatura"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "pequeno-almoço",
+        "translation": "早餐",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Primeira refeição do dia.",
+        "examples": [
+            {
+                "pt": "O pequeno-almoço está incluído.",
+                "cn": "包括早餐在内。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "almoço",
+        "translation": "午餐",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Refeição do meio do dia.",
+        "examples": [
+            {
+                "pt": "Comemos peixe ao almoço.",
+                "cn": "午饭我们吃了鱼。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "jantar",
+        "translation": "晚餐",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Refeição do fim do dia.",
+        "examples": [
+            {
+                "pt": "O jantar foi maravilhoso.",
+                "cn": "晚餐非常棒。"
+            }
+        ],
+        "synonyms": [
+            "ceia"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "café",
+        "translation": "咖啡馆; 咖啡",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Bebida estimulante ou pequeno estabelecimento.",
+        "examples": [
+            {
+                "pt": "Vamos beber algo no café ali da esquina.",
+                "cn": "我们去街角那家咖啡馆喝点东西吧。"
+            }
+        ],
+        "synonyms": [
+            "pastelaria"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "noite",
+        "translation": "夜晚",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Período escuro e sem sol do dia.",
+        "examples": [
+            {
+                "pt": "Chegámos de noite ao alojamento.",
+                "cn": "我们在夜里到达住宿地。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "dia",
+            "manhã"
+        ]
+    },
+    {
+        "word": "dia",
+        "translation": "白天; 天",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Tempo entre a manhã e a noite.",
+        "examples": [
+            {
+                "pt": "Que lindo dia para uma viagem!",
+                "cn": "多好的旅行天气！"
+            }
+        ],
+        "synonyms": [
+            "jornada"
+        ],
+        "antonyms": [
+            "noite"
+        ]
+    },
+    {
+        "word": "tarde",
+        "translation": "下午",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Período entre o meio-dia e a noite.",
+        "examples": [
+            {
+                "pt": "O voo sai à tarde.",
+                "cn": "航班下午起飞。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "manhã"
+        ]
+    },
+    {
+        "word": "manhã",
+        "translation": "早晨",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Primeira parte do dia.",
+        "examples": [
+            {
+                "pt": "Saímos muito cedo de manhã.",
+                "cn": "我们早上出发得很早。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "tarde",
+            "noite"
+        ]
+    },
+    {
+        "word": "bilheteira",
+        "translation": "售票处",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Local de venda de bilhetes.",
+        "examples": [
+            {
+                "pt": "A bilheteira abre às dez.",
+                "cn": "售票处十点开门。"
+            }
+        ],
+        "synonyms": [
+            "taquilla"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "centro",
+        "translation": "中心; 市中心",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "A parte principal da cidade.",
+        "examples": [
+            {
+                "pt": "Ficamos num apartamento no centro.",
+                "cn": "我们住在市中心的公寓。"
+            }
+        ],
+        "synonyms": [
+            "meio",
+            "baixa"
+        ],
+        "antonyms": [
+            "periferia"
+        ]
+    },
+    {
+        "word": "cidade",
+        "translation": "城市",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Povoação urbana populosa.",
+        "examples": [
+            {
+                "pt": "Lisboa é uma cidade bonita.",
+                "cn": "里斯本是一座美丽的城市。"
+            }
+        ],
+        "synonyms": [
+            "urbe",
+            "metrópole"
+        ],
+        "antonyms": [
+            "campo"
+        ]
+    },
+    {
+        "word": "país",
+        "translation": "国家",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Território de uma nação.",
+        "examples": [
+            {
+                "pt": "Qual é o teu país de origem?",
+                "cn": "你来自哪个国家？"
+            }
+        ],
+        "synonyms": [
+            "nação",
+            "território"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "estrangeiro",
+        "translation": "外国; 外国人",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "País diferente do seu, ou quem não tem nacionalidade do país.",
+        "examples": [
+            {
+                "pt": "Viajar para o estrangeiro é caro.",
+                "cn": "出国旅行很贵。"
+            }
+        ],
+        "synonyms": [
+            "exterior"
+        ],
+        "antonyms": [
+            "nacional"
+        ]
+    },
+    {
+        "word": "língua",
+        "translation": "语言",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Sistema de palavras faladas num país.",
+        "examples": [
+            {
+                "pt": "Gosto de praticar a língua local.",
+                "cn": "我喜欢练习当地语言。"
+            }
+        ],
+        "synonyms": [
+            "idioma"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "tempo",
+        "translation": "天气; 时间",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Estado atmosférico ou clima temporal.",
+        "examples": [
+            {
+                "pt": "O tempo está ótimo para passear.",
+                "cn": "天气很适合散步。"
+            }
+        ],
+        "synonyms": [
+            "clima",
+            "hora"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "sol",
+        "translation": "太阳; 阳光",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Estrela que ilumina a Terra e emite luz.",
+        "examples": [
+            {
+                "pt": "Houve muito sol nestas férias.",
+                "cn": "这个假期阳光明媚。"
+            }
+        ],
+        "synonyms": [
+            "luz solar"
+        ],
+        "antonyms": [
+            "sombra"
+        ]
+    },
+    {
+        "word": "chuva",
+        "translation": "雨",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Gotas de água caídas do céu.",
+        "examples": [
+            {
+                "pt": "Esperamos chuva para amanhã.",
+                "cn": "我们预计明天会下雨。"
+            }
+        ],
+        "synonyms": [
+            "precipitação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "frio",
+        "translation": "冷; 寒冷",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Falta de calor ou baixa temperatura.",
+        "examples": [
+            {
+                "pt": "Faz frio de noite.",
+                "cn": "晚上很冷。"
+            }
+        ],
+        "synonyms": [
+            "gelado"
+        ],
+        "antonyms": [
+            "calor",
+            "quente"
+        ]
+    },
+    {
+        "word": "calor",
+        "translation": "热",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Ata temperatura ambiental.",
+        "examples": [
+            {
+                "pt": "Na praia o calor é suportável.",
+                "cn": "海滩上的热度是可以忍受的。"
+            }
+        ],
+        "synonyms": [
+            "quente"
+        ],
+        "antonyms": [
+            "frio"
+        ]
+    },
+    {
+        "word": "mar",
+        "translation": "海",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Grande extensão de água salgada.",
+        "examples": [
+            {
+                "pt": "O mar está calmo hoje.",
+                "cn": "今天海面很平静。"
+            }
+        ],
+        "synonyms": [
+            "oceano"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "rio",
+        "translation": "河",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Grande corrente natural de água doce.",
+        "examples": [
+            {
+                "pt": "Fizemos um passeio de barco no rio Tejo.",
+                "cn": "我们在塔霍河上乘船游览。"
+            }
+        ],
+        "synonyms": [
+            "ribeiro"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "montanha",
+        "translation": "山",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Grande elevação de terreno.",
+        "examples": [
+            {
+                "pt": "Esta montanha é boa para escalar.",
+                "cn": "这座山很适合攀登。"
+            }
+        ],
+        "synonyms": [
+            "serra"
+        ],
+        "antonyms": [
+            "planície"
+        ]
+    },
+    {
+        "word": "igreja",
+        "translation": "教堂",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Edifício de culto.",
+        "examples": [
+            {
+                "pt": "A igreja da cidade é muito antiga.",
+                "cn": "这座城市的教堂非常古老。"
+            }
+        ],
+        "synonyms": [
+            "templo",
+            "capela"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "praça",
+        "translation": "广场",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lugar público e aberto num centro urbano.",
+        "examples": [
+            {
+                "pt": "Bebemos café na praça central.",
+                "cn": "我们在中央广场喝咖啡。"
+            }
+        ],
+        "synonyms": [
+            "largo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "loja",
+        "translation": "商店",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Local de comércio.",
+        "examples": [
+            {
+                "pt": "A loja vende muitos souvenirs.",
+                "cn": "商店卖很多纪念品。"
+            }
+        ],
+        "synonyms": [
+            "estabelecimento"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "lembrança",
+        "translation": "纪念品",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Objeto trazido de uma viagem.",
+        "examples": [
+            {
+                "pt": "Comprei uma lembrança para ti.",
+                "cn": "我给你买了一份纪念品。"
+            }
+        ],
+        "synonyms": [
+            "souvenir"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "postal",
+        "translation": "明信片",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Cartão ilustrado para enviar pelo correio.",
+        "examples": [
+            {
+                "pt": "Mandei um postal aos meus pais.",
+                "cn": "我给父母寄了一张明信片。"
+            }
+        ],
+        "synonyms": [
+            "cartão-postal"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "selo",
+        "translation": "邮票",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Estampilha para franquiar correspondência.",
+        "examples": [
+            {
+                "pt": "Onde compro um selo?",
+                "cn": "我在哪里可以买到邮票？"
+            }
+        ],
+        "synonyms": [
+            "estampilha"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "carta",
+        "translation": "信",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Mensagem escrita em papel.",
+        "examples": [
+            {
+                "pt": "Escrevi uma carta do Brasil.",
+                "cn": "我从巴西写了一封信。"
+            }
+        ],
+        "synonyms": [
+            "missiva"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "morada",
+        "translation": "地址",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lugar onde se reside ou habita; endereço.",
+        "examples": [
+            {
+                "pt": "Qual é a morada do hotel?",
+                "cn": "酒店的地址是什么？"
+            }
+        ],
+        "synonyms": [
+            "endereço",
+            "domicílio"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "número",
+        "translation": "号码",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Algarismo ou cifra.",
+        "examples": [
+            {
+                "pt": "Qual é o número do autocarro?",
+                "cn": "公交车的号码是多少？"
+            }
+        ],
+        "synonyms": [
+            "algarismo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "telefone",
+        "translation": "电话",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Aparelho de comunicação.",
+        "examples": [
+            {
+                "pt": "O meu telefone não tem bateria.",
+                "cn": "我的电话没电了。"
+            }
+        ],
+        "synonyms": [
+            "telemóvel",
+            "aparelho"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "internet",
+        "translation": "互联网",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Rede mundial de computadores.",
+        "examples": [
+            {
+                "pt": "O hotel tem internet grátis?",
+                "cn": "酒店有免费互联网吗？"
+            }
+        ],
+        "synonyms": [
+            "rede"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "computador",
+        "translation": "电脑",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Máquina eletrónica que processa dados.",
+        "examples": [
+            {
+                "pt": "Trouxe o meu computador portátil.",
+                "cn": "我带来了我的便携式电脑。"
+            }
+        ],
+        "synonyms": [
+            "pc",
+            "portátil"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "mensagem",
+        "translation": "短信; 留言",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Comunicação falada ou escrita.",
+        "examples": [
+            {
+                "pt": "Manda-me uma mensagem quando chegares.",
+                "cn": "你到了的时候给我发条短信。"
+            }
+        ],
+        "synonyms": [
+            "recado"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "amigo",
+        "translation": "朋友",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Companheiro ligado por afeição.",
+        "examples": [
+            {
+                "pt": "Vou fazer a viagem com um amigo.",
+                "cn": "我要和一个朋友一起旅行。"
+            }
+        ],
+        "synonyms": [
+            "companheiro"
+        ],
+        "antonyms": [
+            "inimigo"
+        ]
+    },
+    {
+        "word": "família",
+        "translation": "家庭",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Grupo de pessoas com laços de parentesco.",
+        "examples": [
+            {
+                "pt": "Viajo para visitar a família.",
+                "cn": "我旅行去探望家庭。"
+            }
+        ],
+        "synonyms": [
+            "parentes"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "ajuda",
+        "translation": "帮助",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Ação de auxiliar alguém.",
+        "examples": [
+            {
+                "pt": "Preciso de ajuda com estas malas.",
+                "cn": "我需要别人帮忙拿这些行李。"
+            }
+        ],
+        "synonyms": [
+            "auxílio",
+            "socorro"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "polícia",
+        "translation": "警察",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Força que preserva a ordem pública.",
+        "examples": [
+            {
+                "pt": "A esquadra de polícia fica perto.",
+                "cn": "警察局就在附近。"
+            }
+        ],
+        "synonyms": [
+            "guarda"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "hospital",
+        "translation": "医院",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Estabelecimento onde se tratam doentes.",
+        "examples": [
+            {
+                "pt": "Tem de ir ao hospital.",
+                "cn": "他必须去医院。"
+            }
+        ],
+        "synonyms": [
+            "clínica"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "farmácia",
+        "translation": "药房",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Local onde se vendem medicamentos.",
+        "examples": [
+            {
+                "pt": "Vou comprar aspirinas na farmácia.",
+                "cn": "我要去药房买阿司匹林。"
+            }
+        ],
+        "synonyms": [
+            "botica"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "médico",
+        "translation": "医生",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Pessoa que exerce medicina.",
+        "examples": [
+            {
+                "pt": "Chamem um médico, por favor.",
+                "cn": "请叫医生。"
+            }
+        ],
+        "synonyms": [
+            "doutor",
+            "clínico"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "doente",
+        "translation": "生病的; 病人",
+        "gender": "adj",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Que ou quem padece enfermidade.",
+        "examples": [
+            {
+                "pt": "Ele ficou doente durante as férias.",
+                "cn": "他在假期生病了。"
+            }
+        ],
+        "synonyms": [
+            "enfermo",
+            "indisposto"
+        ],
+        "antonyms": [
+            "são",
+            "saudável"
+        ]
+    },
+    {
+        "word": "saúde",
+        "translation": "健康",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Estado do organismo são.",
+        "examples": [
+            {
+                "pt": "O turismo termal faz bem à saúde.",
+                "cn": "温泉旅游对健康有益。"
+            }
+        ],
+        "synonyms": [
+            "vigor",
+            "bem-estar"
+        ],
+        "antonyms": [
+            "doença"
+        ]
+    },
+    {
+        "word": "seguro",
+        "translation": "保险",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Contrato de proteção contra riscos.",
+        "examples": [
+            {
+                "pt": "Fiz um seguro de viagem.",
+                "cn": "我买了一份旅行保险。"
+            }
+        ],
+        "synonyms": [
+            "garantia",
+            "apólice"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "visto",
+        "translation": "签证",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Autorização de entrada noutro país.",
+        "examples": [
+            {
+                "pt": "Preciso de um visto para o Brasil?",
+                "cn": "我需要去巴西的签证吗？"
+            }
+        ],
+        "synonyms": [
+            "autorização",
+            "permissão"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "alfândega",
+        "translation": "海关",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Repartição onde se pagam os impostos das mercadorias.",
+        "examples": [
+            {
+                "pt": "A alfândega revistou a mala.",
+                "cn": "海关检查了行李箱。"
+            }
+        ],
+        "synonyms": [
+            "aduana"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "porta",
+        "translation": "登机口; 门",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Entrada para embarque no aeroporto.",
+        "examples": [
+            {
+                "pt": "Qual é a porta de embarque?",
+                "cn": "登机口在哪儿？"
+            }
+        ],
+        "synonyms": [
+            "saída",
+            "entrada"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "assento",
+        "translation": "座位",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Lugar onde alguém se senta.",
+        "examples": [
+            {
+                "pt": "O meu assento é o 12A.",
+                "cn": "我的座位是12A。"
+            }
+        ],
+        "synonyms": [
+            "lugar",
+            "cadeira"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "janela",
+        "translation": "窗户",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Abertura para entrada de luz e ar.",
+        "examples": [
+            {
+                "pt": "Eu prefiro o lugar à janela.",
+                "cn": "我偏好靠窗的位置。"
+            }
+        ],
+        "synonyms": [
+            "vidraça"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "corredor",
+        "translation": "过道",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Caminho longo e estreito num transporte.",
+        "examples": [
+            {
+                "pt": "Sento-me sempre no corredor.",
+                "cn": "我总是坐在过道旁。"
+            }
+        ],
+        "synonyms": [
+            "passagem"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "cinto",
+        "translation": "安全带",
+        "gender": "o",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Faixa para segurar os passageiros.",
+        "examples": [
+            {
+                "pt": "Apertem o cinto de segurança.",
+                "cn": "系好安全带。"
+            }
+        ],
+        "synonyms": [
+            "correia"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "segurança",
+        "translation": "安全",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Estado livre de risco e de perigo.",
+        "examples": [
+            {
+                "pt": "A segurança no aeroporto é demorada.",
+                "cn": "机场的安全检查很耗时。"
+            }
+        ],
+        "synonyms": [
+            "certeza",
+            "proteção"
+        ],
+        "antonyms": [
+            "perigo",
+            "risco"
+        ]
+    },
+    {
+        "word": "piloto",
+        "translation": "飞行员",
+        "gender": "o/a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Aquele que dirige uma aeronave.",
+        "examples": [
+            {
+                "pt": "O piloto fala com os passageiros.",
+                "cn": "飞行员与乘客对话。"
+            }
+        ],
+        "synonyms": [
+            "aviador",
+            "condutor"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "hospedeira",
+        "translation": "空姐",
+        "gender": "a",
+        "cefr_level": "A1",
+        "category": "viagem",
+        "priberam_definition": "Profissional que atende os passageiros nos aviões ou comboios.",
+        "examples": [
+            {
+                "pt": "A hospedeira serviu a comida.",
+                "cn": "空服员分发了食物。"
+            }
+        ],
+        "synonyms": [
+            "assistente de bordo",
+            "comissário de bordo"
+        ],
+        "antonyms": []
+    }
+]

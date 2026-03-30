@@ -48,7 +48,7 @@ function normalize(s) {
 
 export default function Exame({ masteredIds, onUnmaster }) {
     const [phase, setPhase] = useState('idle');
-    const [examWords, setExamWords] = useState([]);
+    const [activeExamSet, setActiveExamSet] = useState([]);
     const [currentQ, setCurrentQ] = useState(0);
     const [userInput, setUserInput] = useState('');
     const [results, setResults] = useState([]);
@@ -63,7 +63,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
         const pool = eligible.length > 0 ? eligible : masteredPool;
         const shuffled = [...pool].sort(() => 0.5 - Math.random());
         const selected = shuffled.slice(0, 10);
-        setExamWords(selected);
+        setActiveExamSet(selected);
         setCurrentQ(0);
         setResults([]);
         setUserInput('');
@@ -74,7 +74,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
 
     const handleSubmit = () => {
         if (!userInput.trim() || showAnswer) return;
-        const word = examWords[currentQ];
+        const word = activeExamSet[currentQ];
         const example = word.examples?.[0];
         // answers = actual forms found in the sentence (e.g. ["efêmera"])
         const { answers } = buildCloze(word, example?.pt);
@@ -89,7 +89,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
             setUserInput('');
             setLastCorrect(null);
             setTimeout(() => {
-                if (currentQ + 1 >= examWords.length) setPhase('results');
+                if (currentQ + 1 >= activeExamSet.length) setPhase('results');
                 else setCurrentQ(q => q + 1);
             }, 700);
         } else {
@@ -101,13 +101,13 @@ export default function Exame({ masteredIds, onUnmaster }) {
         setShowAnswer(false);
         setUserInput('');
         setLastCorrect(null);
-        if (currentQ + 1 >= examWords.length) setPhase('results');
+        if (currentQ + 1 >= activeExamSet.length) setPhase('results');
         else setCurrentQ(q => q + 1);
     };
 
     const restartExam = () => {
         setPhase('idle');
-        setExamWords([]);
+        setActiveExamSet([]);
         setResults([]);
         setUserInput('');
     };
@@ -127,7 +127,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
             }}>
                 {count === 0 ? (
                     /* ── Empty State ── */
-                    <div className="sticky-note" style={{ padding: '32px 24px', textAlign: 'center', width: '100%' }}>
+                    <div className="sticky-note" style={{ padding: '32px 24px', textAlign: 'center', width: '100%', transform: 'translateY(-70px)' }}>
                         <svg width="52" height="52" viewBox="0 0 24 24" fill="none" stroke="var(--text-soft)" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" style={{ marginBottom: '14px', opacity: 0.6 }}>
                             <path d="M12 20h9"></path>
                             <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
@@ -199,7 +199,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
 
     // ── TESTING ───────────────────────────────────────────────────
     if (phase === 'testing') {
-        const word = examWords[currentQ];
+        const word = activeExamSet[currentQ];
         const example = word.examples?.[0];
         const { cloze, answers } = buildCloze(word, example?.pt);
         // The first captured answer is what we show on reveal
@@ -210,10 +210,10 @@ export default function Exame({ masteredIds, onUnmaster }) {
                 {/* Progress dots */}
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '14px', padding: '0 2px' }}>
                     <span className="handwritten" style={{ color: 'var(--text-soft)', fontSize: '0.9rem' }}>
-                        {currentQ + 1} / {examWords.length}
+                        {currentQ + 1} / {activeExamSet.length}
                     </span>
                     <div style={{ display: 'flex', gap: '5px' }}>
-                        {examWords.map((_, i) => (
+                        {activeExamSet.map((_, i) => (
                             <div key={i} style={{
                                 width: '8px', height: '8px', borderRadius: '50%',
                                 background: i < results.length
@@ -340,7 +340,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
                                 </div>
                             </div>
                             <button onClick={nextQuestion} className="action-btn handwritten" style={{ width: '100%', padding: '12px' }}>
-                                {currentQ + 1 >= examWords.length ? '查看结果 →' : '下一题 →'}
+                                {currentQ + 1 >= activeExamSet.length ? '查看结果 →' : '下一题 →'}
                             </button>
                         </div>
                     )}

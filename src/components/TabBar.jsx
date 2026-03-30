@@ -1,9 +1,9 @@
-import { IconPaper, IconBoats, IconFolder, IconExame } from './Icons';
+import { IconPaper, IconBook, IconFolder, IconExame } from './Icons';
 
 export default function TabBar({ activeTab, onTabChange }) {
     const tabs = [
         { id: 'livro', icon: <IconPaper />, label: 'Aprender' },
-        { id: 'duelo', icon: <IconBoats />, label: 'Duelo' },
+        { id: 'leitura', icon: <IconBook />, label: 'Leitura' },
         { id: 'favoritos', icon: <IconFolder />, label: 'Favoritos' },
         { id: 'exame', icon: <IconExame />, label: 'Exame' }
     ];

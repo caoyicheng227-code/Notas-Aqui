@@ -1,0 +1,1299 @@
+[
+    {
+        "word": "académico",
+        "translation": "学术的",
+        "gender": "adj",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Relativo aos estudos superiores.",
+        "examples": [
+            {
+                "pt": "O ano académico.",
+                "cn": "学年。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "currículo",
+        "translation": "课程表",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Plano de disciplinas.",
+        "examples": [
+            {
+                "pt": "O currículo exige.",
+                "cn": "课程要求它。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "planificação",
+        "translation": "规划",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ação de planear.",
+        "examples": [
+            {
+                "pt": "Planificação escolar.",
+                "cn": "学校规划。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "programa",
+        "translation": "大纲",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Conteúdo estruturado.",
+        "examples": [
+            {
+                "pt": "No programa deste ano.",
+                "cn": "关于今年的计划。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "semestre",
+        "translation": "学期(半年)",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Fase escolar.",
+        "examples": [
+            {
+                "pt": "O primeiro semestre.",
+                "cn": "第一学期。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "trimestre",
+        "translation": "学期(一季)",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Três meses letivos.",
+        "examples": [
+            {
+                "pt": "Nota do trimestre.",
+                "cn": "本季度的注释。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "período",
+        "translation": "时间段",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Intervalo de tempo escolar.",
+        "examples": [
+            {
+                "pt": "O terceiro período.",
+                "cn": "第三期。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "feriado",
+        "translation": "法定节假日",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Dia não letivo.",
+        "examples": [
+            {
+                "pt": "Amanhã é feriado.",
+                "cn": "明天是假期。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "férias escolares",
+        "translation": "学校假期",
+        "gender": "as",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Interrupção do estudo anual.",
+        "examples": [
+            {
+                "pt": "Gozo as férias escolares.",
+                "cn": "我很享受学校假期。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "caloiro",
+        "translation": "大学新生",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Novo aluno universitário.",
+        "examples": [
+            {
+                "pt": "Ele é caloiro.",
+                "cn": "他是一年级新生。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "veterano",
+        "translation": "老生",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Aluno mais antigo.",
+        "examples": [
+            {
+                "pt": "Cumprir ao veterano.",
+                "cn": "向老兵致敬。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "praxe",
+        "translation": "迎新传统",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Prática tradicional a caloiros.",
+        "examples": [
+            {
+                "pt": "Praxe académica.",
+                "cn": "学术实践。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "associação",
+        "translation": "协会",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Grupo de estudantes.",
+        "examples": [
+            {
+                "pt": "Associação de alunos.",
+                "cn": "学生会。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "núcleo",
+        "translation": "社团",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Agrupamento temático de alunos.",
+        "examples": [
+            {
+                "pt": "Núcleo informático.",
+                "cn": "IT核心。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "reitoria",
+        "translation": "校长办公室",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Sede de um reitor.",
+        "examples": [
+            {
+                "pt": "A reunião na reitoria.",
+                "cn": "会议在教区长官邸举行。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "campus",
+        "translation": "大学校园",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Terreno da universidade.",
+        "examples": [
+            {
+                "pt": "Passear pelo campus.",
+                "cn": "漫步校园。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "auditório",
+        "translation": "大型礼堂",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Sala equipada para palestras.",
+        "examples": [
+            {
+                "pt": "A apresentação foi no auditório.",
+                "cn": "演讲是在礼堂进行的。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "anfiteatro",
+        "translation": "阶梯教室",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Sala disposta em semicírculo com lousa.",
+        "examples": [
+            {
+                "pt": "A aula magna no anfiteatro.",
+                "cn": "露天剧场的大师班。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "seminário",
+        "translation": "研讨会",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Classe onde o professor e alunos debatem temas.",
+        "examples": [
+            {
+                "pt": "Preparar o seminário.",
+                "cn": "准备研讨会。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "conferência",
+        "translation": "大会/讲座",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Palestra formal para públicos.",
+        "examples": [
+            {
+                "pt": "Assistir à conferência.",
+                "cn": "参加会议。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "congresso",
+        "translation": "代表大会",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Reuniões solenes.",
+        "examples": [
+            {
+                "pt": "Congresso de médicos.",
+                "cn": "医生大会。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "simpósio",
+        "translation": "学术讨论会",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Reunião de peritos.",
+        "examples": [
+            {
+                "pt": "Simpósio anual.",
+                "cn": "年度研讨会。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "palestra",
+        "translation": "讲座",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Apresentação expositiva em ambiente académico.",
+        "examples": [
+            {
+                "pt": "Fez boa palestra.",
+                "cn": "他讲得很好。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "orador",
+        "translation": "演讲者",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Pessoa que fala e apresenta.",
+        "examples": [
+            {
+                "pt": "Bom orador.",
+                "cn": "好演讲者。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "debate",
+        "translation": "辩论",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Discussão controversa.",
+        "examples": [
+            {
+                "pt": "Ganhar o debate.",
+                "cn": "赢得辩论。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tese",
+        "translation": "博士论文",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Trabalho científico final de alto grau.",
+        "examples": [
+            {
+                "pt": "Apresentou a tese.",
+                "cn": "提出了论文。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "dissertação",
+        "translation": "硕士论文",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Exposição para mestrados sobre tema formal.",
+        "examples": [
+            {
+                "pt": "A dissertação completa.",
+                "cn": "完整的论文。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "monografia",
+        "translation": "专著/小论文",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ensino detalhado sobre um assunto específico.",
+        "examples": [
+            {
+                "pt": "Trabalhou na monografia.",
+                "cn": "他撰写了专着。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "artigo",
+        "translation": "文章/论文",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Textos técnicos ou reflexivos.",
+        "examples": [
+            {
+                "pt": "Publicou um artigo.",
+                "cn": "发表文章。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "publicação",
+        "translation": "发表",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Tornar texto público.",
+        "examples": [
+            {
+                "pt": "Publicação oficial.",
+                "cn": "正式出版。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "periódico",
+        "translation": "期刊",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Publicação feita de forma espaçada.",
+        "examples": [
+            {
+                "pt": "Encontrou no periódico.",
+                "cn": "在日记里找到的。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "referência",
+        "translation": "参考",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ligar ou citar autores.",
+        "examples": [
+            {
+                "pt": "Referência bibliográfica.",
+                "cn": "参考书目。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bibliografia",
+        "translation": "参考书目",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Listagem final das referências no artigo.",
+        "examples": [
+            {
+                "pt": "Colocou na bibliografia.",
+                "cn": "放入参考书目中。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "citação",
+        "translation": "引用",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Uso de textos literais de autores terceiros.",
+        "examples": [
+            {
+                "pt": "Fazer uma citação.",
+                "cn": "报价。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "plágio",
+        "translation": "抄袭",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ato de tirar o trabalho sem citar autoria original.",
+        "examples": [
+            {
+                "pt": "Cuidado com plágio.",
+                "cn": "小心抄袭。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "metodologia",
+        "translation": "方法论",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Estudo do próprio método de pesquisa usado.",
+        "examples": [
+            {
+                "pt": "Mudou a metodologia.",
+                "cn": "方法论发生了变化。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "hipótese",
+        "translation": "假设",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Previsão sem prova final.",
+        "examples": [
+            {
+                "pt": "A hipótese foi refutada.",
+                "cn": "该假设被驳斥。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "teoria",
+        "translation": "理论",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Sistematização de certos elementos.",
+        "examples": [
+            {
+                "pt": "Teoria científica clássica.",
+                "cn": "经典科学理论。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "conceito",
+        "translation": "概念",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ideia formada base de estudo.",
+        "examples": [
+            {
+                "pt": "O conceito chave.",
+                "cn": "关键概念。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "paradigma",
+        "translation": "范式",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Regras e teorias válidas momentaneamente.",
+        "examples": [
+            {
+                "pt": "Uma mudança de paradigma.",
+                "cn": "范式转变。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "análise",
+        "translation": "分析",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Exame minucioso.",
+        "examples": [
+            {
+                "pt": "Esta análise resultou.",
+                "cn": "这个分析奏效了。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "síntese",
+        "translation": "综合",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "A união de diferentes partes em algo simples.",
+        "examples": [
+            {
+                "pt": "Fazer boa síntese.",
+                "cn": "进行良好的综合。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "conclusão",
+        "translation": "结论",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ultima fase do pensamento ou texto.",
+        "examples": [
+            {
+                "pt": "Nesta conclusão de relatório.",
+                "cn": "在这份报告的结论中。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "introdução",
+        "translation": "导言",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Começo de todos os discursos teóricos ou dissertações escritas sobre isto que fala e assim os diz.",
+        "examples": [
+            {
+                "pt": "A bela parte desta introdução longa.",
+                "cn": "这篇长篇介绍中最精彩的部分。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "argumento",
+        "translation": "论点",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ponto fulcral de base teórica.",
+        "examples": [
+            {
+                "pt": "O tal argumento.",
+                "cn": "那个论点。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fundamento",
+        "translation": "依据",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Base de tudo isso.",
+        "examples": [
+            {
+                "pt": "Com o forte fundamento.",
+                "cn": "具有扎实的基础。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "validar",
+        "translation": "证实",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Dar a sua aprovação ou justificar algo para os lados dos mesmos perante algo que no tempo dele é o ideal para o avanço dos mesmos por lá e a tudo a mais do que isso pode no do aos por e em do e dos num num dum por pelo os",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "refutar",
+        "translation": "反驳",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Contrariar as teses alheias demonstrando razões por e dos no ao na os por dum na de que isso lhes seja muito.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "questionar",
+        "translation": "质问",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Fazer perguntas sobre um tópico num contexto polémico para os aos de dos dum do pelo dum dos",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "debater",
+        "translation": "辩论",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ter a ideia num plano verbal perante adversários por do de com aos pelo dos de em do",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "argumentar",
+        "translation": "论证",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ato pleno de tentar com uma boa frase convencer o outro durante uma prova cabal do de no.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "intervir",
+        "translation": "干预",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ato prático de o ao no num dum com dos no para de.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "participar",
+        "translation": "参与",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Estar ativamente do com e do na no no ao aos dos num dum e a do nos o um ao da a que no em.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "colaborar",
+        "translation": "合作",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Praticar ajuda ou estudo lado a lado àquilo que os outros fizeram no mesmo ponto no grupo do em pelo aos dos do num e ao no num por",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "investigar",
+        "translation": "调查",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Pôr a vida num bom ato.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pesquisar",
+        "translation": "研究",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ato perito de procurar por.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bolsa de estudo",
+        "translation": "奖学金",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "A ajuda ideal no lado na por que se pode no final das pelas de da.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "financiamento",
+        "translation": "资助",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Meio no qual os seus apoios e nas da a.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "investigador",
+        "translation": "研究员",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Aquele de entre pela as de por na em que.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "orientador",
+        "translation": "指导老师",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Quem o a pelo e na.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "coordenador",
+        "translation": "协调员",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Responsável da equipa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tutor",
+        "translation": "辅导员",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Mentor pessoal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "intercâmbio",
+        "translation": "交换项目",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Troca académica.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "erasmus",
+        "translation": "伊拉斯谟项目",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Projeto Europeu.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "mobilidade",
+        "translation": "流动性",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Mover-se geograficamente no estudo.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "estágio",
+        "translation": "实习",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Trabalho real em ambiente formativo.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "relatório",
+        "translation": "报告",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "defender",
+        "translation": "答辩",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "apresentação pública",
+        "translation": "公开展示",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "júri",
+        "translation": "评委",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "arguição",
+        "translation": "质询",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "avaliação contínua",
+        "translation": "平时成绩",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "frequência",
+        "translation": "出勤率/平时测验",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "recurso",
+        "translation": "补考",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "melhoria",
+        "translation": "刷分",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "época especial",
+        "translation": "特殊考试季",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pauta",
+        "translation": "成绩单",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "média",
+        "translation": "平均分",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "mérito",
+        "translation": "功绩",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "distinção",
+        "translation": "优秀",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "excelência",
+        "translation": "卓越",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "exigência",
+        "translation": "要求",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rigor",
+        "translation": "严谨",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "dedicação",
+        "translation": "奉献",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "empenho",
+        "translation": "努力",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Definição do dicionário de língua portuguesa.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "superar",
+        "translation": "克服",
+        "gender": "v",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Vencer obstáculos.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "dificuldade",
+        "translation": "困难",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Obstáculo a vencer.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "obstáculo",
+        "translation": "障碍",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Barreira.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "sucesso",
+        "translation": "成功",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Triunfo.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fracasso",
+        "translation": "失败",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Falta de sucesso.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "competência",
+        "translation": "能力",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Capacidade ideal.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "habilidade",
+        "translation": "技能",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Aptidão natural.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "conhecimento",
+        "translation": "知识",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Ato de saber.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "sabedoria",
+        "translation": "智慧",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Saber profundo.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "raciocínio",
+        "translation": "推理",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Pensamento lógico.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "lógica",
+        "translation": "逻辑",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Pensamento correto.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "espírito crítico",
+        "translation": "批判性思维",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "estudo",
+        "priberam_definition": "Análise cética e boa para estudos do aluno.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    }
+]

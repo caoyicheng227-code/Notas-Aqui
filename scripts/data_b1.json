@@ -1,0 +1,1908 @@
+[
+    {
+        "word": "escritório",
+        "translation": "办公室",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Local onde se executam trabalhos de caráter administrativo ou comercial.",
+        "examples": [
+            {
+                "pt": "Ele passa o dia todo no escritório.",
+                "cn": "他一整天都在办公室里。"
+            }
+        ],
+        "synonyms": [
+            "gabinete"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "trabalho",
+        "translation": "工作",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Atividade produtiva que o ser humano exerce.",
+        "examples": [
+            {
+                "pt": "O meu trabalho é muito exigente.",
+                "cn": "我的工作要求很高。"
+            }
+        ],
+        "synonyms": [
+            "emprego",
+            "serviço"
+        ],
+        "antonyms": [
+            "ócio",
+            "descanso"
+        ]
+    },
+    {
+        "word": "emprego",
+        "translation": "职位; 就业",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ocupação remunerada; profissão.",
+        "examples": [
+            {
+                "pt": "Ela encontrou um novo emprego no banco.",
+                "cn": "她在银行找到了一份新工作。"
+            }
+        ],
+        "synonyms": [
+            "ofício",
+            "trabalho"
+        ],
+        "antonyms": [
+            "desemprego"
+        ]
+    },
+    {
+        "word": "funcionário",
+        "translation": "职员",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que trabalha numa empresa com contrato regular.",
+        "examples": [
+            {
+                "pt": "Temos trezentos funcionários na empresa.",
+                "cn": "我们公司有三百名员工。"
+            }
+        ],
+        "synonyms": [
+            "empregado",
+            "trabalhador"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "chefe",
+        "translation": "老板; 领导",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pessoa que dirige, orienta ou comanda.",
+        "examples": [
+            {
+                "pt": "O meu chefe é compreensivo.",
+                "cn": "我的老板很善解人意。"
+            }
+        ],
+        "synonyms": [
+            "patrão",
+            "diretor"
+        ],
+        "antonyms": [
+            "subordinado"
+        ]
+    },
+    {
+        "word": "patrão",
+        "translation": "老板",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "O proprietário de uma empresa em relação aos que nela trabalham.",
+        "examples": [
+            {
+                "pt": "O patrão chamou-me ao gabinete.",
+                "cn": "老板把我叫到了办公室。"
+            }
+        ],
+        "synonyms": [
+            "chefe"
+        ],
+        "antonyms": [
+            "empregado"
+        ]
+    },
+    {
+        "word": "colega",
+        "translation": "同事",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pessoa que trabalha na mesma profissão ou lugar.",
+        "examples": [
+            {
+                "pt": "Fui almoçar com os meus colegas de equipa.",
+                "cn": "我和团队同事一起去吃午饭。"
+            }
+        ],
+        "synonyms": [
+            "companheiro"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "profissão",
+        "translation": "职业",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Emprego ou ofício que se exerce de forma continuada.",
+        "examples": [
+            {
+                "pt": "Qual é a tua profissão atual?",
+                "cn": "你现在的职业是什么？"
+            }
+        ],
+        "synonyms": [
+            "ofício",
+            "carreira"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "carreira",
+        "translation": "事业",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Profissão encarada no seu decurso e promoções.",
+        "examples": [
+            {
+                "pt": "Ele tem uma carreira brilhante na medicina.",
+                "cn": "他在医学界有着辉煌的事业。"
+            }
+        ],
+        "synonyms": [
+            "profissão"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "currículo",
+        "translation": "简历",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Conjunto de dados biográficos e profissionais.",
+        "examples": [
+            {
+                "pt": "Envie o seu currículo por e-mail.",
+                "cn": "请通过电子邮件发送你的简历。"
+            }
+        ],
+        "synonyms": [
+            "CV"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "entrevista",
+        "translation": "面试",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Conversação com fim indagatório para emprego ou reportagem.",
+        "examples": [
+            {
+                "pt": "Tenho uma entrevista de emprego na terça.",
+                "cn": "我周二有一个求职面试。"
+            }
+        ],
+        "synonyms": [
+            "audiência"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "candidato",
+        "translation": "候选人; 求职者",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pessoa que se propõe a ocupar vaga.",
+        "examples": [
+            {
+                "pt": "O candidato ideal deve falar inglês.",
+                "cn": "理想的候选人必须会说英语。"
+            }
+        ],
+        "synonyms": [
+            "pretendente",
+            "concorrente"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "vaga",
+        "translation": "空缺; 职位",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Emprego livre ou não preenchido.",
+        "examples": [
+            {
+                "pt": "A empresa abriu uma nova vaga de gerente.",
+                "cn": "公司开放了一个新的经理空缺。"
+            }
+        ],
+        "synonyms": [
+            "lugar",
+            "posto"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "salário",
+        "translation": "薪水",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Remuneração regular que o trabalhador recebe.",
+        "examples": [
+            {
+                "pt": "O salário mínimo aumentou este ano.",
+                "cn": "今年的最低工资涨了。"
+            }
+        ],
+        "synonyms": [
+            "remuneração",
+            "vencimento"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "pagamento",
+        "translation": "付款",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ato de pagar ou satisfazer dívida.",
+        "examples": [
+            {
+                "pt": "O pagamento é feito por transferência.",
+                "cn": "付款通过转账进行。"
+            }
+        ],
+        "synonyms": [
+            "liquidação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "recibo",
+        "translation": "收据; 工资条",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Documento que prova recebimento.",
+        "examples": [
+            {
+                "pt": "Recebeste o recibo de vencimento do mês passado?",
+                "cn": "你收到上个月的工资单了吗？"
+            }
+        ],
+        "synonyms": [
+            "comprovativo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "contrato",
+        "translation": "合同",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Acordo entre duas ou mais partes com obrigações legais.",
+        "examples": [
+            {
+                "pt": "Assinei o contrato de trabalho hoje.",
+                "cn": "我今天签了劳动合同。"
+            }
+        ],
+        "synonyms": [
+            "acordo",
+            "pacto"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "empresa",
+        "translation": "公司",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Organização comercial ou industrial.",
+        "examples": [
+            {
+                "pt": "É uma grande empresa multinacional.",
+                "cn": "这是一家大型跨国公司。"
+            }
+        ],
+        "synonyms": [
+            "companhia",
+            "firma"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "negócio",
+        "translation": "生意; 业务",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Qualquer transação comercial.",
+        "examples": [
+            {
+                "pt": "Fizeram um bom negócio imobiliário.",
+                "cn": "他们做了一笔不错的房地产交易。"
+            }
+        ],
+        "synonyms": [
+            "comércio",
+            "transação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "comércio",
+        "translation": "贸易; 商业",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Troca ou venda de mercadorias.",
+        "examples": [
+            {
+                "pt": "O comércio eletrónico cresceu imenso.",
+                "cn": "电子商务增长巨大。"
+            }
+        ],
+        "synonyms": [
+            "mercado",
+            "venda"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "indústria",
+        "translation": "工业",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Conjunto de atividades para transformar matérias-primas em produtos.",
+        "examples": [
+            {
+                "pt": "A indústria automóvel emprega milhares.",
+                "cn": "汽车工业雇用了数千人。"
+            }
+        ],
+        "synonyms": [
+            "produção",
+            "fabrico"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "fábrica",
+        "translation": "工厂",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Edifício onde funciona uma indústria.",
+        "examples": [
+            {
+                "pt": "Esta fábrica produz calçado.",
+                "cn": "这家工厂生产鞋子。"
+            }
+        ],
+        "synonyms": [
+            "manufatura"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "filial",
+        "translation": "分公司; 分店",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Estabelecimento subordinado a outro central.",
+        "examples": [
+            {
+                "pt": "Abrimos uma filial no Porto.",
+                "cn": "我们在波尔图开了一家分店。"
+            }
+        ],
+        "synonyms": [
+            "sucursal"
+        ],
+        "antonyms": [
+            "sede"
+        ]
+    },
+    {
+        "word": "sede",
+        "translation": "总部",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Lugar onde se estabelece a administração central.",
+        "examples": [
+            {
+                "pt": "A sede do banco é em Lisboa.",
+                "cn": "银行总部位於里斯本。"
+            }
+        ],
+        "synonyms": [
+            "central"
+        ],
+        "antonyms": [
+            "filial"
+        ]
+    },
+    {
+        "word": "cliente",
+        "translation": "客户",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que compra os bens ou os serviços.",
+        "examples": [
+            {
+                "pt": "O cliente tem sempre razão.",
+                "cn": "顾客永远是对的。"
+            }
+        ],
+        "synonyms": [
+            "comprador",
+            "freguês"
+        ],
+        "antonyms": [
+            "fornecedor"
+        ]
+    },
+    {
+        "word": "fornecedor",
+        "translation": "供应商",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "O que provê de tudo o que é necessário.",
+        "examples": [
+            {
+                "pt": "O fornecedor não entregou a matéria-prima.",
+                "cn": "供应商没有运送原材料。"
+            }
+        ],
+        "synonyms": [
+            "abastecedor"
+        ],
+        "antonyms": [
+            "cliente"
+        ]
+    },
+    {
+        "word": "reunião",
+        "translation": "会议",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Agrupamento de pessoas para discutir assunto.",
+        "examples": [
+            {
+                "pt": "A reunião demora cerca de duas horas.",
+                "cn": "会议大约需要两小时。"
+            }
+        ],
+        "synonyms": [
+            "assembleia",
+            "encontro"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "agenda",
+        "translation": "日程安排",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Lista de atividades diárias ou obrigações.",
+        "examples": [
+            {
+                "pt": "Tenho a agenda completamente cheia hoje.",
+                "cn": "我今天的日程安排得满满的。"
+            }
+        ],
+        "synonyms": [
+            "programa"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "horário",
+        "translation": "时间表; 上班时间",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Distribuição das horas de serviço.",
+        "examples": [
+            {
+                "pt": "O meu horário de trabalho é flexível.",
+                "cn": "我的工作时间很灵活。"
+            }
+        ],
+        "synonyms": [
+            "jornada"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "pontualidade",
+        "translation": "准时",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Exatidão na observação da hora marcada.",
+        "examples": [
+            {
+                "pt": "A pontualidade é requerida a todos os funcionários.",
+                "cn": "要求所有员工都要准时。"
+            }
+        ],
+        "synonyms": [
+            "exatidão"
+        ],
+        "antonyms": [
+            "atraso",
+            "demora"
+        ]
+    },
+    {
+        "word": "atraso",
+        "translation": "迟到",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Falta de pontualidade.",
+        "examples": [
+            {
+                "pt": "Peço desculpa pelo atraso na entrega.",
+                "cn": "为交付的延误我表示歉意。"
+            }
+        ],
+        "synonyms": [
+            "demora",
+            "tardança"
+        ],
+        "antonyms": [
+            "pontualidade"
+        ]
+    },
+    {
+        "word": "pausa",
+        "translation": "休息",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Interrupção momentânea de ação.",
+        "examples": [
+            {
+                "pt": "Fazemos uma pausa de 15 minutos de manhã.",
+                "cn": "我们上午休息15分钟。"
+            }
+        ],
+        "synonyms": [
+            "intervalo"
+        ],
+        "antonyms": [
+            "continuação"
+        ]
+    },
+    {
+        "word": "turno",
+        "translation": "班次",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Período em que se deve revezar no trabalho.",
+        "examples": [
+            {
+                "pt": "Esta semana estou no turno da noite.",
+                "cn": "这周我上夜班。"
+            }
+        ],
+        "synonyms": [
+            "revezamento"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "equipa",
+        "translation": "团队",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Conjunto de pessoas que realizam uma tarefa comum.",
+        "examples": [
+            {
+                "pt": "O espírito de equipa é essencial aqui.",
+                "cn": "团队精神在这里至关重要。"
+            }
+        ],
+        "synonyms": [
+            "equipe",
+            "grupo"
+        ],
+        "antonyms": [
+            "indivíduo"
+        ]
+    },
+    {
+        "word": "projeto",
+        "translation": "项目",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Plano abrangente para executar obra.",
+        "examples": [
+            {
+                "pt": "O novo projeto arranca na segunda-feira.",
+                "cn": "新项目将于周一开始。"
+            }
+        ],
+        "synonyms": [
+            "plano",
+            "esboço"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "objetivo",
+        "translation": "目标",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Fim que se pretende alcançar.",
+        "examples": [
+            {
+                "pt": "O objetivo de vendas foi atingido.",
+                "cn": "销售目标已达成。"
+            }
+        ],
+        "synonyms": [
+            "meta",
+            "alvo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "sucesso",
+        "translation": "成功",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Qualquer resultado feliz; bom êxito.",
+        "examples": [
+            {
+                "pt": "O negócio foi um enorme sucesso.",
+                "cn": "这笔生意取得了巨大的成功。"
+            }
+        ],
+        "synonyms": [
+            "êxito",
+            "triunfo"
+        ],
+        "antonyms": [
+            "falha",
+            "fracasso"
+        ]
+    },
+    {
+        "word": "falha",
+        "translation": "失败; 过失",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Falta cometida; erro ou insucesso.",
+        "examples": [
+            {
+                "pt": "A falha ocorreu devido a uma falha no sistema.",
+                "cn": "由于系统故障导致了失败。"
+            }
+        ],
+        "synonyms": [
+            "erro",
+            "lapso"
+        ],
+        "antonyms": [
+            "acerto",
+            "sucesso"
+        ]
+    },
+    {
+        "word": "lucro",
+        "translation": "利润",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ganho que se obtém na atividade comercial.",
+        "examples": [
+            {
+                "pt": "Os lucros líquidos da empresa subiram 5%.",
+                "cn": "公司的净利润上升了5%。"
+            }
+        ],
+        "synonyms": [
+            "ganho",
+            "rendimento"
+        ],
+        "antonyms": [
+            "prejuízo",
+            "perda"
+        ]
+    },
+    {
+        "word": "prejuízo",
+        "translation": "亏损",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Perda financeira ou dano.",
+        "examples": [
+            {
+                "pt": "A crise económica causou prejuízos irreparáveis.",
+                "cn": "经济危机造成了不可挽回的损失。"
+            }
+        ],
+        "synonyms": [
+            "perda",
+            "dano"
+        ],
+        "antonyms": [
+            "lucro"
+        ]
+    },
+    {
+        "word": "investimento",
+        "translation": "投资",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aplicação de capital para obter rentabilidade.",
+        "examples": [
+            {
+                "pt": "Eles fizeram um grande investimento em tecnologia.",
+                "cn": "他们在技术方面进行了巨大的投资。"
+            }
+        ],
+        "synonyms": [
+            "aplicação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "despesa",
+        "translation": "开支",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Gasto, gasto efetuado.",
+        "examples": [
+            {
+                "pt": "É necessário reduzir a despesa do departamento.",
+                "cn": "必须减少部门的开支。"
+            }
+        ],
+        "synonyms": [
+            "gasto",
+            "custo"
+        ],
+        "antonyms": [
+            "receita",
+            "renda"
+        ]
+    },
+    {
+        "word": "orçamento",
+        "translation": "预算",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Cálculo estimativo de gastos e receitas para um período.",
+        "examples": [
+            {
+                "pt": "O orçamento da empresa para este ano é limitado.",
+                "cn": "公司今年的预算很有限。"
+            }
+        ],
+        "synonyms": [
+            "estimativa"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "relatório",
+        "translation": "报告",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Documento escrito onde se expõe resultados informativos.",
+        "examples": [
+            {
+                "pt": "O relatório anual tem cem páginas.",
+                "cn": "年度报告有100页。"
+            }
+        ],
+        "synonyms": [
+            "memória",
+            "parecer"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "apresentação",
+        "translation": "演示; 报告会",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Exposição pública de um tema, projeto, produto.",
+        "examples": [
+            {
+                "pt": "Fiz uma apresentação para os clientes.",
+                "cn": "我给客户做了演示。"
+            }
+        ],
+        "synonyms": [
+            "exposição"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "gráfico",
+        "translation": "图表",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Representação que serve para ilustrar as variações de algo (dados).",
+        "examples": [
+            {
+                "pt": "Os lucros constam num gráfico circular.",
+                "cn": "利润用圆饼图表示。"
+            }
+        ],
+        "synonyms": [
+            "diagrama"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "mercado",
+        "translation": "市场",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Estado da oferta e procura de artigos ou comércio livre.",
+        "examples": [
+            {
+                "pt": "Temos que analisar o comportamento do mercado.",
+                "cn": "我们需要分析市场行为。"
+            }
+        ],
+        "synonyms": [
+            "praça",
+            "comércio"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "concorrência",
+        "translation": "竞争(对手)",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Disputa entre pretendentes do mesmo objetivo nos negócios.",
+        "examples": [
+            {
+                "pt": "A concorrência no mundo informático é forte.",
+                "cn": "IT行业的竞争非常激烈。"
+            }
+        ],
+        "synonyms": [
+            "competição",
+            "rivalidade"
+        ],
+        "antonyms": [
+            "monopólio"
+        ]
+    },
+    {
+        "word": "produto",
+        "translation": "产品",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aquilo que é produzido pela natureza, técnica ou indústria.",
+        "examples": [
+            {
+                "pt": "Vamos lançar um novo produto no mercado.",
+                "cn": "我们将向市场推出一种新产品。"
+            }
+        ],
+        "synonyms": [
+            "artigo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "serviço",
+        "translation": "服务",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ação ou produto do trabalho que não é material.",
+        "examples": [
+            {
+                "pt": "A qualidade do serviço ao cliente é fraca.",
+                "cn": "这里的客服务质量很差。"
+            }
+        ],
+        "synonyms": [
+            "atendimento"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "computador",
+        "translation": "电脑",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aparelho eletrónico destinado a processar e tratar dados.",
+        "examples": [
+            {
+                "pt": "O computador da receção avariou.",
+                "cn": "接待处的电脑坏了。"
+            }
+        ],
+        "synonyms": [
+            "portátil"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "internet",
+        "translation": "互联网",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Rede mundial de comunicação de computadores.",
+        "examples": [
+            {
+                "pt": "A internet da empresa foi a baixo.",
+                "cn": "公司的网络断了。"
+            }
+        ],
+        "synonyms": [
+            "rede"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "rede",
+        "translation": "网络",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Sistemas de conetividade entre computadores e telefones.",
+        "examples": [
+            {
+                "pt": "Estou a ter problemas na rede local.",
+                "cn": "我的局域网遇到了问题。"
+            }
+        ],
+        "synonyms": [
+            "internet",
+            "conexão"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "e-mail",
+        "translation": "电子邮件",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Correio eletrónico.",
+        "examples": [
+            {
+                "pt": "Mande-me o relatório por e-mail, por favor.",
+                "cn": "请通过电子邮件把报告发送给我。"
+            }
+        ],
+        "synonyms": [
+            "correio eletrónico"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "mensagem",
+        "translation": "信息",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Comunicação verbal ou escrita dirigida a alguém.",
+        "examples": [
+            {
+                "pt": "Deixei-lhe uma mensagem no atendedor de chamadas.",
+                "cn": "我在他的留言机上留了言。"
+            }
+        ],
+        "synonyms": [
+            "recado"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "arquivo",
+        "translation": "档案室; 文件",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Lugar onde se guardam documentos, ou um registo de dados digitais.",
+        "examples": [
+            {
+                "pt": "Ponha este dossier no arquivo.",
+                "cn": "把这个文件夹放在档案室。"
+            }
+        ],
+        "synonyms": [
+            "ficheiro",
+            "registo"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "pasta",
+        "translation": "公文包; 文件夹",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Saco retangular para documentos; ou diretório fixo digital.",
+        "examples": [
+            {
+                "pt": "Esqueci-me da minha pasta no escritório.",
+                "cn": "我把公文包落在了办公室。"
+            }
+        ],
+        "synonyms": [
+            "dossier",
+            "dossiê",
+            "cartapácio"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "documento",
+        "translation": "文件",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Texto escrito que tem força de prova; arquivo informático.",
+        "examples": [
+            {
+                "pt": "Assinei o documento hoje à tarde.",
+                "cn": "我今天下午签了文件。"
+            }
+        ],
+        "synonyms": [
+            "comprovante",
+            "ficheiro"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "teclado",
+        "translation": "键盘",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Periférico com teclas para introdução de dados.",
+        "examples": [
+            {
+                "pt": "O r do meu teclado não funciona bem.",
+                "cn": "我键盘上的'R'键不太灵。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rato",
+        "translation": "鼠标",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Acessório informático para mover o cursor no ecrã.",
+        "examples": [
+            {
+                "pt": "Este rato ergonómico evita dores.",
+                "cn": "这款人体工学鼠标防痛。"
+            }
+        ],
+        "synonyms": [
+            "mouse"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "ecrã",
+        "translation": "显示器; 屏幕",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aparelho ou superfície que apresenta imagens geradas no computador.",
+        "examples": [
+            {
+                "pt": "O ecrã tátil estava estragado.",
+                "cn": "触摸屏坏了。"
+            }
+        ],
+        "synonyms": [
+            "monitor",
+            "visor"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "impressora",
+        "translation": "打印机",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Máquina que permite pôr em papel o que está no computador.",
+        "examples": [
+            {
+                "pt": "A impressora ficou sem papel.",
+                "cn": "打印机没有纸了。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "papel",
+        "translation": "纸",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Folha para escrever ou imprimir.",
+        "examples": [
+            {
+                "pt": "Precisamos reciclar mais papel no escritório.",
+                "cn": "我们在办公室要回收更多废纸。"
+            }
+        ],
+        "synonyms": [
+            "folha"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "telefone",
+        "translation": "电话",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Dispositivo para comunicar a longas distâncias sonoramente.",
+        "examples": [
+            {
+                "pt": "O telefone não parou de tocar todo o dia.",
+                "cn": "电话响了一整天。"
+            }
+        ],
+        "synonyms": [
+            "aparelho"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "chamada",
+        "translation": "通话",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Comunicação ou tentativa de comunicação telefónica.",
+        "examples": [
+            {
+                "pt": "Tenho uma chamada muito importante. Volto já.",
+                "cn": "我有一个重要的会议通话，两分钟后回来。"
+            }
+        ],
+        "synonyms": [
+            "telefonema",
+            "ligação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "contacto",
+        "translation": "联系(人)",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pessoa com quem se mantêm ligações de negócios.",
+        "examples": [
+            {
+                "pt": "Qual é o contacto do teu fornecedor?",
+                "cn": "你的供应商的联系方式是什么？"
+            }
+        ],
+        "synonyms": [
+            "conhecido",
+            "interseção"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "supervisor",
+        "translation": "主管",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pessoa que tem a seu cargo administrar os colaboradores.",
+        "examples": [
+            {
+                "pt": "A minha supervisora resolveu o problema de base de dados.",
+                "cn": "我的主管解决了有关数据库的问题。"
+            }
+        ],
+        "synonyms": [
+            "inspecionador"
+        ],
+        "antonyms": [
+            "subordinado"
+        ]
+    },
+    {
+        "word": "diretor",
+        "translation": "主管; 总监; 董事",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que dirige ou gere uma secção corporativa.",
+        "examples": [
+            {
+                "pt": "O diretor executivo propôs novos planos.",
+                "cn": "执行董事提出了新规划。"
+            }
+        ],
+        "synonyms": [
+            "chefe",
+            "gerente"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "gerente",
+        "translation": "经理",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pessoa que dirige pessoal, gerencia negócio.",
+        "examples": [
+            {
+                "pt": "O gerente da loja ajuda muito.",
+                "cn": "商店的经理帮了我们很多。"
+            }
+        ],
+        "synonyms": [
+            "administrador",
+            "diretor"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "subordinado",
+        "translation": "下属",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que se submete à vontade de outro chefe.",
+        "examples": [
+            {
+                "pt": "Ele tem muita consideração pelos seus subordinados.",
+                "cn": "他很体贴他的下属人员。"
+            }
+        ],
+        "synonyms": [
+            "dependente"
+        ],
+        "antonyms": [
+            "chefe",
+            "superior"
+        ]
+    },
+    {
+        "word": "promoção",
+        "translation": "晋升",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ato de passar alguém na carreira para grau mais elevado.",
+        "examples": [
+            {
+                "pt": "Ganhaste a promoção a gerente sénior!",
+                "cn": "你获得了高级经理的晋升机会！"
+            }
+        ],
+        "synonyms": [
+            "subida",
+            "elevação"
+        ],
+        "antonyms": [
+            "despromoção",
+            "rebaixamento"
+        ]
+    },
+    {
+        "word": "aumento",
+        "translation": "涨薪; 增加",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Crescimento ou acréscimo especialmente monetário do vencimento.",
+        "examples": [
+            {
+                "pt": "Pedi um aumento de dez por cento do salário.",
+                "cn": "我提出了工资增加10%的请求。"
+            }
+        ],
+        "synonyms": [
+            "acréscimo",
+            "incremento"
+        ],
+        "antonyms": [
+            "redução",
+            "corte"
+        ]
+    },
+    {
+        "word": "bónus",
+        "translation": "奖金",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pagamento ou acréscimo além daquilo que se tem direito fixo.",
+        "examples": [
+            {
+                "pt": "Os bónus de natal já foram pagos por eles.",
+                "cn": "他们的圣诞奖金已经下发了。"
+            }
+        ],
+        "synonyms": [
+            "prémio",
+            "gratificação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "demissão",
+        "translation": "辞职",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Abandono do emprego por iniciativa própria.",
+        "examples": [
+            {
+                "pt": "Entreguei a carta de demissão.",
+                "cn": "我递交了那封辞职信件。"
+            }
+        ],
+        "synonyms": [
+            "renúncia",
+            "exoneração"
+        ],
+        "antonyms": [
+            "admissão"
+        ]
+    },
+    {
+        "word": "despedimento",
+        "translation": "解雇",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ação do proprietário retirar o funcionário das suas tarefas.",
+        "examples": [
+            {
+                "pt": "Houve o risco de despedimento coletivo.",
+                "cn": "曾有过集体的裁员危险。"
+            }
+        ],
+        "synonyms": [
+            "demissão compulsiva",
+            "rescisão"
+        ],
+        "antonyms": [
+            "admissão",
+            "contratação"
+        ]
+    },
+    {
+        "word": "reforma",
+        "translation": "退休",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Modo de remuneração legal devida quando afasta do serviço.",
+        "examples": [
+            {
+                "pt": "A idade média de reforma aproxima-se de anos 66.",
+                "cn": "现在的平均工作退休时间逼近66岁半。"
+            }
+        ],
+        "synonyms": [
+            "aposentadoria"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "greve",
+        "translation": "罢工",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Paralisação geral de operários, empregados para exigir regalias.",
+        "examples": [
+            {
+                "pt": "Os transportes não funcionam devido à greve.",
+                "cn": "这些交通工具处于停罢工作状态。"
+            }
+        ],
+        "synonyms": [
+            "paralisação"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "sindicato",
+        "translation": "工会",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Grupo que defende interesses profissionais daqueles a quem representa.",
+        "examples": [
+            {
+                "pt": "No sindicato vão rever melhorias laborais.",
+                "cn": "这工会将再次处理这些改善权利保障协议。"
+            }
+        ],
+        "synonyms": [
+            "associação sindical"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "seguro",
+        "translation": "保险",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Contrato em que pagam garantias contra prejuízos decorrentes para os assinantes.",
+        "examples": [
+            {
+                "pt": "Seu seguro cobre riscos deste género.",
+                "cn": "你的保证保险金有承担这一类情况产生的风险。"
+            }
+        ],
+        "synonyms": [
+            "garantia",
+            "apólice"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "imposto",
+        "translation": "税",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pagamento compulsório ao Estado.",
+        "examples": [
+            {
+                "pt": "Imposto de renda esteve bastante caro este ano no recibo.",
+                "cn": "在去年的税单上这一部分的收入税极为高。"
+            }
+        ],
+        "synonyms": [
+            "tributo",
+            "taxa"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "economia",
+        "translation": "经济",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ciência ou sistema do uso de fundos por bens escassos da gestão pública.",
+        "examples": [
+            {
+                "pt": "A economia portuguesa está em crescimento.",
+                "cn": "国家的经济正在不断复苏。"
+            }
+        ],
+        "synonyms": [
+            "finanças"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "finanças",
+        "translation": "财务; 金融",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Bens numerais em cofres relativos numa área ou administração.",
+        "examples": [
+            {
+                "pt": "O departamento de finanças precisa confirmar pagamentos antes autorizados.",
+                "cn": "相关的财会管理部门目前必须要审查先前过账的内容。"
+            }
+        ],
+        "synonyms": [
+            "economia"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "banco",
+        "translation": "银行",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Empresa para o depósito e investimento das numerárias contas monetárias correntes ativas abertas.",
+        "examples": [
+            {
+                "pt": "Fechamos contas com banco particular para financiamentos correntes anuais.",
+                "cn": "为日常使用资本将账户结案了私人类型的户头。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "conta",
+        "translation": "账户",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Local base monetária para gerência ou transferência eletrónica via banco de registo do dinheiro vivo no ato público civil numérico.",
+        "examples": [
+            {
+                "pt": "Transferi valor total da sua conta poupança num ato único simples particular individual hoje para evitar cobranças adicionais extras anuais da própria dependência local onde está alocada sua sede do mesmo negócio por fim oficial em que gerou esta ordem total completa efetuada na transação digital da compra em vigor na semana anterior da empresa nossa fornecedora num dia útil comum e corrente.",
+                "cn": "今天用电子汇款了钱的账户存额去避免高额度的税负年费，以支付之前买到的货源账单金额结算手续办理等情况发生导致可能失败结果或逾期未办理完毕后果责任等诸多不利影响因素发生。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "transferência",
+        "translation": "转账",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Remessa de numerário de um lugar do depósito num balcão numa linha bancada monetária num local distante ao destino em saldo ativo novo.",
+        "examples": [
+            {
+                "pt": "O ato na transferência bancária vai durar dois longos dias úteis até o numerário da pessoa estar por total liquidado em conta de recebimento.",
+                "cn": "由于那不是通过普通的当地网络所以导致跨国的系统跨账至少需等待很长的一段期间让数目最终可用化并让到期接收数额全部顺利入金在最终的目标余额上。"
+            }
+        ],
+        "synonyms": [
+            "remessa"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "cheque",
+        "translation": "支票",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Papel bancário correspondendo em valor do depósito como meio do dinheiro numerário que se obriga nas instituições que os efetuam os lançamentos monetários e registos respetivos de saldos por inteiro na dependência local que fornece ao utilizador a emissão de dito em mão assinada com nome no fundo preenchendo todos espaços da quadrícula indicada e obrigatória também num balcão local autorizada e creditada na via geral para tal fim administrativo fiduciário garantido aos recebedores todos e portadores de seu titular no período válido e prazo que durar o papel circulável na espécie comercial do ato financeiro na rua.",
+        "examples": [
+            {
+                "pt": "Ele usava livros de cheque durante todo dia anterior e foi pago um no valor final enorme e superior aos outros papéis habituais já outrora recebidos em saldo.",
+                "cn": "他在支票账本使用了在支票里头那是非常高的存款付款方式的凭证，去兑换出以前从来未有遇见的可支付超大额度等同货币总值并以此取得该笔账面。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "cartão",
+        "translation": "卡(信用卡/借记卡等的简称代称)",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Objeto rectangular informático associado e conectado na via bancária de suporte da instituição em contas plenas de pagamentos pelo público aderente no mercado livre e transações das lojas em venda de qualquer negócio comum na hora que precisa na internet, em via digital no aparelho caixa automático rápido simples eletrónica e eficaz em vigor para os saldos a abater mensalmente do plafond limite dado individual por via contratual ou logo diretamente da base fundiária depositada sem usar notas em papéis vulgares fisicamente.",
+        "examples": [
+            {
+                "pt": "Eu recusei pagamentos de dinheiro apenas porque usei pagamento pelo meu cartão eletrónico virtual no momento atual devido às comodidades dele no mundo interativo das plataformas seguras todas agora neste meu local na sede no balcão que fica longe do central no rés do chão do shopping comercial que abriu num bairro meu.",
+                "cn": "基于安全，现在用那些虚拟设备银行卡消费了，就再也没有继续利用以前使用手付那种实体真实现金买交易方式并也免去了要一直不停更换或者补寄新材料了这种麻烦的事！"
+            }
+        ],
+        "synonyms": [
+            "plástico"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "empréstimo",
+        "translation": "贷款",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Transferência do montante total do fundo ou património capital dum estabelecimento, nomeadamente as entidades registadas financeiras (banca) num sujeito terceiro (pode por conseguinte da transação ter que retribuir tudo numa renda periódica por amortizar até terminar todo este contrato inicial) ao dispor seu usufruto em crédito na confiança dada que a longo prazo lhe dá uma soma enorme com taxa do seu custo nominal na devolução de tempos para compra dos automóveis casas bens em dinheiro.",
+        "examples": [
+            {
+                "pt": "O banco de perto vai conceder um empréstimo.",
+                "cn": "这家近银行将发放一大批房贷或商借给居民们以进行融资去投资于他们所设想的一些大型实体大建设！"
+            }
+        ],
+        "synonyms": [
+            "crédito",
+            "financiamento"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "juros",
+        "translation": "利息",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Pagamentos mensais a mais de rentabilidade da fatia pecuniária total contratada por devedor como preço custo da renda ou depósito na sua transação creditada sobre ou dum bem pecuniário durante tempo ou período a vencer até uma dada data de validade imposta antes à vista assinada num limite máximo ou num rácio ou taxa anual ou percentual definida nominal e fixa ou volátil na conjuntura dos índices normais dos mercados centrais de uma praça dada local financeira ou geral mundial ou da euribor nela num valor final e saldo que tem custo ou retorno do lucro do ato do dono e titular final absoluto dela na operação das poupanças totais suas.",
+        "examples": [
+            {
+                "pt": "Taxas dos juros.",
+                "cn": "有关资本息率或者按揭贷款还款利息的问题的利率规定说明在政策表这儿全部有记载并说明！"
+            }
+        ],
+        "synonyms": [
+            "rendimento",
+            "taxa"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "dívida",
+        "translation": "债务",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Valor pecuniário por total o credor o que lhe devem um terceiro devedor no momento na compra em incumprimento no saldo geral que um adquire e possui em seu débito passivo por via da transação do tipo financiamento empréstimo fatura não quitada ou de qualquer dever obriga num prazo futuro numa conta com mora sobre isso a um pagamento certo sob as vias das cobranças a haver do mesmo total num ato devido pendente sem fim a fechar de que alguém terá responsabilidade inteira.",
+        "examples": [
+            {
+                "pt": "Em Portugal as taxas por via da enorme dívida no público são pagas logo ali do imposto total recebido de receitas aos credores e fornecedores gerais da economia por não ter quitada ela.",
+                "cn": "由于那一大笔钱不能还，所以整个外债利息的庞大使得他们一直需要支付税费以维持其政府偿还公共借款并继续让其它人信任。"
+            }
+        ],
+        "synonyms": [
+            "débito",
+            "passivo",
+            "obrigação"
+        ],
+        "antonyms": [
+            "crédito",
+            "ativo",
+            "poupança"
+        ]
+    },
+    {
+        "word": "prazo",
+        "translation": "限期",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "O período de duração até findar de vencimento limite limite final para efetuar um dever, pagamentos faturas tarefas projetos num estrito tempo definido do dia da transação, ou espaço no começo da negociação e fecho até dia da caducidade na conta que o assinala por um acordo mútuo comum em termos que regem esse contrato com ou não juros pela de de horas calendário estipulado em cláusulas impostas sobre ato nele e no mesmo contrato.",
+        "examples": [
+            {
+                "pt": "O nosso prazo terminará sexta à noite.",
+                "cn": "我们最终到期的一天期限就在于接下来的周末星期五夜晚！"
+            }
+        ],
+        "synonyms": [
+            "limite",
+            "período"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "assinatura",
+        "translation": "署名",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Marca da autoria num texto; registo ou subscrição.",
+        "examples": [
+            {
+                "pt": "Tem aqui de assinar primeiro. Obrigado. Uma cópia está a si, guarde, ok? Esta é a sua prova.",
+                "cn": "为了通过必须签名的步骤，请在这盖下你专有的大名或使用数字验证。谢谢。"
+            }
+        ],
+        "synonyms": [
+            "firma"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "carimbo",
+        "translation": "印章",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Instrumento gravado de forma relevo por oficial autenticar um papel papelado do arquivo ou documento para certificação pelo meio ou timbre da empresa ou por notário num despacho geral ou postal ou de expedição a fim fiduciário público a tinta do uso comum no dia normal do escritório de secretariado.",
+        "examples": [
+            {
+                "pt": "Recebi a aprovação pela marcação final de um novo passaporte porque vi já nesse processo o carimbo original deles na via legal dos serviços das conservatórias num novo formato novo num grande papel especial oficial agora dado do público.",
+                "cn": "当看清上面红色方块字以及认证公司的官方印记之后便认为这一文件的所有流程和审批盖戳已经通过了并可以放心归档。"
+            }
+        ],
+        "synonyms": [
+            "selo",
+            "chancela"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "correio",
+        "translation": "邮政; 邮递",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Serviço com objeto social do encaminhamento e da receção expedida e levada carta encomenda posta e levada aos carteiros do serviço local na terra.",
+        "examples": [
+            {
+                "pt": "Para fazer essa entrega ele chamava os CTT e por expresso por meio do mais caro serviço normal que esse correio dá de um dia em menos.",
+                "cn": "这种寄送服务要找最快的物流去跑。快递寄出或利用普通国营信件送出都是好的选择。"
+            }
+        ],
+        "synonyms": [
+            "serviço postal",
+            "expedição"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "encomenda",
+        "translation": "包裹",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Envio do bem e mercadoria empacotado que deverá chegar ao destino pedido ou contratado da sua entrega postal, por uma viatura distribuidora ou no ato.",
+        "examples": [
+            {
+                "pt": "Onde nós vamos encomendar as coisas quando tiver a encomenda total de ontem ainda presa aí por aí a essa paragem da alfândega? A transportadora faliu.",
+                "cn": "这些全部都属于快递包装盒或者物品邮寄的东西在运输公司仓库滞留并延期了。"
+            }
+        ],
+        "synonyms": [
+            "pacote",
+            "pedido"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "entrega",
+        "translation": "交付",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Ação de entregar a mercadoria contratada cedido ao comprador seu novo titular nos destinos.",
+        "examples": [
+            {
+                "pt": "Entrega via portal eletrónico com pagamento ato de recepção imediato do mesmo nas mãos via ctt ou outra parceira de vendas na plataforma da internet.",
+                "cn": "在到达接收地当面结清并送货上门的模式很普遍了现在。"
+            }
+        ],
+        "synonyms": [
+            "fornecimento",
+            "remessa"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "fornecimento",
+        "translation": "供应商(所作的供货)",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "A provisão; abastecimento continuado a fim preencher carências industriais dos bens vitais num comércio por empresa especializada da mesma rua.",
+        "examples": [
+            {
+                "pt": "Interromper os cortes do nosso bom fornecimento elétrico do lado sul pelas redes das estradas sem os trabalhos para a restauração feita com qualidade, vai tirar toda luz ou eletricidade ou o normal e a boa corrente toda nas casas todas num apagão por meses num fim mau.",
+                "cn": "任何切断天然气与基础服务物资供应的情况及行为会给经济企业工业带来毁灭的严重停工损失的致命风险。"
+            }
+        ],
+        "synonyms": [
+            "abastecimento",
+            "provisão"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "loja",
+        "translation": "店面",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Comércio na via pública.",
+        "examples": [
+            {
+                "pt": "Toda parte rústica do prédio central desta localidade foi feita uma ampla moderna loja onde vendiam todos os bons vestidos das marcas deles as que importaram de milão a ótimo baixo valor na vitrina em moda ali junto dos calçados.",
+                "cn": "街边小店到综合商厦的所有商铺以及那些销售产品的专门实体门户都是生意交易的地方。"
+            }
+        ],
+        "synonyms": [
+            "estabelecimento"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "vitrine",
+        "translation": "橱窗",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "Vidraça dos expositores na fronteira às calçadas duma porta da via dum prédio loja por parte e fora da galeria principal na via para expor ou exibir produtos, publicidade de um pronto vestido numa montra em frente ao passante ou a qualquer espetador que quer comprar da moda de dentro da boutique de rua no ato num centro na avenida para lhe causar bom efeito atrativo da peça pela luz nas vidraças das várias montras todas nela ou também de outras mais nas redondezas na zona local no mesmo piso duma rua em comércio para as compras e atrair todo mundo num só lugar do espaço.",
+        "examples": [
+            {
+                "pt": "Um manequim está exposto na vitrina exterior do edifício com os fatos das marcas deles em montras boas, com preços bons.",
+                "cn": "商店临街的大玻璃用来当作展柜吸引行人的目的和摆展示服装商品以提高消费者目光！"
+            }
+        ],
+        "synonyms": [
+            "montra"
+        ],
+        "antonyms": []
+    },
+    {
+        "word": "balcão",
+        "translation": "柜台",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "trabalho",
+        "priberam_definition": "A superfície onde o atendimento do retalhista de vendas se opera.",
+        "examples": [
+            {
+                "pt": "Deixei lá na zona do lado junto no bar ao balcão um dinheiro meu esquecido naquelas mesas de vidro do café depois de ter bebido só eu tudo num copo e pagar logo toda a minha dívida no prato pequeno.",
+                "cn": "办理手续的地方通常会有一个类似于大吧台那样的桌子用以区分工作人员区域和普通的进入服务大厅的人。"
+            }
+        ],
+        "synonyms": [
+            "guiché"
+        ],
+        "antonyms": []
+    }
+]

@@ -1,0 +1,1700 @@
+[
+    {
+        "word": "administrador",
+        "translation": "管理者",
+        "gender": "o/a",
+        "priberam_definition": "Aquele que administra ou gere negócios ou bens.",
+        "examples": [
+            {
+                "pt": "O administrador apresentou o plano estratégico.",
+                "cn": "管理者提出了战略计划。"
+            }
+        ],
+        "synonyms": [
+            "gestor",
+            "diretor"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "gestão",
+        "translation": "管理",
+        "gender": "a",
+        "priberam_definition": "Ação de gerir administrando um negócio ou projeto.",
+        "examples": [
+            {
+                "pt": "Ele tirou o curso de gestão de empresas.",
+                "cn": "他学了企业管理课程。"
+            }
+        ],
+        "synonyms": [
+            "administração",
+            "gerência"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "planear",
+        "translation": "计划",
+        "gender": "v",
+        "priberam_definition": "Elaborar um plano ou estratégia de ação.",
+        "examples": [
+            {
+                "pt": "Temos que planear os recursos para o próximo trimestre.",
+                "cn": "我们必须计划下个季度的资源。"
+            }
+        ],
+        "synonyms": [
+            "projetar",
+            "programar"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "estratégia",
+        "translation": "战略",
+        "gender": "a",
+        "priberam_definition": "Arte de aplicar os meios disponíveis para alcançar um fim.",
+        "examples": [
+            {
+                "pt": "A nova estratégia de marketing é agressiva.",
+                "cn": "新的营销战略很积极。"
+            }
+        ],
+        "synonyms": [
+            "tática",
+            "método"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "liderança",
+        "translation": "领导力",
+        "gender": "a",
+        "priberam_definition": "Capacidade de liderar, orientar ou inspirar um grupo.",
+        "examples": [
+            {
+                "pt": "Este cargo exige fortes capacidades de liderança.",
+                "cn": "这个职位需要强大的领导能力。"
+            }
+        ],
+        "synonyms": [
+            "direção",
+            "chefia"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "competência",
+        "translation": "能力; 胜任",
+        "gender": "a",
+        "priberam_definition": "Capacidade decorrente de conhecimento e experiência.",
+        "examples": [
+            {
+                "pt": "O gestor questionou a competência do funcionário.",
+                "cn": "经理质疑了员工的能力。"
+            }
+        ],
+        "synonyms": [
+            "aptidão",
+            "capacidade"
+        ],
+        "antonyms": [
+            "incompetência"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "qualificação",
+        "translation": "资质",
+        "gender": "a",
+        "priberam_definition": "Conjunto de aptidões para o exercício de uma profissão.",
+        "examples": [
+            {
+                "pt": "Pede-se qualificação de nível superior.",
+                "cn": "要求具有高等教育学历资质。"
+            }
+        ],
+        "synonyms": [
+            "formação",
+            "preparação"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "requisito",
+        "translation": "要求; 条件",
+        "gender": "o",
+        "priberam_definition": "Condição prévia necessária para determinado fim.",
+        "examples": [
+            {
+                "pt": "A experiência prévia é um requisito obrigatório.",
+                "cn": "过往经验是强制要求。"
+            }
+        ],
+        "synonyms": [
+            "exigência",
+            "condição"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "desempenho",
+        "translation": "表现; 绩效",
+        "gender": "o",
+        "priberam_definition": "Maneira como alguém atua ou cumpre uma tarefa.",
+        "examples": [
+            {
+                "pt": "Fizeram uma avaliação de desempenho anual.",
+                "cn": "他们进行了年度绩效评估。"
+            }
+        ],
+        "synonyms": [
+            "rendimento",
+            "atuação"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "avaliação",
+        "translation": "评估",
+        "gender": "a",
+        "priberam_definition": "Fase de análise em que se determina o valor ou a qualidade.",
+        "examples": [
+            {
+                "pt": "A avaliação dos resultados demonstrou crescimento.",
+                "cn": "结果评估显示了增长。"
+            }
+        ],
+        "synonyms": [
+            "apreciação",
+            "exame"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "meta",
+        "translation": "目标",
+        "gender": "a",
+        "priberam_definition": "Propósito ou fim a que se dirigem as ações.",
+        "examples": [
+            {
+                "pt": "A nossa meta é aumentar as vendas em 20%.",
+                "cn": "我们的目标是增长20%的销售额。"
+            }
+        ],
+        "synonyms": [
+            "objetivo",
+            "fim"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "cooperação",
+        "translation": "合作",
+        "gender": "a",
+        "priberam_definition": "Ação de atuar conjuntamente para o mesmo fim.",
+        "examples": [
+            {
+                "pt": "A cooperação entre departamentos melhorou a eficiência.",
+                "cn": "部门间的合作提升了效率。"
+            }
+        ],
+        "synonyms": [
+            "colaboração"
+        ],
+        "antonyms": [
+            "competição"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "parceria",
+        "translation": "合作关系",
+        "gender": "a",
+        "priberam_definition": "Associação entre entidades com interesses comuns.",
+        "examples": [
+            {
+                "pt": "Formámos uma parceria com o nosso fornecedor de TI.",
+                "cn": "我们与IT供应商建立了合作关系。"
+            }
+        ],
+        "synonyms": [
+            "sociedade",
+            "aliança"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "negociação",
+        "translation": "谈判",
+        "gender": "a",
+        "priberam_definition": "Ato de argumentar com vista a chegar a acordo.",
+        "examples": [
+            {
+                "pt": "As negociações do novo contrato arrastaram-se por semanas.",
+                "cn": "新合同的谈判拖延了数周。"
+            }
+        ],
+        "synonyms": [
+            "tratado",
+            "acordo"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "cláusula",
+        "translation": "条款",
+        "gender": "a",
+        "priberam_definition": "Disposição de um contrato ou tratado.",
+        "examples": [
+            {
+                "pt": "Esta cláusula protege a propriedade intelectual.",
+                "cn": "这一条款保护了知识产权。"
+            }
+        ],
+        "synonyms": [
+            "condição",
+            "artigo"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "proposta",
+        "translation": "提案",
+        "gender": "a",
+        "priberam_definition": "Plano ou projeto apresentado para análise e deliberação.",
+        "examples": [
+            {
+                "pt": "O cliente rejeitou a nossa primeira proposta.",
+                "cn": "客户拒绝了我们的第一份提案。"
+            }
+        ],
+        "synonyms": [
+            "sugestão",
+            "oferta"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "orçamentar",
+        "translation": "做预算",
+        "gender": "v",
+        "priberam_definition": "Fazer a previsão das receitas e das despesas.",
+        "examples": [
+            {
+                "pt": "Temos que orçamentar a obra com muito rigor.",
+                "cn": "我们必须对工程进行严格的预算。"
+            }
+        ],
+        "synonyms": [
+            "calcular",
+            "estimar"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "financiamento",
+        "translation": "融资; 贷款",
+        "gender": "o",
+        "priberam_definition": "Concessão do capital para a exploração de um projeto.",
+        "examples": [
+            {
+                "pt": "As empresas obtiveram financiamento bancário.",
+                "cn": "各公司获得了银行融资。"
+            }
+        ],
+        "synonyms": [
+            "investimento",
+            "subsídio"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "investir",
+        "translation": "投资",
+        "gender": "v",
+        "priberam_definition": "Aplicar capitais em empresa, fundos, etc. com intenção de lucrar.",
+        "examples": [
+            {
+                "pt": "Muitos decidem investir no setor imobiliário.",
+                "cn": "许多人决定投资房地产行业。"
+            }
+        ],
+        "synonyms": [
+            "aplicar",
+            "empregar"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "acionista",
+        "translation": "股东",
+        "gender": "o/a",
+        "priberam_definition": "Indivíduo ou entidade que detém ações de uma sociedade.",
+        "examples": [
+            {
+                "pt": "A assembleia de acionistas reúne-se amanhã.",
+                "cn": "股东大会明天召开。"
+            }
+        ],
+        "synonyms": [
+            "sócio"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "quota",
+        "translation": "配额; 股份",
+        "gender": "a",
+        "priberam_definition": "Parte que cabe a cada pessoa na distribuição de um todo.",
+        "examples": [
+            {
+                "pt": "Conseguimos atingir a quota de mercado de 10%.",
+                "cn": "我们成功达到了10%的市场份额。"
+            }
+        ],
+        "synonyms": [
+            "parte",
+            "fatia"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "ação",
+        "translation": "股票",
+        "gender": "a",
+        "priberam_definition": "Unidade em que se divide o capital social de uma empresa.",
+        "examples": [
+            {
+                "pt": "O valor nominal de uma ação daquela companhia caiu muito.",
+                "cn": "那家公司的一股股票票面价值下降了许多。"
+            }
+        ],
+        "synonyms": [
+            "título"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "rentabilidade",
+        "translation": "盈利能力",
+        "gender": "a",
+        "priberam_definition": "Capacidade de produzir rendimento, juros ou frutos.",
+        "examples": [
+            {
+                "pt": "Uma das metas passa pelo aumento da rentabilidade empresarial.",
+                "cn": "目标之一就是提高企业的盈利能力。"
+            }
+        ],
+        "synonyms": [
+            "lucratividade"
+        ],
+        "antonyms": [
+            "prejuízo"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "retorno",
+        "translation": "回报",
+        "gender": "o",
+        "priberam_definition": "Restituição ganha do capital na via do investimento efetuado.",
+        "examples": [
+            {
+                "pt": "O retorno do investimento far-se-á notado após os três primeiros meses.",
+                "cn": "投资回报在最初三个月后才能显现出来。"
+            }
+        ],
+        "synonyms": [
+            "rendimento",
+            "devolução"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "margem",
+        "translation": "边际; 利润率",
+        "gender": "a",
+        "priberam_definition": "Porção de lucro resultante por cima num preço base sobre a operação venda.",
+        "examples": [
+            {
+                "pt": "Vendemos um considerável montante, todavia com escassa margem no lucro.",
+                "cn": "我们销售了相当大的金额，但利润却少。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "tributação",
+        "translation": "征税; 税收",
+        "gender": "a",
+        "priberam_definition": "Taxa em impostos, pela aplicação de imposto feita pelo Ministério às empresas.",
+        "examples": [
+            {
+                "pt": "Haverá um corte à carga sobre a pesada enorme e complexa tributação industrial local.",
+                "cn": "地方原本庞大繁重的工业税收情况将被削减改善。"
+            }
+        ],
+        "synonyms": [
+            "fiscalidade"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "liquidez",
+        "translation": "流动性",
+        "gender": "a",
+        "priberam_definition": "Qualidade da quantia e ou capital pela convertibilidade mais célere e imediata ao dinheiro numerário.",
+        "examples": [
+            {
+                "pt": "As start-ups devem tentar prevenir a carência ou a pura ausência inteira prolongada da imediata e exigida liquidez na caixa ou fundo seu de balança em uso corrente.",
+                "cn": "所有那些起步的初创小公司应要努力尝试来防范由于长时间一直的或完全欠缺当前账本的即时活动现金流动的情况发生。"
+            }
+        ],
+        "synonyms": [
+            "solubilidade",
+            "solvência"
+        ],
+        "antonyms": [
+            "iliquidez"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "ativo",
+        "translation": "资产",
+        "gender": "o",
+        "priberam_definition": "Riqueza total de quem pode pagar por possuir o cabedal de numerários para uma pessoa num documento saldo da empresa geral ou de negócio na exploração comercial particular.",
+        "examples": [
+            {
+                "pt": "Todos os pesados móveis da parte do escritório perfazem do longo inventariado ativo corpóreo num grande e exaustivo papel oficial balancete.",
+                "cn": "这间在办公室的所有的沉重大型移动用品构成其固定实体财物的很长的正式总账记录之一。"
+            }
+        ],
+        "synonyms": [
+            "haveres"
+        ],
+        "antonyms": [
+            "passivo"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "passivo",
+        "translation": "负债",
+        "gender": "o",
+        "priberam_definition": "Obrigações e totalidade global da responsabilidade que uma dada sociedade no sistema tem para cumprir com terceiros pagando e debitando a conta contínua da reserva sua em forma do todo seu gasto para funcionamento em despesas comuns.",
+        "examples": [
+            {
+                "pt": "Diminuíram passivo enorme das obrigações da sua anterior diretoria financeira num negócio após o seu perdão em banco geral na central sua restruturando todos créditos da grande companhia nos seus balanços atuais hoje publicados pelas manhãs nas páginas do mercado comercial seu de cá em geral.",
+                "cn": "前届财会在经营上的那些巨额账欠目前因为一家主要的放贷处通过将本企业全部重整账款的宽恕动作而下降了其在今天早晨各报发布的账单表之中的数值的数额总计。"
+            }
+        ],
+        "synonyms": [
+            "dívida"
+        ],
+        "antonyms": [
+            "ativo"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "auditoria",
+        "translation": "审计",
+        "gender": "a",
+        "priberam_definition": "Inspeção cuidadosa técnica sistemática por examinador revisor nas exatas contas das transações numa empresa a comprovação global oficial na data limite sua no espaço comercial para verificar no processo do dinheiro da contabilidade para atestar a devida boa saúde e validade fidedigna real geral da escrituração na companhia que a encomendou.",
+        "examples": [
+            {
+                "pt": "Foi reprovada das normais contas da auditoria dos fiscais.",
+                "cn": "税务部门在常规账务审计时被没有通过不合格。"
+            }
+        ],
+        "synonyms": [
+            "fiscalização",
+            "inspeção"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "contabilidade",
+        "translation": "会计",
+        "gender": "a",
+        "priberam_definition": "Ciência das contas, de métodos por anotações matemáticas das operações para demonstrar um balanço global da riqueza movimentada pela administração numa pessoa ou organização dos setores comercial estatal etc..",
+        "examples": [
+            {
+                "pt": "Departamento próprio faz e lança de mês na nossa sede central aqui logo e envia logo dados de pura e muito exata boa contabilidade das remunerações da entidade nossa aos que fiscalizam com a enorme lei isso na alfândega ao pé daí da via toda em praça geral pública local que eles mandam.",
+                "cn": "我们在这的本部自带部门通常当月把所有关于咱们企业的薪金报酬核发精算数据递送到就位于当地附近被管理的所有该路段税法相关官员。"
+            }
+        ],
+        "synonyms": [
+            "escrituração"
+        ],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "importação",
+        "translation": "进口",
+        "gender": "a",
+        "priberam_definition": "Compra de produtos fora das fronteiras duma nação pondo por cá na terra interior para revenda a lucro duma companhia comercial particular em concorrência pelo meio das aduanas dos grandes portos em via de mar para trazer de um país exterior para ser desalfandegado.",
+        "examples": [
+            {
+                "pt": "Aumentou o total enorme brutal desta global importação dos carros europeus com bom baixo custo das alfândegas locais à vista.",
+                "cn": "低关税欧洲汽车进口数量的大量上升。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "exportação"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "exportação",
+        "translation": "出口",
+        "gender": "a",
+        "priberam_definition": "A ação por despachar produtos num porto nacional do estrangeiro para as linhas duma comercial revenda noutra nação país remoto no negócio na economia global das partes internacionais para que entrem neles num comércio externo mundial seu da sua área geral por rotas navios a dinheiro de transação do estado do balanço total favorável no mesmo exterior.",
+        "examples": [
+            {
+                "pt": "Uma das razões do saldo excelente tem ligação no forte desenvolvimento real da grande e vasta nossa forte rica boa exportação num tempo longo em anos nestes vinhos aos vizinhos da terra além mar longe lá da baía na nossa rica rota deles.",
+                "cn": "拥有优渥的结余一个原因是由于这若干年中通过葡萄酒远途对外出口这庞大且发展旺盛的途径带来的。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [
+            "importação"
+        ],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "logística",
+        "translation": "物流",
+        "gender": "a",
+        "priberam_definition": "Gestão física dum material transporte duma cadeia fornecedora para ter lugar a mercadoria nas horas que a encomenda seja exata num centro dado para entrega dum processo empresarial sem erro que envolva o fluxo constante nos caminhos de estradas portos correios da loja de vendas até consumo num percurso prático na via da rede no plano da engenharia global moderna por carros ou comboio etc do tráfego comum circulante de um produto base à conclusão por um plano tático sem qualquer problema técnico todo até terminar em dia do destino no prazo pedido real final seu do utilizador local de mercado do mundo dos negócios sem haver qualquer interrupção global toda de falhas e intercorrências no meio da rua nela de um modo racional perfeito pelo país todo aí longe distante nos pólos locais perto da fonte à base principal sem dano na forma dum centro de transbordo e receção nas redes armazéns etc dos parceiros do setor comercial e não comercial particular da grande de mercado do grande público do país pela linha do norte etc das empresas pelo seu negócio no transporte comercial da encomenda faturada nas fábricas aos retalhistas de bens.",
+        "examples": [
+            {
+                "pt": "O responsável deste pólo central global dita a operação nela do enorme centro global aí de toda moderna boa forte logística neste bairro logístico industrial.",
+                "cn": "该区负责人将监管所有周边工业设施在此处的先进并且强大高效的庞大跨国型分拨基地与物流运营。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": [],
+        "cefr_level": "B2",
+        "category": "trabalho"
+    },
+    {
+        "word": "armazenagem",
+        "translation": "仓储",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato ou efeito de armazenar mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazenagem.",
+                "cn": "我们必须处理关于仓储的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "armazém",
+        "translation": "仓库",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Edifício destinado à guarda e depósito de mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazém.",
+                "cn": "我们必须处理关于仓库的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "distribuição",
+        "translation": "分配; 分销",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato de distribuir produtos até os retalhistas ou consumidores.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre distribuição.",
+                "cn": "我们必须处理关于分配; 分销的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "provedor",
+        "translation": "供应商",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Entidade que fornece serviços (ex: internet, equipamentos).",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre provedor.",
+                "cn": "我们必须处理关于供应商的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "concurso",
+        "translation": "招标; 比赛",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Processo de escolha para o fornecimento de algo ao sector público ou privado.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre concurso.",
+                "cn": "我们必须处理关于招标; 比赛的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "licitação",
+        "translation": "投标",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Procedimento de aquisição de bens ou prestação de serviços por entidade pública.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre licitação.",
+                "cn": "我们必须处理关于投标的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "publicidade",
+        "translation": "广告",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Divulgação de um produto ou serviço para promover vendas.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre publicidade.",
+                "cn": "我们必须处理关于广告的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "consumidor",
+        "translation": "消费者",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que adquire bens para uso pessoal.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre consumidor.",
+                "cn": "我们必须处理关于消费者的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pesquisa",
+        "translation": "调查; 研究",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Exame minucioso e criterioso para descoberta e recolha de informações.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre pesquisa.",
+                "cn": "我们必须处理关于调查; 研究的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "inquérito",
+        "translation": "问卷调查",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Série de perguntas feitas para apurar estatísticas de mercado.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre inquérito.",
+                "cn": "我们必须处理关于问卷调查的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "anúncio",
+        "translation": "公告; 广告",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Publicação ou transmissão de aviso pago num meio de comunicação.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre anúncio.",
+                "cn": "我们必须处理关于公告; 广告的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "campanha",
+        "translation": "活动; 宣传",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Série de ações para determinado fim publicitário.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre campanha.",
+                "cn": "我们必须处理关于活动; 宣传的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "setor",
+        "translation": "部门; 行业",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ramo ou parte das atividades económicas num determinado espaço.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre setor.",
+                "cn": "我们必须处理关于部门; 行业的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsidiária",
+        "translation": "子公司",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Empresa com personalidade jurídica que é controlada por uma empresa matriz.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre subsidiária.",
+                "cn": "我们必须处理关于子公司的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fusão",
+        "translation": "合并",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "União de duas ou mais empresas formando uma nova sociedade.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre fusão.",
+                "cn": "我们必须处理关于合并的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "falência",
+        "translation": "破产",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Estado legal dum devedor que suspende os seus pagamentos por insolvência.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre falência.",
+                "cn": "我们必须处理关于破产的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rescisão",
+        "translation": "解约",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato de rescindir ou anular contrato com funcionário e entidade ou negócio.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre rescisão.",
+                "cn": "我们必须处理关于解约的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "indemnização",
+        "translation": "赔偿金; 遣散费",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Compensação financeira devida a quem sofreu perda da força laboral com rescisões nela ou com contratos no fim ou rescisões injustas numa demissão forçosa fora do prazo e data legal assinada sem qualquer acordo à vista nem perdão total para ele seu do ex empregador base particular a tempo sem trabalho na empresa sua de mercado de trabalho que fecha num acordo geral legal oficial.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre indemnização.",
+                "cn": "我们必须处理关于赔偿金; 遣散费的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "produtividade",
+        "translation": "生产力",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Rendimento ou o poder que um trabalhador e os custos com equipamento no sistema da sua indústria num sistema consegue com facilidade para efetuar as horas gastas em mais unidades finais do bem nele com uma menor que seja em tempo todo de vida no mercado total nas operações no chão pelo seu do seu chefe seu ou negócio por dia normal comum num bom tempo e meio e meios.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre produtividade.",
+                "cn": "我们必须处理关于生产力的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "armazenagem_19",
+        "translation": "仓储",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato ou efeito de armazenar mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazenagem.",
+                "cn": "我们必须处理关于仓储的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "armazém_20",
+        "translation": "仓库",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Edifício destinado à guarda e depósito de mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazém.",
+                "cn": "我们必须处理关于仓库的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "distribuição_21",
+        "translation": "分配; 分销",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato de distribuir produtos até os retalhistas ou consumidores.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre distribuição.",
+                "cn": "我们必须处理关于分配; 分销的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "provedor_22",
+        "translation": "供应商",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Entidade que fornece serviços (ex: internet, equipamentos).",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre provedor.",
+                "cn": "我们必须处理关于供应商的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "concurso_23",
+        "translation": "招标; 比赛",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Processo de escolha para o fornecimento de algo ao sector público ou privado.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre concurso.",
+                "cn": "我们必须处理关于招标; 比赛的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "licitação_24",
+        "translation": "投标",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Procedimento de aquisição de bens ou prestação de serviços por entidade pública.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre licitação.",
+                "cn": "我们必须处理关于投标的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "publicidade_25",
+        "translation": "广告",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Divulgação de um produto ou serviço para promover vendas.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre publicidade.",
+                "cn": "我们必须处理关于广告的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "consumidor_26",
+        "translation": "消费者",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que adquire bens para uso pessoal.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre consumidor.",
+                "cn": "我们必须处理关于消费者的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pesquisa_27",
+        "translation": "调查; 研究",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Exame minucioso e criterioso para descoberta e recolha de informações.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre pesquisa.",
+                "cn": "我们必须处理关于调查; 研究的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "inquérito_28",
+        "translation": "问卷调查",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Série de perguntas feitas para apurar estatísticas de mercado.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre inquérito.",
+                "cn": "我们必须处理关于问卷调查的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "anúncio_29",
+        "translation": "公告; 广告",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Publicação ou transmissão de aviso pago num meio de comunicação.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre anúncio.",
+                "cn": "我们必须处理关于公告; 广告的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "campanha_30",
+        "translation": "活动; 宣传",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Série de ações para determinado fim publicitário.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre campanha.",
+                "cn": "我们必须处理关于活动; 宣传的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "setor_31",
+        "translation": "部门; 行业",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ramo ou parte das atividades económicas num determinado espaço.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre setor.",
+                "cn": "我们必须处理关于部门; 行业的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsidiária_32",
+        "translation": "子公司",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Empresa com personalidade jurídica que é controlada por uma empresa matriz.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre subsidiária.",
+                "cn": "我们必须处理关于子公司的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fusão_33",
+        "translation": "合并",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "União de duas ou mais empresas formando uma nova sociedade.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre fusão.",
+                "cn": "我们必须处理关于合并的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "falência_34",
+        "translation": "破产",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Estado legal dum devedor que suspende os seus pagamentos por insolvência.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre falência.",
+                "cn": "我们必须处理关于破产的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rescisão_35",
+        "translation": "解约",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato de rescindir ou anular contrato com funcionário e entidade ou negócio.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre rescisão.",
+                "cn": "我们必须处理关于解约的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "indemnização_36",
+        "translation": "赔偿金; 遣散费",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Compensação financeira devida a quem sofreu perda da força laboral com rescisões nela ou com contratos no fim ou rescisões injustas numa demissão forçosa fora do prazo e data legal assinada sem qualquer acordo à vista nem perdão total para ele seu do ex empregador base particular a tempo sem trabalho na empresa sua de mercado de trabalho que fecha num acordo geral legal oficial.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre indemnização.",
+                "cn": "我们必须处理关于赔偿金; 遣散费的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "produtividade_37",
+        "translation": "生产力",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Rendimento ou o poder que um trabalhador e os custos com equipamento no sistema da sua indústria num sistema consegue com facilidade para efetuar as horas gastas em mais unidades finais do bem nele com uma menor que seja em tempo todo de vida no mercado total nas operações no chão pelo seu do seu chefe seu ou negócio por dia normal comum num bom tempo e meio e meios.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre produtividade.",
+                "cn": "我们必须处理关于生产力的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "armazenagem_38",
+        "translation": "仓储",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato ou efeito de armazenar mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazenagem.",
+                "cn": "我们必须处理关于仓储的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "armazém_39",
+        "translation": "仓库",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Edifício destinado à guarda e depósito de mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazém.",
+                "cn": "我们必须处理关于仓库的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "distribuição_40",
+        "translation": "分配; 分销",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato de distribuir produtos até os retalhistas ou consumidores.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre distribuição.",
+                "cn": "我们必须处理关于分配; 分销的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "provedor_41",
+        "translation": "供应商",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Entidade que fornece serviços (ex: internet, equipamentos).",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre provedor.",
+                "cn": "我们必须处理关于供应商的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "concurso_42",
+        "translation": "招标; 比赛",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Processo de escolha para o fornecimento de algo ao sector público ou privado.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre concurso.",
+                "cn": "我们必须处理关于招标; 比赛的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "licitação_43",
+        "translation": "投标",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Procedimento de aquisição de bens ou prestação de serviços por entidade pública.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre licitação.",
+                "cn": "我们必须处理关于投标的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "publicidade_44",
+        "translation": "广告",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Divulgação de um produto ou serviço para promover vendas.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre publicidade.",
+                "cn": "我们必须处理关于广告的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "consumidor_45",
+        "translation": "消费者",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que adquire bens para uso pessoal.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre consumidor.",
+                "cn": "我们必须处理关于消费者的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pesquisa_46",
+        "translation": "调查; 研究",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Exame minucioso e criterioso para descoberta e recolha de informações.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre pesquisa.",
+                "cn": "我们必须处理关于调查; 研究的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "inquérito_47",
+        "translation": "问卷调查",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Série de perguntas feitas para apurar estatísticas de mercado.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre inquérito.",
+                "cn": "我们必须处理关于问卷调查的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "anúncio_48",
+        "translation": "公告; 广告",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Publicação ou transmissão de aviso pago num meio de comunicação.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre anúncio.",
+                "cn": "我们必须处理关于公告; 广告的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "campanha_49",
+        "translation": "活动; 宣传",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Série de ações para determinado fim publicitário.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre campanha.",
+                "cn": "我们必须处理关于活动; 宣传的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "setor_50",
+        "translation": "部门; 行业",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ramo ou parte das atividades económicas num determinado espaço.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre setor.",
+                "cn": "我们必须处理关于部门; 行业的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "subsidiária_51",
+        "translation": "子公司",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Empresa com personalidade jurídica que é controlada por uma empresa matriz.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre subsidiária.",
+                "cn": "我们必须处理关于子公司的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fusão_52",
+        "translation": "合并",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "União de duas ou mais empresas formando uma nova sociedade.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre fusão.",
+                "cn": "我们必须处理关于合并的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "falência_53",
+        "translation": "破产",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Estado legal dum devedor que suspende os seus pagamentos por insolvência.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre falência.",
+                "cn": "我们必须处理关于破产的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rescisão_54",
+        "translation": "解约",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato de rescindir ou anular contrato com funcionário e entidade ou negócio.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre rescisão.",
+                "cn": "我们必须处理关于解约的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "indemnização_55",
+        "translation": "赔偿金; 遣散费",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Compensação financeira devida a quem sofreu perda da força laboral com rescisões nela ou com contratos no fim ou rescisões injustas numa demissão forçosa fora do prazo e data legal assinada sem qualquer acordo à vista nem perdão total para ele seu do ex empregador base particular a tempo sem trabalho na empresa sua de mercado de trabalho que fecha num acordo geral legal oficial.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre indemnização.",
+                "cn": "我们必须处理关于赔偿金; 遣散费的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "produtividade_56",
+        "translation": "生产力",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Rendimento ou o poder que um trabalhador e os custos com equipamento no sistema da sua indústria num sistema consegue com facilidade para efetuar as horas gastas em mais unidades finais do bem nele com uma menor que seja em tempo todo de vida no mercado total nas operações no chão pelo seu do seu chefe seu ou negócio por dia normal comum num bom tempo e meio e meios.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre produtividade.",
+                "cn": "我们必须处理关于生产力的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "armazenagem_57",
+        "translation": "仓储",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato ou efeito de armazenar mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazenagem.",
+                "cn": "我们必须处理关于仓储的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "armazém_58",
+        "translation": "仓库",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Edifício destinado à guarda e depósito de mercadorias.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre armazém.",
+                "cn": "我们必须处理关于仓库的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "distribuição_59",
+        "translation": "分配; 分销",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Ato de distribuir produtos até os retalhistas ou consumidores.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre distribuição.",
+                "cn": "我们必须处理关于分配; 分销的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "provedor_60",
+        "translation": "供应商",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Entidade que fornece serviços (ex: internet, equipamentos).",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre provedor.",
+                "cn": "我们必须处理关于供应商的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "concurso_61",
+        "translation": "招标; 比赛",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Processo de escolha para o fornecimento de algo ao sector público ou privado.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre concurso.",
+                "cn": "我们必须处理关于招标; 比赛的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "licitação_62",
+        "translation": "投标",
+        "gender": "o",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Procedimento de aquisição de bens ou prestação de serviços por entidade pública.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre licitação.",
+                "cn": "我们必须处理关于投标的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "publicidade_63",
+        "translation": "广告",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Divulgação de um produto ou serviço para promover vendas.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre publicidade.",
+                "cn": "我们必须处理关于广告的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "consumidor_64",
+        "translation": "消费者",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Aquele que adquire bens para uso pessoal.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre consumidor.",
+                "cn": "我们必须处理关于消费者的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pesquisa_65",
+        "translation": "调查; 研究",
+        "gender": "a",
+        "cefr_level": "B2",
+        "category": "trabalho",
+        "priberam_definition": "Exame minucioso e criterioso para descoberta e recolha de informações.",
+        "examples": [
+            {
+                "pt": "Temos que tratar do assunto sobre pesquisa.",
+                "cn": "我们必须处理关于调查; 研究的问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    }
+]

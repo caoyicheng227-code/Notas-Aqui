@@ -1,0 +1,309 @@
+import json
+
+data = [
+    {
+        "id": "c1_l_p1_t1",
+        "type": "leitura_longa",
+        "title": "PARTE 1 // Texto 1 (Questões 1-3)",
+        "instruction": "Leia o texto e escolha uma das opções (A, B, C ou D) para as questões 1-3.",
+        "text": "Lembra-se de como era a vida antes de haver Internet e smartphones? Uma equipa de investigadores do Centro Internacional para os Meios de Comunicação e os Assuntos Públicos da Universidade do Maryland pediu a mil estudantes de todo o mundo para se absterem de consultar qualquer meio de comunicação e de utilizar os seus dispositivos móveis (telemóveis e computadores) durante um dia inteiro. Foram poucos os que aguentaram. «Não sabia o que fazer comigo mesmo», confessou um jovem inglês. «Em alguns momentos, senti-me como se estivesse morto», chegou a dizer um argentino.\n\nA experiência surpreendeu tanto os investigadores como os voluntários. A grande maioria dos participantes garantiu que os seus telemóveis se tinham tornado numa espécie de apêndice dos seus corpos. Muitos consideram que essas conclusões alarmantes poderiam perfeitamente ser extrapoladas para os adultos. Contudo, segundo outros especialistas, encorajar a noção de que as novas tecnologias podem constituir um perigo social é tão ridículo como ignorar os benefícios da eletricidade.\n\nAtualmente, ninguém nega que os dispositivos ligados à Internet potenciam a produtividade, abrem as portas ao conhecimento e proporcionam um enorme caudal de diversão. Porém, também não devemos menosprezar os numerosos indícios de que a sua utilização excessiva pode causar depressão, pânico, comportamentos obsessivo-compulsivos e, em casos mais graves, episódios psicóticos.",
+        "questions": [
+            {
+                "id": "c1_q1",
+                "question": "1. A experiência levada a cabo por investigadores da Universidade de Maryland",
+                "options": [
+                    "A. confirmou os resultados previstos sobre a dependência da Internet.",
+                    "B. provou que o estilo de vida atual difere do de há alguns anos.",
+                    "C. pretendia estudar a frequência de utilização dos dispositivos móveis.",
+                    "D. visava analisar o comportamento dos utilizadores de dispositivos móveis."
+                ],
+                "answer": 1
+            },
+            {
+                "id": "c1_q2",
+                "question": "2. Os resultados obtidos pelo estudo",
+                "options": [
+                    "A. espantaram mesmo as pessoas que se abstiveram do uso dos dispositivos móveis.",
+                    "B. alarmaram a generalidade dos investigadores, quanto ao uso dos recursos tecnológicos.",
+                    "C. mostram que os resultados seriam idênticos, se o estudo fosse aplicado a adultos.",
+                    "D. são vistos como ridículos, por considerarem nocivo o uso das tecnologias."
+                ],
+                "answer": 0
+            },
+            {
+                "id": "c1_q3",
+                "question": "3. No terceiro parágrafo, o autor",
+                "options": [
+                    "A. pretende apontar falhas ao uso dos dispositivos móveis.",
+                    "B. contrapõe aspetos positivos e negativos ao uso dos dispositivos móveis.",
+                    "C. pretende pôr em evidência as vantagens do uso dos dispositivos móveis.",
+                    "D. destaca as desvantagens do uso dos dispositivos móveis."
+                ],
+                "answer": 1
+            }
+        ]
+    },
+    {
+        "id": "c1_l_p1_t2",
+        "type": "leitura_longa",
+        "title": "PARTE 1 // Texto 2 (Questões 4-5)",
+        "instruction": "Leia o texto e escolha uma das opções (A, B, C ou D) para as questões 4-5.",
+        "text": "Florença-a-Flor-que-Pensa era uma mulher muito, muito bonita. Havia quem dissesse que era nova, quem dissesse que já não era assim tão nova, quem dissesse que tinha 28-29 anos. Vivia na cidade de Florença (daí o seu nome) e não se lhe conheciam defeitos; pelo menos, durante um certo tempo.\n\nQuando passou os 14 anos, as mulheres, isto é, algumas mulheres, começaram a dizer coisas. Eram coisas pequenas e insignificantes, mas não permitiam já que se afirmasse que, ela, Florença-a-Flor-que-Pensa, não tinha defeitos. Mas isso, como diziam essas mesmas mulheres, já se sabe. Já os homens diziam outras coisas. Os mais velhos diziam: oh, ela tem uma cintura! E o resto são cantigas. Os mais novos diziam precisamente o mesmo, mas sem o oh (os oh tinham entretanto entrado em desuso). Os de meia-idade calavam-se. […]\n\nFlorença-a-Flor-que-Pensa um dia abriu um livro. Era um livro gordo e cheio de pó e dentro trazia um mapa do mundo. Florença-a-Flor-que-Pensa fechou os olhos e espetou o polegar e, depois, rodou a mão como um bicho maluco. O polegar calhou no mar e Florença-a-Flor-que-Pensa abriu os olhos e pensou que calhar era para o mar e encalhar era para a terra. E depois pensou no mar.\n\nImaginou um grande rio vertical, ela num grandíssimo barco azul e de cores, com árvores e outras coisas de vento no peito e dentro, no coração.\n\nDepois fechou o livro e nunca mais pensou naquilo.",
+        "questions": [
+            {
+                "id": "c1_q4",
+                "question": "4. Florença-a-Flor-que-Pensa",
+                "options": [
+                    "A. era uma mulher considerada unanimemente jovem.",
+                    "B. era uma mulher admirada por todos em Florença.",
+                    "C. era uma mulher à qual nada havia a apontar.",
+                    "D. era uma mulher que suscitava opiniões diferentes."
+                ],
+                "answer": 3
+            },
+            {
+                "id": "c1_q5",
+                "question": "5. De acordo com o texto, os homens",
+                "options": [
+                    "A. mais velhos não se interessavam apenas pela cintura de Florença-a-Flor-que-Pensa.",
+                    "B. mais velhos achavam que as coisas que se diziam sobre Florença-a-Flor-que-Pensa não interessavam.",
+                    "C. mais novos tinham uma opinião semelhante à dos mais velhos sobre Florença-a-Flor-que-Pensa.",
+                    "D. de meia-idade preferiam dizer o que pensavam sobre Florença-a-Flor-que-Pensa."
+                ],
+                "answer": 2
+            }
+        ]
+    },
+    {
+        "id": "c1_l_p1_t3",
+        "type": "leitura_longa",
+        "title": "PARTE 1 // Texto 3 (Questões 6-10)",
+        "instruction": "Leia o texto e escolha uma das opções (A, B, C ou D) para as questões 6-10.",
+        "text": "Os restos coloridos dos colares de missangas dançam nas mãos de Jorge como dançam nas mãos de todos os meninos da ilha. Talvez por serem objetos que o mar traficou. De certeza, porque a Ilha de Moçambique é um sonho antigo. Mesmo que seja apenas o fascínio do mar, a poesia quente do Índico. Esta ilha desexiste, diria Mia Couto.\nNa estrada entre Nampula e a Ilha sofre-se a aridez de quem desexiste. Povoações e povoações de casas de macuti (com telhados de folha de coqueiro) no meio do nada. Numa das principais, Namialo, há um restaurante, o Tropical, que é a melhor antecâmara da Ilha. É onde são feitos esses colares que o mar trafica aos poucos. O Tropical é gerido por um casal muçulmano – a mulher era católica, mas o casamento converteu-a: reza com a T.V. árabe-saudita, afixa o benfiquismo de décadas atrás do balcão e faz da canequinha de plástico uma reminiscência hindu, na casa de banho.\nO tempo correu e escorreu por aqui. Por toda a costa Oriental de África, e particularmente pela Ilha de Moçambique, passaram séculos de comércio, de trocas, aventuras e desventuras, que se sobrepõem e misturam nas mãos de meninos como o Jorge. Apesar de tudo, a Ilha pouco mudou. A beleza do traço e da arquitetura da cidade de pedra e cal, a norte, que era habitada exclusivamente por portugueses, não se apaga por mais que o tempo escorra. Pode é ser rasurada como aconteceu com a casa onde Camões, diz a lenda, escreveu sobre a Ilha dos Amores.\nÉ bem certo que o abandono e as figueiras bravas, com as suas raízes aéreas, condenaram a cidade à ruína, mas o que, em 1992, a Unesco classificou como Património Cultural da Humanidade não foi a beleza centrífuga das figueiras, mas sim a fortaleza de S. Sebastião (século XVI), o Palácio de S. Paulo, antiga residência do governador, o velho hospital, a capela da Nossa Senhora de Baluarte, considerada a mais antiga construção europeia no hemisfério sul, os templos hindus e as mesquitas, que fazem da ilha um composto invulgar - o ecumenismo só não vale para a morte, uma vez que cada religião possui o seu próprio cemitério.\n\"Esta ilha tem magia\", certifica Lena, uma das suas personagens mágicas. Lena deixou enredos em várias cidades, saiu e voltou por amor. Hoje, explora um parque de campismo no Lumbo, donde avista a ilha. Uma estreita e periclitante ponte, que só permite que dois carros se cruzem nos seus cotovelos, une, desde 1966, os três quilómetros que afastam o continente desta jangada de história - antes disso, nunca circulara um automóvel na Ilha. Lena está orgulhosamente de frente, orgulhosamente macua, a principal etnia do norte do país. \"Gosto tanto da Ilha que já não posso lá viver. Prefiro viver aqui e vê-la todos os dias\". Embora se queixe da pequenez de uma ilha com 3 quilómetros de comprimento e 500 metros de largura, Lena não se afasta da jangada. Queixa-se do aperto de um lugar de onde o Índico sempre espreita, mas sucumbe-lhe ao mistério. \"Os habitantes da Ilha falam às vezes de coisas misteriosas que ali acontecem”.\nO Índico espreita, mas também circunda a outra metade da ilha com a mesma eloquência azul com que envolve a cidade de pedra e cal. A decadência melancólica que o pôr do sol recorta e a noite amortece. Quando a ilha cerra as pálpebras.",
+        "questions": [
+            {
+                "id": "c1_q6",
+                "question": "6. A Ilha de Moçambique é um lugar",
+                "options": [
+                    "A. onde os meninos dançam exibindo colares de missangas.",
+                    "B. de confluência de sonhos, emoções, sensações.",
+                    "C. de práticas de tráfico marítimo.",
+                    "D. onde se ouvem poemas antigos."
+                ],
+                "answer": 1
+            },
+            {
+                "id": "c1_q7",
+                "question": "7. Com a expressão “Apesar de” (parágrafo 3, linha 7), o autor",
+                "options": [
+                    "A. introduz uma ideia que se opõe à frase anterior.",
+                    "B. conclui uma ideia que iniciou na frase anterior.",
+                    "C. faz uma comparação com a frase anterior.",
+                    "D. exprime uma condição que depende da frase anterior."
+                ],
+                "answer": 0
+            },
+            {
+                "id": "c1_q8",
+                "question": "8. O Tropical é um",
+                "options": [
+                    "A. restaurante que fica na rua principal de Namialo.",
+                    "B. espaço representativo da harmonia cultural e ecuménica.",
+                    "C. lugar onde os meninos vendem colares de missangas.",
+                    "D. restaurante da Ilha de Moçambique."
+                ],
+                "answer": 1
+            },
+            {
+                "id": "c1_q9",
+                "question": "9. A classificação da Ilha, pela Unesco, como Património Cultural da Humanidade, permitiu",
+                "options": [
+                    "A. a recuperação da fortaleza de S. Sebastião e da capela da Nossa Senhora do Baluarte.",
+                    "B. a preservação dos exemplares de figueiras bravas, junto às ruínas.",
+                    "C. o reconhecimento do património arquitetónico.",
+                    "D. a construção de cemitérios adequados à diversidade de religiões."
+                ],
+                "answer": 2
+            },
+            {
+                "id": "c1_q10",
+                "question": "10. Devido ao encanto que a Ilha exerce sobre si, Lena",
+                "options": [
+                    "A. prefere viver numa espécie de jangada com vista para a Ilha.",
+                    "B. decidiu regressar e gerir um parque de campismo na Ilha.",
+                    "C. não se importa com as reduzidas dimensões da Ilha.",
+                    "D. mudou-se para um local de onde a pode avistar."
+                ],
+                "answer": 3
+            }
+        ]
+    },
+    {
+        "id": "c1_l_p2",
+        "type": "leitura_regras",
+        "title": "PARTE 2 // (questões 11-20)",
+        "instruction": "Vai ler um artigo em que se apresentam cinco regras (parágrafos A-E) para investir e para ter o dinheiro seguro e um conjunto de dez advertências (11-20). Faça a correspondência.",
+        "rules": [
+            {
+                "id": "R_A",
+                "letter": "A",
+                "title": "Regra A",
+                "text": "Antes de investir, pense se precisa realmente do dinheiro que tem disponível. Caso não necessite, então poderá começar a aplicar essa verba extra de forma a rentabilizar o montante da melhor forma. Os investidores devem reservar o equivalente a entre três a seis meses de despesas mensais do agregado familiar para que consigam enfrentar eventuais imprevistos... essa espécie de fundo de emergência deve ser aplicado em produtos de baixo risco."
+            },
+            {
+                "id": "R_B",
+                "letter": "B",
+                "title": "Regra B",
+                "text": "Pense sempre a longo a prazo. Deve investir no mínimo a 5 anos – 10 anos é bom e 20 ainda é melhor – para que o montante aplicado seja maximizado. Se não está a pensar a longo prazo, deve optar por instrumentos de risco inferior. É o caso, por exemplo, dos depósitos – as aplicações a três meses rendem menos do que as aplicações a um ano – e das Obrigações de Tesouro."
+            },
+            {
+                "id": "R_C",
+                "letter": "C",
+                "title": "Regra C",
+                "text": "Os bancos têm interesse em atrair o maior número possível de clientes, mesmo que o montante de que cada consumidor dispõe seja reduzido. Desta forma, evite tornar-se cliente sem refletir sobre as condições que lhe são oferecidas e, sobretudo, não hesite em tentar negociá-las... Pode também cruzar com outra oferta bancária, como os spreads dos créditos e os encargos dos seguros."
+            },
+            {
+                "id": "R_D",
+                "letter": "D",
+                "title": "Regra D",
+                "text": "Se é adverso ao risco e aos altos e baixos da bolsa, então o melhor é não apostar no mercado acionista. Mesmo que este dê um rendimento superior, não paga o suficiente pelas noites mal dormidas por causa das preocupações com a volatilidade da sua carteira. Desta forma, deve investir em instrumentos de baixo risco e evitar não só ações como todas as aplicações em divisas estrangeiras."
+            },
+            {
+                "id": "R_E",
+                "letter": "E",
+                "title": "Regra E",
+                "text": "Não se endivide para investir. Financiar-se para investir é um pecado capital para o investidor. Se os seus investimentos desvalorizarem, o crédito tem um efeito multiplicador dos prejuízos. Se as suas aplicações subirem, o crédito amortiza o efeito dos ganhos. Qualquer que seja o resultado dos seus investimentos... Só há uma entidade que ganha sempre: o seu banco."
+            }
+        ],
+        "questions": [
+            { "id": "c1_q11", "number": "11", "text": "se acha que não sabe jogar este jogo, então não deve avançar.", "options": ["A","B","C","D","E"], "answer": 2 },
+            { "id": "c1_q12", "number": "12", "text": "às vezes o azar bate à porta. Olhe que mais vale um pássaro na mão do que dois a voar!", "options": ["A","B","C","D","E"], "answer": 3 },
+            { "id": "c1_q13", "number": "13", "text": "deve aplicar o que tem e não o que não tem.", "options": ["A","B","C","D","E"], "answer": 4 },
+            { "id": "c1_q14", "number": "14", "text": "o fator tempo pode ser uma mais-valia.", "options": ["A","B","C","D","E"], "answer": 1 },
+            { "id": "c1_q15", "number": "15", "text": "não é só você quem quer beneficiar.", "options": ["A","B","C","D","E"], "answer": 2 },
+            { "id": "c1_q16", "number": "16", "text": "não deve dar um passo maior do que a perna, isto é, se tem, investe, se não tem, não investe.", "options": ["A","B","C","D","E"], "answer": 4 },
+            { "id": "c1_q17", "number": "17", "text": "menos significa mesmo «menos».", "options": ["A","B","C","D","E"], "answer": 1 },
+            { "id": "c1_q18", "number": "18", "text": "os produtos em que investe podem ampliar os seus ganhos ou perdas.", "options": ["A","B","C","D","E"], "answer": 4 },
+            { "id": "c1_q19", "number": "19", "text": "está à procura de bem-estar, não do contrário.", "options": ["A","B","C","D","E"], "answer": 3 },
+            { "id": "c1_q20", "number": "20", "text": "é a falar que nos entendemos. Com o seu banco também.", "options": ["A","B","C","D","E"], "answer": 2 }
+        ]
+    },
+    {
+        "id": "c1_l_p3",
+        "type": "cloze_banco",
+        "title": "PARTE 3 // Questões 21-25",
+        "instruction": "Reconstrua o texto colocando os parágrafos A-F nos espaços adequados (21-25). Há um parágrafo a mais.",
+        "text": "O aquecimento climático não tem como única consequência a subida do nível dos oceanos. Também ameaça os ecossistemas que aí se desenvolvem, por várias razões.\n\n[21]\n\nTal facto poderá conduzir a um aumento da acidez dos oceanos em 0,5 unidades de pH. Uma mudança deste tipo perturbaria o equilíbrio químico do oceano e anularia uma parte da vida marinha.\n\n[22]\n\nA Revista das Ciências apresenta dois estudos preliminares: um demonstra que a acidificação abranda o crescimento dos corais e outro indica que o esqueleto de certos organismos que constituem o plâncton se torna mais pequeno e apresenta malformações.\n\n[23]\n\nEste gás solidifica-se no fundo dos oceanos e forma uma espécie de gelo: os hidratos de metano. As quantidades de gás metano envolvidas são de tal forma enormes que podem ser três mil vezes mais do que as que estão na atmosfera.\n\n[24]\n\nA acontecer, seria o começo de um cenário catastrófico, ainda mais terrível do que as hipóteses atuais em torno do aquecimento. Tendo isso em consideração, investigadores americanos analisaram, recentemente, uma dessas ocorrências, chamadas arrotos de metano, verificada há 55 milhões de anos.\n\n[25]",
+        "optionsBank": [
+            { "letter": "A", "text": "Ora o plâncton constitui a fonte de quase todos os ecossistemas marinhos e o seu desaparecimento ou transformação seria provavelmente dramático. O aquecimento dos oceanos pode ainda fazer libertar enormes quantidades de gás metano." },
+            { "letter": "B", "text": "Concluíram que ela produz um aumento médio da temperatura da ordem dos 8ºC. Cerca de 200 milhões de anos antes, outro arroto eliminara 94% das espécies marinhas." },
+            { "letter": "C", "text": "Primeiro, porque os oceanos captam e dissolvem uma parte importante do dióxido de carbono da atmosfera. O gás transforma-se então em anidrido carbónico. Com o aumento das quantidades de CO2 na atmosfera, é cada vez maior a quantidade de gás dissolvido no mar." },
+            { "letter": "D", "text": "As mudanças climáticas surgem, assim, como responsáveis principais de muitos dos hábitos que temos. Mais grave é que não estamos suficientemente despertos para introduzir alterações no nosso quotidiano." },
+            { "letter": "E", "text": "Esta é razão por que há que atacar o problema na origem, pois a variação do pH significa que, dentro de cerca de 100 anos, o processo de calcificação poderá tornar-se extremamente difícil para o plâncton." },
+            { "letter": "F", "text": "Acresce referir que os hidratos de metano são instáveis: se a temperatura da água subir, os oceanos podem libertar este gás, que exerce um efeito de estufa vinte vezes mais poderoso que o CO2." }
+        ],
+        "questions": [
+            { "id": "c1_q21", "question": "21.", "answer": 2 },
+            { "id": "c1_q22", "question": "22.", "answer": 4 },
+            { "id": "c1_q23", "question": "23.", "answer": 5 },
+            { "id": "c1_q24", "question": "24.", "answer": 0 },
+            { "id": "c1_q25", "question": "25.", "answer": 1 }
+        ]
+    },
+    {
+        "id": "c1_l_p4",
+        "type": "cloze_inline_mcq",
+        "title": "PARTE 4 // Questões 26-40",
+        "instruction": "Complete o texto com as palavras em falta nos espaços 26-40. Marque a letra correspondente à palavra escolhida (A, B, C ou D).",
+        "text": "Os Açores são atualmente um dos maiores [26] de baleias do mundo. Entre espécies residentes e [27], comuns ou raras, podemos encontrar mais de 20 tipos diferentes de cetáceos nas suas águas. O número [28] e corresponde a um terço do total de espécies [29]. Com a presença das baleias e dos golfinhos, o azul do Atlântico torna-se ainda mais mágico e abençoado em [30] das nove ilhas do arquipélago dos Açores. E traz para os novos tempos, onde a [31] da natureza é palavra-chave, um grito antigo: “Baleia à vista!”. A observação das baleias e dos golfinhos por turistas é uma atividade que pode ser [32] nas águas de todo o arquipélago. A facilidade de encontrar estes mamíferos nestas [33] é acompanhada pelo desenvolvimento de operadores turísticos respeitadores da vida animal. Há por isso vários pontos de partida, [34] por várias ilhas, que servem de base para quem queira contactar os animais. Após a partida do barco, o vasto oceano é o cenário em que [35] os encontros entre humanos e cetáceos. Antes da partida, o guia fala sobre as espécies a [36], as medidas de segurança e procedimentos a adotar para não interferir com a vida [37]. A bordo das [38], é obrigatório usar o colete salva-vidas. Aconselha-se o uso do casaco impermeável (normalmente [39] pelos operadores). No regresso a terra [40], nasce o desejo de regressar ao mar.",
+        "questions": [
+            { "id": "c1_q26", "question": "26", "options": ["oratórios", "templos", "santuários", "repositórios"], "answer": 2 },
+            { "id": "c1_q27", "question": "27", "options": ["emigrantes", "emigradas", "migrantes", "migratórias"], "answer": 3 },
+            { "id": "c1_q28", "question": "28", "options": ["comove", "impressiona", "abala", "perturba"], "answer": 1 },
+            { "id": "c1_q29", "question": "29", "options": ["existentes", "presentes", "atuais", "vivas"], "answer": 0 },
+            { "id": "c1_q30", "question": "30", "options": ["retorno", "redor", "volta", "roda"], "answer": 1 },
+            { "id": "c1_q31", "question": "31", "options": ["preservação", "defesa", "segurança", "auxílio"], "answer": 0 },
+            { "id": "c1_q32", "question": "32", "options": ["executada", "exercitada", "concretizada", "praticada"], "answer": 3 },
+            { "id": "c1_q33", "question": "33", "options": ["paragens", "estações", "localidades", "margens"], "answer": 0 },
+            { "id": "c1_q34", "question": "34", "options": ["alargados", "repartidos", "dispersados", "espalhados"], "answer": 3 },
+            { "id": "c1_q35", "question": "35", "options": ["decorrem", "correm", "escorrem", "concorrem"], "answer": 0 },
+            { "id": "c1_q36", "question": "36", "options": ["vislumbrar", "entrever", "avistar", "antever"], "answer": 2 },
+            { "id": "c1_q37", "question": "37", "options": ["marítima", "marinha", "marinheira", "oceânica"], "answer": 1 },
+            { "id": "c1_q38", "question": "38", "options": ["naus", "naves", "embarcações", "barcas"], "answer": 2 },
+            { "id": "c1_q39", "question": "39", "options": ["aprovisionado", "providenciado", "abastecido", "facultado"], "answer": 3 },
+            { "id": "c1_q40", "question": "40", "options": ["batida", "sólida", "firme", "estável"], "answer": 2 }
+        ]
+    },
+    {
+        "id": "c1_l_p5",
+        "type": "cloze_inline_open",
+        "title": "PARTE 5 // Questões 41-60",
+        "instruction": "Complete o texto com as palavras que faltam nos espaços 41-60. A cada espaço corresponde apenas uma palavra.",
+        "text": "André Nave, Diogo Madeira e Bruno Nunes são três amigos que lançaram em novembro passado um sítio na Internet [41] podemos conhecer sugestões diversas sobre a cidade de Lisboa. O sítio, chamado Onde Lisboa, [42] recordes de popularidade. A ideia surgiu quando os três amigos [43] a necessidade de criar um espaço virtual onde os estudantes, os residentes e os turistas pudessem encontrar informação que não [44] dos guias turísticos, por exemplo a questão do estacionamento gratuito.\n\nO sítio dispõe de um separador [45] exclusivamente aos estudantes. Desde locais para fazer impressões à lista de cantinas [46], os estudantes conseguem aceder a um conjunto de informações úteis em qualquer situação. [47] além disso, há um espaço dedicado ao desporto, à cultura e ao comércio.\n\nO André e o Diogo fazem pesquisa de campo, sendo responsáveis pela [48] de informação e de fotografias que ilustram os artigos. Acabam [49] envolver os amigos nesse processo e estão sempre disponíveis para aceitar sugestões de [50] visita o sítio. Bruno Nunes diz que é comum encontrar espaços que não se [51] referenciados na Internet.\n\nNesses casos, o Onde Lisboa passa a [52] uma referência na divulgação desses espaços. À [53] que os proprietários do sítio vão fazendo pesquisas, vão descobrindo [54] vez mais coisas e aí constroem novos conteúdos.\n\nO projeto está em permanente autoavaliação e os três amigos não sabem, ainda, [55] proporções o projeto poderá atingir. [56] que vamos ter, em breve, um Onde Porto ou um Onde Coimbra? O tempo o [57].\n\nPara já, Bruno, Diogo e André, os três mentores desta ideia já considerada genial, [58] as suas atividades profissionais com este projeto. Não têm uma ambição desmedida para o projeto e preferem que ele [59] crescendo aos poucos. Afinal, Roma e Pavia não se fizeram num dia. E é melhor [60] pelo seguro, para não dar razão ao ditado popular \"quem tudo quer tudo perde\".",
+        "questions": [
+            { "id": "c1_q41", "question": "41", "answer": "onde/em que" },
+            { "id": "c1_q42", "question": "42", "answer": "bateu" },
+            { "id": "c1_q43", "question": "43", "answer": "viram/identificaram" },
+            { "id": "c1_q44", "question": "44", "answer": "consta" },
+            { "id": "c1_q45", "question": "45", "answer": "dedicado" },
+            { "id": "c1_q46", "question": "46", "answer": "disponíveis" },
+            { "id": "c1_q47", "question": "47", "answer": "Para" },
+            { "id": "c1_q48", "question": "48", "answer": "atualização" },
+            { "id": "c1_q49", "question": "49", "answer": "por" },
+            { "id": "c1_q50", "question": "50", "answer": "quem" },
+            { "id": "c1_q51", "question": "51", "answer": "encontram" },
+            { "id": "c1_q52", "question": "52", "answer": "ser" },
+            { "id": "c1_q53", "question": "53", "answer": "medida" },
+            { "id": "c1_q54", "question": "54", "answer": "cada" },
+            { "id": "c1_q55", "question": "55", "answer": "que" },
+            { "id": "c1_q56", "question": "56", "answer": "Será" },
+            { "id": "c1_q57", "question": "57", "answer": "dirá" },
+            { "id": "c1_q58", "question": "58", "answer": "conciliam" },
+            { "id": "c1_q59", "question": "59", "answer": "vá" },
+            { "id": "c1_q60", "question": "60", "answer": "jogar" }
+        ]
+    },
+    {
+        "id": "c1_co_p1",
+        "type": "audio",
+        "title": "Compreensão do Oral // 25 Questões",
+        "instruction": "Nesta componente do exame, vai ouvir cada texto duas vezes. Entre a primeira e a segunda audição de cada texto, há um sinal sonoro.",
+        "audio_url": "/simulado/C1/CAPLE_C1_Audio.mp3",
+        "questions": [
+            { "id": "c1_co_q1", "textGroup": "Texto 1", "question": "1. O novo livro de A. M. Magalhães e I. Alçada, Em Roma sê romano, trata do seguinte:", "options": ["A. Três personagens preparam uma deslocação a Roma.", "B. Três personagens viajam até Roma para solucionar um crime.", "C. Três personagens desvendaram um crime e viajam."], "answer": 1 },
+            { "id": "c1_co_q2", "textGroup": "Texto 1", "question": "2. O cofre descoberto nas escavações continha", "options": ["A. documentos que descreviam acontecimentos.", "B. retratos de alguém que se chamava Sílvia.", "C. vestígios de feitiços."], "answer": 0 },
+            { "id": "c1_co_q3", "textGroup": "Texto 1", "question": "3. Na ida para Roma, as três personagens", "options": ["A. são obrigadas a participar numa luta.", "B. são arrastadas para o mar.", "C. sofrem uma aterragem brusca de avião."], "answer": 0 },
+            
+            { "id": "c1_co_q4", "textGroup": "Texto 2", "question": "4. No campo profissional,", "options": ["A. ambiente favorável a novas propostas.", "B. favorecidos os aumentos salariais.", "C. hesitações na concretização de projetos."], "answer": 0 },
+            { "id": "c1_co_q5", "textGroup": "Texto 2", "question": "5. No campo social,", "options": ["A. relações íntimas favorecidas.", "B. família à margem das prioridades.", "C. boas relações com amigos."], "answer": 2 },
+            { "id": "c1_co_q6", "textGroup": "Texto 2", "question": "6. As relações sentimentais", "options": ["A. estão dificultadas.", "B. beneficiarão muito com confiança mútua.", "C. evitar questões delicadas para beneficiar."], "answer": 1 },
+            { "id": "c1_co_q7", "textGroup": "Texto 2", "question": "7. Na área das finanças,", "options": ["A. vai sentir-se como peixe na água.", "B. objetivos não se vão cumprir.", "C. querer mais do que pode."], "answer": 0 },
+            { "id": "c1_co_q8", "textGroup": "Texto 2", "question": "8. Feitas as contas, as previsões de abril", "options": ["A. afiguram-se bastante auspiciosas.", "B. não permitirão voar muito alto.", "C. grandes dissabores."], "answer": 0 },
+            
+            { "id": "c1_co_q9", "textGroup": "Texto 3", "question": "9. Na peça, explica-se que o Kindle pode ter como vantagens:", "options": ["A. não precisar de alimentação.", "B. prescindir de software.", "C. reduzir contraste para facilitar leitura."], "answer": 1 },
+            { "id": "c1_co_q10", "textGroup": "Texto 3", "question": "10. O preço de comercialização do aparelho", "options": ["A. rondará duas centenas de euros.", "B. livre de taxas alfandegárias.", "C. adaptado conforme destino."], "answer": 2 },
+            { "id": "c1_co_q11", "textGroup": "Texto 3", "question": "11. Relativamente aos livros eletrónicos:", "options": ["A. clássicos por preços inferiores a três euros.", "B. os mais procurados andam na ordem dos 10 euros.", "C. os mais recentes são mais económicos."], "answer": 0 },
+            { "id": "c1_co_q12", "textGroup": "Texto 3", "question": "12. O autor confessa que a experiência é tentadora porque", "options": ["A. os livros são pesados.", "B. preço sem impostos.", "C. vantagens na arrumação."], "answer": 2 },
+            { "id": "c1_co_q13", "textGroup": "Texto 3", "question": "13. O autor prefere os livros tradicionais porque", "options": ["A. é possível fazer anotações.", "B. exalam odor, mesmo sem alma.", "C. uso de marcadores."], "answer": 0 },
+            
+            { "id": "c1_co_q14", "textGroup": "Texto 4", "question": "14. Na introdução, a jornalista afirma que", "options": ["A. as entrevistas são iguais e muda a forma das questões.", "B. as entrevistas são todas diferentes, mas com questões repetidas.", "C. entrevistas são sempre iguais."], "answer": 1 },
+            { "id": "c1_co_q15", "textGroup": "Texto 4", "question": "15. A preparação para a entrevista", "options": ["A. trabalho de casa só com método conhecido.", "B. preparar independentemente de dar frutos.", "C. hipóteses de sucesso aumentam com preparação."], "answer": 2 },
+            { "id": "c1_co_q16", "textGroup": "Texto 4", "question": "16. Após a fase inicial, os entrevistadores podem", "options": ["A. levar a identificar problemas e pensar na resolução.", "B. compreender como se comportam para prever comportamentos.", "C. pedir para resolver situações vividas."], "answer": 0 },
+            { "id": "c1_co_q17", "textGroup": "Texto 4", "question": "17. O que procuram num emprego:", "options": ["A. destacar aspetos positivos e negativos.", "B. resposta padronizada.", "C. permite várias respostas; valorizar ambição."], "answer": 2 },
+            { "id": "c1_co_q18", "textGroup": "Texto 4", "question": "18. Sobre trabalhar sob pressão:", "options": ["A. responder a verdade, mesmo que negativa.", "B. ter em consideração a função a que se candidatam.", "C. não podem responder negativamente."], "answer": 1 },
+            { "id": "c1_co_q19", "textGroup": "Texto 4", "question": "19. Ainda sobre trabalhar sob pressão, a resposta do especialista", "options": ["A. permite inferir que o candidato deve considerar as especificidades.", "B. responder em função das preferências.", "C. salienta que o candidato deve recorrer à experiência."], "answer": 0 },
+            { "id": "c1_co_q20", "textGroup": "Texto 4", "question": "20. Dê-nos um motivo para o escolhermos:", "options": ["A. saber vender-se.", "B. valorizar capacidades e perfil.", "C. seguir regras de venda."], "answer": 1 },
+            { "id": "c1_co_q21", "textGroup": "Texto 4", "question": "21. Resumindo o que o candidato pode dizer:", "options": ["A. perceber capacidade de se vender.", "B. benefícios independentemente dos lucros.", "C. deixar claro de que forma pode trazer benefícios e lucros."], "answer": 2 },
+            
+            { "id": "c1_co_q22", "textGroup": "Texto 5", "question": "22. A política de língua apropriada deve", "options": ["A. analisar os dados sobre o interesse pelo português.", "B. fornecer os dados.", "C. modificar os dados."], "answer": 0 },
+            { "id": "c1_co_q23", "textGroup": "Texto 5", "question": "23. As variantes de português devem ser tratadas", "options": ["A. como iguais.", "B. conforme o interesse que despertam.", "C. conforme o seu potencial histórico."], "answer": 1 },
+            { "id": "c1_co_q24", "textGroup": "Texto 5", "question": "24. A política para a língua deve ser adequada", "options": ["A. ao perfil dos alunos.", "B. ao perfil dos professores.", "C. aos fins do ensino."], "answer": 2 },
+            { "id": "c1_co_q25", "textGroup": "Texto 5", "question": "25. O autor recomenda o desenvolvimento do ensino a distância por", "options": ["A. ser uma ferramenta económica.", "B. haver grande distribuição geográfica dos aprendentes.", "C. apropriado às exigências do século."], "answer": 1 }
+        ]
+    }
+]
+
+with open("src/data/simulado_c1.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
+
+print("C1 JSON data successfully generated!")

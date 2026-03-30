@@ -1,0 +1,1577 @@
+[
+    {
+        "word": "ciência",
+        "translation": "科学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Conjunto de conhecimentos.",
+        "examples": [
+            {
+                "pt": "Gosto de ciência.",
+                "cn": "我喜欢科学。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "cientista",
+        "translation": "科学家",
+        "gender": "o/a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Pessoa que faz ciência.",
+        "examples": [
+            {
+                "pt": "Cientista famoso.",
+                "cn": "著名科学家。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pesquisa",
+        "translation": "调查/研究",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Investigação sistemática.",
+        "examples": [
+            {
+                "pt": "Fazer pesquisa.",
+                "cn": "做研究。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "investigação",
+        "translation": "研究",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ação de investigar.",
+        "examples": [
+            {
+                "pt": "Investigação criminal.",
+                "cn": "刑事调查。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "biologia",
+        "translation": "生物学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estudo da vida.",
+        "examples": [
+            {
+                "pt": "Aula de biologia.",
+                "cn": "生物课。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "física",
+        "translation": "物理学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estudo da matéria e energia.",
+        "examples": [
+            {
+                "pt": "Física quântica.",
+                "cn": "量子物理学。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "química",
+        "translation": "化学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estudo das substâncias.",
+        "examples": [
+            {
+                "pt": "Reação química.",
+                "cn": "化学反应。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "matemática",
+        "translation": "数学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ciência dos números.",
+        "examples": [
+            {
+                "pt": "Problema de matemática.",
+                "cn": "数学问题。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "astronomia",
+        "translation": "天文学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estudo dos astros.",
+        "examples": [
+            {
+                "pt": "Telescópio de astronomia.",
+                "cn": "天文望远镜。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "geologia",
+        "translation": "地质学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estudo da terra.",
+        "examples": [
+            {
+                "pt": "Geologia das pedras.",
+                "cn": "石头地质学。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "medicina",
+        "translation": "医学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ciência de curar.",
+        "examples": [
+            {
+                "pt": "Estudar medicina.",
+                "cn": "学医。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "genética",
+        "translation": "遗传学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estudo dos genes.",
+        "examples": [
+            {
+                "pt": "Teste de genética.",
+                "cn": "遗传学测试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tecnologia",
+        "translation": "技术",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Aplicação prática da ciência.",
+        "examples": [
+            {
+                "pt": "Tecnologia digital.",
+                "cn": "数字技术。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "inovação",
+        "translation": "创新",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ideia nova.",
+        "examples": [
+            {
+                "pt": "Inovação tecnológica.",
+                "cn": "技术创新。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "descoberta",
+        "translation": "发现",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ato de descobrir.",
+        "examples": [
+            {
+                "pt": "Grande descoberta.",
+                "cn": "伟大的发现。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "invenção",
+        "translation": "发明",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Algo recém-criado.",
+        "examples": [
+            {
+                "pt": "Invenção da lâmpada.",
+                "cn": "灯泡的发明。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "experiência",
+        "translation": "实验/经验",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ensaio científico.",
+        "examples": [
+            {
+                "pt": "Fazer uma experiência.",
+                "cn": "做一个实验。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "laboratório",
+        "translation": "实验室",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Local de pesquisa.",
+        "examples": [
+            {
+                "pt": "Acesso ao laboratório.",
+                "cn": "进入实验室。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "microscópio",
+        "translation": "显微镜",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Aparelho para ampliar.",
+        "examples": [
+            {
+                "pt": "Olhar pelo microscópio.",
+                "cn": "通过显微镜观察。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "telescópio",
+        "translation": "望远镜",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Aparelho para ver longe.",
+        "examples": [
+            {
+                "pt": "Ver as estrelas no telescópio.",
+                "cn": "在望远镜中看到星星。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "proveta",
+        "translation": "试管",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Vaso de laboratório.",
+        "examples": [
+            {
+                "pt": "Misturar na proveta.",
+                "cn": "在烧杯中混合。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "amostra",
+        "translation": "样本",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Pequena porção.",
+        "examples": [
+            {
+                "pt": "Amostra de sangue.",
+                "cn": "血液样本。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "substância",
+        "translation": "物质",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Matéria.",
+        "examples": [
+            {
+                "pt": "Substância tóxica.",
+                "cn": "有毒物质。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "elemento",
+        "translation": "元素",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Princípio formador.",
+        "examples": [
+            {
+                "pt": "Elemento químico.",
+                "cn": "化学元素。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "molécula",
+        "translation": "分子",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Menor parte da matéria.",
+        "examples": [
+            {
+                "pt": "Molécula de água.",
+                "cn": "水分子。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "átomo",
+        "translation": "原子",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Partícula minúscula.",
+        "examples": [
+            {
+                "pt": "Núcleo do átomo.",
+                "cn": "原子核。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "partícula",
+        "translation": "粒子",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Pequenina parte.",
+        "examples": [
+            {
+                "pt": "Partícula subatómica.",
+                "cn": "亚原子粒子。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "célula",
+        "translation": "细胞",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Unidade biológica.",
+        "examples": [
+            {
+                "pt": "Célula humana.",
+                "cn": "人体细胞。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "organismo",
+        "translation": "生物体",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ser vivo.",
+        "examples": [
+            {
+                "pt": "Organismo vivo.",
+                "cn": "活的有机体。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bactéria",
+        "translation": "细菌",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Microrganismo.",
+        "examples": [
+            {
+                "pt": "Bactéria nociva.",
+                "cn": "有害细菌。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "vírus",
+        "translation": "病毒",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Agente infecioso.",
+        "examples": [
+            {
+                "pt": "Vírus mortal.",
+                "cn": "致命病毒。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "gene",
+        "translation": "基因",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Unidade genética.",
+        "examples": [
+            {
+                "pt": "Gene humano.",
+                "cn": "人类基因。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "evolução",
+        "translation": "进化",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Mudança gradual.",
+        "examples": [
+            {
+                "pt": "Evolução das espécies.",
+                "cn": "物种的进化。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "natureza",
+        "translation": "自然",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Meio ambiente físico.",
+        "examples": [
+            {
+                "pt": "Leis da natureza.",
+                "cn": "自然法则。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fenómeno",
+        "translation": "现象",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Acontecimento raro.",
+        "examples": [
+            {
+                "pt": "Fenómeno natural.",
+                "cn": "自然现象。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "energia",
+        "translation": "能量/能源",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Força de ação.",
+        "examples": [
+            {
+                "pt": "Energia solar.",
+                "cn": "太阳能。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "matéria",
+        "translation": "物质",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Substância que ocupa espaço.",
+        "examples": [
+            {
+                "pt": "Estado da matéria.",
+                "cn": "事情的现状。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "massa",
+        "translation": "质量",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Quantidade de matéria.",
+        "examples": [
+            {
+                "pt": "Massa do corpo.",
+                "cn": "体重。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "força",
+        "translation": "力",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Atuação física.",
+        "examples": [
+            {
+                "pt": "Força da gravidade.",
+                "cn": "重力。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "gravidade",
+        "translation": "重力",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Atração planetária.",
+        "examples": [
+            {
+                "pt": "Lei da gravidade.",
+                "cn": "万有引力定律。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "radiação",
+        "translation": "辐射",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Emissão de energia.",
+        "examples": [
+            {
+                "pt": "Radiação solar.",
+                "cn": "太阳辐射。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "eletricidade",
+        "translation": "电",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Manifestação da energia.",
+        "examples": [
+            {
+                "pt": "Gerar eletricidade.",
+                "cn": "发电。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "magnetismo",
+        "translation": "磁性",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Propriedade de atrair.",
+        "examples": [
+            {
+                "pt": "O magnetismo terrestre.",
+                "cn": "地磁。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "temperatura",
+        "translation": "温度",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Nível de calor.",
+        "examples": [
+            {
+                "pt": "Medir a temperatura.",
+                "cn": "测量温度。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pressão",
+        "translation": "压力/压强",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ato de premir.",
+        "examples": [
+            {
+                "pt": "Pressão atmosférica.",
+                "cn": "气压。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "volume",
+        "translation": "体积",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Espaço ocupado.",
+        "examples": [
+            {
+                "pt": "Qual é o volume?",
+                "cn": "音量是多少？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "reação",
+        "translation": "反应",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Resposta a uma ação.",
+        "examples": [
+            {
+                "pt": "Reação física.",
+                "cn": "物理反应。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "composto",
+        "translation": "化合物",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Mistura de elementos.",
+        "examples": [
+            {
+                "pt": "Composto orgânico.",
+                "cn": "有机化合物。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "fórmula",
+        "translation": "公式",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Regra exata.",
+        "examples": [
+            {
+                "pt": "Fórmula mágica.",
+                "cn": "神奇的公式。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "equação",
+        "translation": "方程式",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Expressão matemática.",
+        "examples": [
+            {
+                "pt": "Resolver a equação.",
+                "cn": "解方程。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "cálculo",
+        "translation": "计算",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ação de calcular.",
+        "examples": [
+            {
+                "pt": "Fazer o cálculo.",
+                "cn": "计算一下。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "estatística",
+        "translation": "统计",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Análise de dados.",
+        "examples": [
+            {
+                "pt": "Dados de estatística.",
+                "cn": "统计数据。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "probabilidade",
+        "translation": "概率",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Possibilidade de ocorrer.",
+        "examples": [
+            {
+                "pt": "Alta probabilidade.",
+                "cn": "高概率。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "dados",
+        "translation": "数据",
+        "gender": "os",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Informação recolhida.",
+        "examples": [
+            {
+                "pt": "Os dados mostram.",
+                "cn": "数据显示。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "variável",
+        "translation": "变量",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Aquilo que pode variar.",
+        "examples": [
+            {
+                "pt": "Uma variável de controlo.",
+                "cn": "一个控制变量。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "parâmetro",
+        "translation": "参数",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Padrão ou regra.",
+        "examples": [
+            {
+                "pt": "Mudar o parâmetro.",
+                "cn": "更改参数。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "hipótese",
+        "translation": "假设",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Conjetura.",
+        "examples": [
+            {
+                "pt": "Uma nova hipótese.",
+                "cn": "一个新的假设。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tese",
+        "translation": "论点",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Proposição a defender.",
+        "examples": [
+            {
+                "pt": "Defender a tese.",
+                "cn": "论文答辩。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "antítese",
+        "translation": "对立面",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Opinião contrária.",
+        "examples": [
+            {
+                "pt": "Isso é a antítese.",
+                "cn": "这是对立面。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "síntese",
+        "translation": "合成",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Combinação das partes.",
+        "examples": [
+            {
+                "pt": "Síntese perfeita.",
+                "cn": "完美合成。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "teoria",
+        "translation": "理论",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Princípio geral.",
+        "examples": [
+            {
+                "pt": "Teoria da evolução.",
+                "cn": "进化论。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "lei",
+        "translation": "定律",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Regra fixa.",
+        "examples": [
+            {
+                "pt": "Lei física.",
+                "cn": "物理定律。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "princípio",
+        "translation": "原则",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Base científica.",
+        "examples": [
+            {
+                "pt": "Princípio ativo.",
+                "cn": "活性成分。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "postulado",
+        "translation": "公理",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Pressuposto aceite sem prova cabal.",
+        "examples": [
+            {
+                "pt": "Aceitar o postulado.",
+                "cn": "接受这个假设。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "axioma",
+        "translation": "定理",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Verdade óbvia.",
+        "examples": [
+            {
+                "pt": "Isso é um axioma.",
+                "cn": "这是一条公理。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "evidência",
+        "translation": "证据",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Prova clara.",
+        "examples": [
+            {
+                "pt": "Procurar evidência.",
+                "cn": "寻找证据。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "prova",
+        "translation": "证明",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "O que serve para demonstrar.",
+        "examples": [
+            {
+                "pt": "Prova visual.",
+                "cn": "视觉证明。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "demonstração",
+        "translation": "论证/展示",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ato de provar.",
+        "examples": [
+            {
+                "pt": "Bela demonstração.",
+                "cn": "很好的演示。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "empirismo",
+        "translation": "经验主义",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Baseado na experiência.",
+        "examples": [
+            {
+                "pt": "Escola do empirismo.",
+                "cn": "经验主义学派。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "observação",
+        "translation": "观察",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ato de olhar com cuidado.",
+        "examples": [
+            {
+                "pt": "Ter em observação.",
+                "cn": "继续观察。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "experimentação",
+        "translation": "科学实验",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Fazer diversas provas laboratoriais.",
+        "examples": [
+            {
+                "pt": "A boa experimentação.",
+                "cn": "很好的实验。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "validação",
+        "translation": "验证",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Tornar válido.",
+        "examples": [
+            {
+                "pt": "Aguardar validação.",
+                "cn": "等待验证。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "verificação",
+        "translation": "检验",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ato de verificar.",
+        "examples": [
+            {
+                "pt": "Verificação das regras.",
+                "cn": "检查规则。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "falsificabilidade",
+        "translation": "可证伪性",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Pode provar ser falso.",
+        "examples": [
+            {
+                "pt": "Princípio da falsificabilidade.",
+                "cn": "可证伪性原则。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rigor",
+        "translation": "严谨",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Exatidão.",
+        "examples": [
+            {
+                "pt": "Rigor na prova.",
+                "cn": "测试中严谨。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "precisão",
+        "translation": "精确度",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Exatidão rigorosa.",
+        "examples": [
+            {
+                "pt": "Alta precisão.",
+                "cn": "精度高。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "exatidão",
+        "translation": "准确性",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Verdade absoluta.",
+        "examples": [
+            {
+                "pt": "Medir com exatidão.",
+                "cn": "准确测量。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "erro",
+        "translation": "误差",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Divergência.",
+        "examples": [
+            {
+                "pt": "A margem de erro.",
+                "cn": "误差幅度。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "margem",
+        "translation": "幅度/边缘",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Intervalo.",
+        "examples": [
+            {
+                "pt": "Margem das ações.",
+                "cn": "分享保证金。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "desvio",
+        "translation": "偏差",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Afastamento.",
+        "examples": [
+            {
+                "pt": "Desvio padrão.",
+                "cn": "标准差。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "anomalia",
+        "translation": "异常",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Irregularidade.",
+        "examples": [
+            {
+                "pt": "Foi uma anomalia.",
+                "cn": "这是一个反常现象。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "paradigma",
+        "translation": "范式",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Modelo a seguir.",
+        "examples": [
+            {
+                "pt": "Um novo paradigma.",
+                "cn": "一个新的范式。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "modelo",
+        "translation": "模型",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Representação simplificada.",
+        "examples": [
+            {
+                "pt": "O modelo teórico.",
+                "cn": "理论模型。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "sistema",
+        "translation": "系统",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Conjunto organizado.",
+        "examples": [
+            {
+                "pt": "Sistema de saúde.",
+                "cn": "卫生系统。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "estrutura",
+        "translation": "结构",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Disposição das partes.",
+        "examples": [
+            {
+                "pt": "Estrutura complexa.",
+                "cn": "结构复杂。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "mecanismo",
+        "translation": "机制",
+        "gender": "o",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Dispositivo prático.",
+        "examples": [
+            {
+                "pt": "Mecanismo útil.",
+                "cn": "有用的机制。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "função",
+        "translation": "功能",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Papel desempenhado.",
+        "examples": [
+            {
+                "pt": "Função essencial.",
+                "cn": "基本功能。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "correlação",
+        "translation": "相关性",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Relação mútua.",
+        "examples": [
+            {
+                "pt": "Forte correlação.",
+                "cn": "相关性强。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "causalidade",
+        "translation": "因果关系",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Relação causa-efeito.",
+        "examples": [
+            {
+                "pt": "A causalidade das coisas.",
+                "cn": "事物的因果关系。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "simulação",
+        "translation": "模拟",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Imitação de processo.",
+        "examples": [
+            {
+                "pt": "Simulação de voo.",
+                "cn": "飞行模拟。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "inteligência artificial",
+        "translation": "人工智能",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Máquinas a imitar cognição.",
+        "examples": [
+            {
+                "pt": "O uso de inteligência artificial.",
+                "cn": "人工智能的使用。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "robótica",
+        "translation": "机器人学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ramo sobre robôs.",
+        "examples": [
+            {
+                "pt": "O estudo de robótica no mundo inteiro pela universidade das.",
+                "cn": "大学对全球机器人技术的研究。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "nanotecnologia",
+        "translation": "纳米技术",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ciência à base de nano.",
+        "examples": [
+            {
+                "pt": "Uso incrível em nanotecnologia de da.",
+                "cn": "da 在纳米技术中的令人难以置信的应用。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "biotecnologia",
+        "translation": "生物技术",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Biologia e tecnologia.",
+        "examples": [
+            {
+                "pt": "Avanço da biotecnologia é uma do no de ao por em num dum os de do com na das aos aos para nas de perante aos e nas das às por no na",
+                "cn": "生物技术的进步是最重要的因素之一"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "neurociência",
+        "translation": "神经科学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estuda os nervos.",
+        "examples": [
+            {
+                "pt": "O médico quer neurociência o quanto antes disso para isso e a tal das por dum com dos do nos pelo em",
+                "cn": "医生希望尽快对头发的神经科学进行研究"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "astrofísica",
+        "translation": "天体物理学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Física em astros celestes e a o.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "botânica",
+        "translation": "植物学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Ciência e ramos biológicos de uma.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "zoologia",
+        "translation": "动物学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Estudo dos e o perigo dum sobre nas ou o que a no por dum em.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "anatomia",
+        "translation": "解剖学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "As pernas num do do por a que no no do com que e e de num o a num nela",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ecologia",
+        "translation": "生态学",
+        "gender": "a",
+        "cefr_level": "C1",
+        "category": "ciência",
+        "priberam_definition": "Termo técnico e científico da língua portuguesa usado frequentemente na investigação e tecnologia avançada.",
+        "examples": [],
+        "synonyms": [],
+        "antonyms": []
+    }
+]

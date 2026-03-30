@@ -1,0 +1,195 @@
+import json
+
+data = [
+    {
+        "id": "c2_l_p1_t1",
+        "type": "leitura_longa",
+        "title": "PARTE 1 // Texto 1 (Questões 1-5)",
+        "instruction": "Leia o texto e escolha uma das opções (A, B, C ou D) para as questões 1-5.",
+        "text": "É um casal de relógios de parede. Dos que sempre foram feios. Pela manhã, haja o que houver, à mesma hora, passa ele por esta rua para o escritório. Vai almoçar ao meio-dia. Volta à uma. E às seis em ponto sai outra vez.\nNem vale a pena dizer-lhe o nome. É só mais um dos milhões iguais que há por este mundo, que o quotidiano determina, como o sol dos girassóis. Não sei, é certo, o que se passa lá por casa dentro, onde às vezes os hábitos e a monotonia doem muito. É possível que tenha um sonho, que tenha um drama, que tenha consciência desta agonia universal de que ele próprio, queira ou não queira, compartilha. Mas é possível também que não saiba nada disto, que não sinta nada disto, que a sua vida interior seja um ir às nove para o escritório e um sair às seis do escritório.\nHá tempos apareceu casado. Mas viu-se logo que o casamento lhe acontecera, como lhe acontece às vezes apanhar uma carga de água a caminho do emprego. A mulher é uma pessoa baixa, pálida, com sobrancelhas muito carregadas. Uma pura máquina de cozinha que acende o lume às dez, lava a loiça à uma e um quarto, limpa o fogão depois, esfrega a seguir, e acende novamente o lume às cinco e meia. Não namoraram. Ele lembrou-se dela no intervalo do escritório, ela já sabia que com alguém havia de ser, e um dia, sem saberem como, aí estavam de casa e pucarinho, a comer o almoço. Uma vizinha, a princípio, ainda tentou meter um bocadinho de graça naquilo. Mas terra assim não dá mais. O escritório às nove, o lume aceso às dez, e, fora disto, um vazio que seca tudo. Nem sequer uma cria!\n– Filhos, para quê?!\nDizem isto, e nenhum deles estremece. Tudo quanto a vida consegue exprimir ali, em beleza, graça e perfume, que se veja, está resumido num cravo enigmático e viçoso que usa perpetuamente na lapela do casaco.",
+        "questions": [
+            { "id": "c2_q1", "question": "1. O escritor apresenta o seu ponto de vista em relação", "options": ["A. aos relógios de parede do escritório.", "B. a um casal que cumpre, pontualmente, a mesma rotina.", "C. a dois objetos que considera feios.", "D. às pessoas que habitualmente passam na sua rua."], "answer": 1 },
+            { "id": "c2_q2", "question": "2. Que ponto de vista é que o escritor tenta apresentar, no segundo parágrafo?", "options": ["A. Não se justifica referir o nome da pessoa de quem fala, por ser representativa de seres que vivem como autómatos.", "B. Não identifica a pessoa de quem fala, porque nada há para dizer acerca dela.", "C. Não é necessário identificar a pessoa de quem fala, pois apenas está a apresentar hipóteses.", "D. Não diz o nome da pessoa de quem fala, pois apenas a conhece de a ver passar."], "answer": 0 },
+            { "id": "c2_q3", "question": "3. O que é que o autor quer dizer acerca do facto de a pessoa sobre quem escreve se ter casado?", "options": ["A. O casamento deixou-o feliz.", "B. O casamento acabou por entristecê-lo.", "C. O casamento não alterou nada.", "D. O casamento trouxe-lhe, por momentos, alguma felicidade."], "answer": 2 },
+            { "id": "c2_q4", "question": "4. A que é que o autor pretende dar destaque, na descrição da mulher e da vida do casal?", "options": ["A. Ao facto de ambos se terem casado sem amor, apenas por conveniência.", "B. Ao facto de um e outro terem em comum o tipo de vida.", "C. Ao facto de ambos se terem enamorado de tal modo.", "D. Ao facto de ambos parecerem subjugar os sentimentos ao cumprimento rígido de horários."], "answer": 0 },
+            { "id": "c2_q5", "question": "5. “O escritório às nove, o lume aceso às dez... significam que:", "options": ["A. o dia a dia do casal começa às 9h.", "B. a vida do casal é confortável.", "C. a rotina diária do casal é desinteressante.", "D. A relação do casal é preenchida."], "answer": 2 }
+        ]
+    },
+    {
+        "id": "c2_l_p1_t2",
+        "type": "leitura_longa",
+        "title": "PARTE 1 // Texto 2 (Questões 6-10)",
+        "instruction": "Leia o texto e escolha uma das opções (A, B, C ou D) para as questões 6-10.",
+        "text": "1 Ele levanta-se da cama tarde. Diz que tem insónia e não consegue adormecer antes do amanhecer, quando fecha as janelas à primeira luz do sol... Uns dizem que é preguiça... Desde que está desempregado, pratica uma gestão rigorosa do tempo livre, porque o tempo livre é demasiado e não sabe como ocupá-lo.\n\nExiste o problema dos comprimidos que lhe tiram o sono, os antidepressivos que lhe fazem companhia desde que está desempregado... No princípio do desemprego revoltava-se... bebia bicas em pastelarias... Alguém viria a precisar dele.\n\nForam aparecendo uns biscates que o desencravavam... Com a crise não há biscates, nem hipóteses, nem projetos. Na verdade, sabe que ninguém contrata um homem da idade dele. Mais de 50 anos, no mercado de trabalho, é o equivalente à morte.\n\nE agora, pacificado, resignado, deixa-se ficar a olhar para as paredes... Ninguém acredita que vá arranjar qualquer coisa e ele também deixou de acreditar. O desemprego colou-se à pele. Lembro-me de o ver trabalhar, muito. Como tantos outros, desistiu.",
+        "questions": [
+            { "id": "c2_q6", "question": "6. O facto de ele se levantar tarde deve-se", "options": ["A. às insónias que tem agora.", "B. ao seu caráter preguiçoso.", "C. à falta de razões para se levantar cedo.", "D. à vontade de gerir bem o seu tempo livre."], "answer": 2 },
+            { "id": "c2_q7", "question": "7. Tendo em conta a sua atual situação, a única coisa que ainda consegue fazer é", "options": ["A. ir deixando de tomar os comprimidos.", "B. revoltar-se contra aquilo por que está a passar.", "C. fazer tudo o que está ao seu alcance para a inverter.", "D. manter alguma lucidez sobre aquilo em que se tornou a sua vida."], "answer": 3 },
+            { "id": "c2_q8", "question": "8. «Pisando a manhã» significa", "options": ["A. ocupar ativamente a manhã.", "B. arrastar-se com sono ao longo da manhã.", "C. viver monotonamente a rotina das manhãs.", "D. já estar acordado no momento em que amanhece."], "answer": 0 },
+            { "id": "c2_q9", "question": "9. \"... fazia telefonemas a torto e a direito\" significa", "options": ["A. passava todo o tempo ao telefone.", "B. telefonava a muitas pessoas.", "C. telefonava a algumas pessoas, sem saber para quê.", "D. umas vezes era correto ao telefone, outras vezes não."], "answer": 1 },
+            { "id": "c2_q10", "question": "10. No final do texto, percebe-se que", "options": ["A. parece ter-se ajustado à sua condição de desempregado.", "B. até encontra aspetos positivos na situação.", "C. se resignou e revela transigência em relação às manhãs e ao desemprego.", "D. mostra inflexibilidade relativamente à adaptação à condição."], "answer": 0 }
+        ]
+    },
+    {
+        "id": "c2_l_p1_t3",
+        "type": "leitura_longa",
+        "title": "PARTE 1 // Texto 3 (Questões 11-15)",
+        "instruction": "Leia o texto e escolha uma das opções (A, B, C ou D) para as questões 11-15.",
+        "text": "1 Ei-lo que entra de rompante! Com o seu ar de posso, quero e mando.\nMas nem sempre foi assim. Quando o Pedro ainda estava casado com a Inês, vivia mais pacatamente a sua arrogância. Nem se percebia que ali havia matéria suficiente para se criar alergias... Contudo, um belo dia, como pode sempre acontecer, ela decidiu fugir com outro e levar os miúdos. Ela parte com o melhor amigo dele, leva os filhos e promete que lhos trará sempre que puder. Nunca mais os viu e já passaram quase doze meses.\nPelo seu lado, ele optou por vida nova. Não queria casar, mas queria casa nova.\nPassados uns meses, confirmando que depois da tempestade vem a bonança, sai-lhe a sorte grande. Uns milhões! A partir daí, foi um pulo para o homem que é hoje. Tornou-se muito arrogante, quase insuportável... Se não fossem os milhões, não teria nada. Quando me cumprimentou, perguntei-lhe pelos miúdos. Sem pestanejar, acusou-me de ter sido conivente quando tudo aconteceu. Limitei-me a olhar para ele. Pensa que pode tudo só porque tem dinheiro. Talvez ainda o tiro lhe saia pela culatra. Se tivesse respeitado mais a mulher e se tivesse gasto o tempo livre com os filhos... Achei melhor não dizer nada. Afinal, águas passadas não movem moinhos.",
+        "questions": [
+            { "id": "c2_q11", "question": "11. A entrada do Pedro foi notada por", "options": ["A. ele não estar completamente nele.", "B. ter exagerado na indumentária.", "C. não se ter contido no seu ar de posso, quero e mando.", "D. ter sido comedido na forma como entrou."], "answer": 2 },
+            { "id": "c2_q12", "question": "12. lhe em “decide fazer-lhe a vontade” refere-se", "options": ["A. à Inês.", "B. aos filhos.", "C. ao Pedro.", "D. à autora."], "answer": 0 },
+            { "id": "c2_q13", "question": "13. Algum tempo após o divórcio, na primeira troca de palavras", "options": ["A. aconteceu novo episódio de infortúnio.", "B. a vida dele deixou de ser um mar de rosas.", "C. a vida dele deu uma reviravolta.", "D. aconteceu-lhe o que ele já aguardava há muito tempo."], "answer": 2 },
+            { "id": "c2_q14", "question": "14. Na primeira troca de palavras entre a autora e o Pedro,", "options": ["A. ele agrediu-a com as histórias do passado.", "B. trocaram olhares cúmplices.", "C. ela acusou-o de ele não ter sabido resolver as coisas.", "D. voltaram a dar-se como antes."], "answer": 0 },
+            { "id": "c2_q15", "question": "15. «Talvez ainda o tiro lhe saia pela culatra» quer dizer", "options": ["A. pode acontecer o contrário do que ele pensa.", "B. pode acontecer o que aconteceu antes.", "C. as coisas são como se imaginam.", "D. as surpresas nem sempre vêm de onde se espera."], "answer": 0 }
+        ]
+    },
+    {
+        "id": "c2_l_p2",
+        "type": "cloze_banco",
+        "title": "PARTE 2 // Questões 16-20",
+        "instruction": "Reconstrua o texto colocando os parágrafos adequados (A-F) nos espaços correspondentes.",
+        "text": "Tentarei explicar, em breves palavras, as coisas que aprendi com José Saramago, com quem privei somente numa ocasião, mas cuja obra, que li de forma anacrónica, intensamente admiro.\n\n[16]\n\nEu acrescentaria que são, e também, essencialmente solitárias, embora essa solidão seja magnificamente preenchida com os «inúmeros» que vivem em nós e de que falava Fernando Pessoa. Vejamos: Ricardo Reis, essencialmente só, embora heterónimo; Tertuliano Máximo Afonso, essencialmente só, embora duplicado...\n\n[17]\n\nCom os livros de Saramago aprendi também que a literatura não tem geografia.\n\n[18]\n\nQue país habitam os cegos de Ensaio sobre a Cegueira? Que cidade é aquela em que o Sr. José se perde nas cavernas labirínticas... Saramago criou um país chamado literatura e, pela primeira vez, mostrou-nos que não temos de estar em parte alguma para podermos dizer todas as coisas.\n\n[19]\n\nA sua voz, muito brevemente anunciada em Manual de Pintura e Caligrafia, surge, como num passe de mágica, em Memorial do Convento e jamais o (nos) abandona. É essa a sua maior virtude, é por causa dessa voz – uma das mais fortes de toda a literatura desde que há memória... um livro de Saramago é imediatamente discernível do de qualquer outro autor.\n\n[20]\n\nEu concordo.",
+        "optionsBank": [
+            { "letter": "A", "text": "Se é verdade que tem língua (porque o autor escreveu em português) e que essa língua, transformada em linguagem, mudou a nossa perceção do romance..." },
+            { "letter": "B", "text": "Mas na verdade, aprendi também com José Saramago a apresentar uma visão crítica da História, tal como a que é observada neste romance..." },
+            { "letter": "C", "text": "Por último, com Saramago aprendi a dizer «não»: aprendi o valor da oposição que tanto tardou a chegar e a fazer tremer o cânone do romance português. «Não», dizia o Nobel, era a palavra mais importante que se podia dizer." },
+            { "letter": "D", "text": "A primeira coisa que o escritor me ensinou foi que a solidão é a mais bela matéria narrativa que existe. O diretor da revista Ler escrevia, no seu blogue, que as personagens de Saramago são humildes, anónimas e colhidas da multidão." },
+            { "letter": "E", "text": "Aprendi, ainda, que a voz é o bem mais precioso do escritor. Saramago não apenas criou um mapa ficcional único como o narrou de uma maneira absolutamente inovadora e inimitável." },
+            { "letter": "F", "text": "Com a solidão das personagens de Saramago aprendi a aceitar a solidão universal do Homem, afinal a razão pela qual escrevemos..." }
+        ],
+        "questions": [
+            { "id": "c2_q16", "question": "16.", "answer": 3 },
+            { "id": "c2_q17", "question": "17.", "answer": 1 },
+            { "id": "c2_q18", "question": "18.", "answer": 0 },
+            { "id": "c2_q19", "question": "19.", "answer": 4 },
+            { "id": "c2_q20", "question": "20.", "answer": 2 }
+        ]
+    },
+    {
+        "id": "c2_l_p3",
+        "type": "cloze_inline_mcq",
+        "title": "PARTE 3 // Questões 21-35",
+        "instruction": "Complete o texto com as palavras em falta nos espaços 21-35. Marque a letra correspondente à palavra escolhida (A, B, C ou D).",
+        "text": "O bacalhau, que é o peixe predileto dos portugueses, [21] as águas do Atlântico, perto do círculo polar ártico, circulando em [22] que se deslocam entre a região da Terra Nova, no Canadá, e a costa da Noruega.\nA [23] de Portugal ao consumo de bacalhau é um fenómeno secular que [24] à chegada dos portugueses à Terra Nova, no século XVI. Desde essa altura, o Gadus Morhua, [25] científica para o bacalhau do Atlântico, foi-se introduzindo nos hábitos alimentares dos portugueses, sendo hoje uma marca [26] da cultura e identidade nacionais.\nA posição geográfica de Portugal, com uma [27] marítima de 1853 km, desde cedo se mostrou um fator vantajoso para a atividade [28]. A popularidade deste alimento... em 2007, da marca conhecida como 'Bacalhau Português de [29] Tradicional'. A comercialização dessa marca [30] a critérios rigorosos de qualidade... processo de [31] próprio e específico. Sendo um peixe com baixo [32] de gordura, pode ser conservado com sal e seco ao sol.\nCom [33] nos processos tradicionais, o peixe fica com a textura caraterística do bacalhau salgado seco, com sabor intenso que [34] na boca e com um aroma pronunciado. As bandas musculares, vulgarmente denominadas [35], separam-se com relativa facilidade, mantendo-se íntegras e firmes.",
+        "questions": [
+            { "id": "c2_q21", "question": "21", "options": ["vive", "reside", "habita", "ocupa"], "answer": 2 },
+            { "id": "c2_q22", "question": "22", "options": ["manadas", "matilhas", "cardumes", "bandos"], "answer": 2 },
+            { "id": "c2_q23", "question": "23", "options": ["ligação", "atitude", "dependência", "correspondência"], "answer": 0 },
+            { "id": "c2_q24", "question": "24", "options": ["prossegue", "remonta", "alarga", "aumenta"], "answer": 1 },
+            { "id": "c2_q25", "question": "25", "options": ["distinção", "nomeação", "designação", "denominação"], "answer": 2 },
+            { "id": "c2_q26", "question": "26", "options": ["indelével", "durativa", "firme", "assente"], "answer": 0 },
+            { "id": "c2_q27", "question": "27", "options": ["margem", "fachada", "frente", "face"], "answer": 2 },
+            { "id": "c2_q28", "question": "28", "options": ["bacalhoada", "bacalhau", "bacalhoa", "bacalhoeira"], "answer": 3 },
+            { "id": "c2_q29", "question": "29", "options": ["Cobro", "Trato", "Cura", "Tratamento"], "answer": 2 },
+            { "id": "c2_q30", "question": "30", "options": ["obedece", "cumpre", "observa", "executa"], "answer": 0 },
+            { "id": "c2_q31", "question": "31", "options": ["maturidade", "sazonação", "maturação", "sazonamento"], "answer": 2 },
+            { "id": "c2_q32", "question": "32", "options": ["conteúdo", "teor", "quantia", "quantidade"], "answer": 1 },
+            { "id": "c2_q33", "question": "33", "options": ["apoio", "alicerce", "base", "suporte"], "answer": 2 },
+            { "id": "c2_q34", "question": "34", "options": ["assola", "perdura", "invade", "infesta"], "answer": 1 },
+            { "id": "c2_q35", "question": "35", "options": ["lascas", "chapas", "tiras", "rachas"], "answer": 0 }
+        ]
+    },
+    {
+        "id": "c2_l_p4",
+        "type": "cloze_inline_open",
+        "title": "PARTE 4 // Questões 36-55 (Identificação de Erros)",
+        "instruction": "Algumas linhas deste texto contêm UMA PALAVRA A MAIS. Escreva essa palavra na caixa ao fim da linha. Se a linha estiver 100% correta, escreva a palavra «correta» na caixa.",
+        "text": "Os excessos e a megalomania dos edifícios do Dubai marcaram a nossa perceção da [36]\narquitetura do Médio Oriente de tal forma que é difícil acreditar que, quanto antes [37]\ndesse imenso parque temático, que é o Dubai, tenha sido havido nesta região do [38]\nmundo uma produção arquitetónica criticamente empenhada e consistente. [39]\nRecentemente, fui passeando nas ruas de Riad, deparei-me com um notável quarteirão [40]\nurbano da autoria de Kenzo Tange. É sobre um conjunto de edifícios do final dos anos [41]\n60, foram ligados por pontes e terraços em betão e fiéis ao espírito do tempo. Aqui, [42]\nTange, a trabalhar sem os constrangimentos sísmicos do seu Japão nativo, pode se [43]\nlibertar plenamente todo o ímpeto estrutural que lhe é tão característico. [44]\nUm desses dois edifícios desenvolve-se a partir de um longo átrio. Impressionou-me [45]\npouco o investimento no desenho, o cuidado e sensibilidade que o mestre japonês [46]\ndedicou a este projeto. Imagino de que Riad, nessa altura, fosse pouco mais do que [47]\numa planície desértica e escaldante. Imagino o fosso cultural entre um arquiteto vindo [48]\nde uma das sociedades mais sofisticadas do mundo e a um cliente representante de [49]\numa era pré-industrial. E, no entanto, por mais o contraditório que este contexto possa [50]\nparecer, o facto é que não permitiu uma obra de excecional qualidade. [51]\nO mesmo já não será válido para a torre de Norman Foster, localizada na mesma zona. [52]\nTrata-se de uma pirâmide sublime de mau gosto, revestida a painéis de alumínio e [53]\ncoroada por uma esfera. Esta última, ao que consta, era resultante de um assertivo [54]\npedido do cliente, contém o inevitável restaurante panorâmico. [55]",
+        "questions": [
+            { "id": "c2_q36", "question": "36", "answer": "correta" },
+            { "id": "c2_q37", "question": "37", "answer": "quanto" },
+            { "id": "c2_q38", "question": "38", "answer": "sido" },
+            { "id": "c2_q39", "question": "39", "answer": "correta" },
+            { "id": "c2_q40", "question": "40", "answer": "fui" },
+            { "id": "c2_q41", "question": "41", "answer": "sobre" },
+            { "id": "c2_q42", "question": "42", "answer": "foram" },
+            { "id": "c2_q43", "question": "43", "answer": "se" },
+            { "id": "c2_q44", "question": "44", "answer": "correta" },
+            { "id": "c2_q45", "question": "45", "answer": "dois" },
+            { "id": "c2_q46", "question": "46", "answer": "pouco" },
+            { "id": "c2_q47", "question": "47", "answer": "de" },
+            { "id": "c2_q48", "question": "48", "answer": "correta" },
+            { "id": "c2_q49", "question": "49", "answer": "a" },
+            { "id": "c2_q50", "question": "50", "answer": "o" },
+            { "id": "c2_q51", "question": "51", "answer": "não" },
+            { "id": "c2_q52", "question": "52", "answer": "correta" },
+            { "id": "c2_q53", "question": "53", "answer": "sublime" },
+            { "id": "c2_q54", "question": "54", "answer": "era" },
+            { "id": "c2_q55", "question": "55", "answer": "correta" }
+        ]
+    },
+    {
+        "id": "c2_l_p5",
+        "type": "cloze_inline_open",
+        "title": "PARTE 5 // Questões 56-70",
+        "instruction": "Complete o texto com as palavras que faltam nos espaços 56-70. A cada espaço corresponde apenas uma palavra.",
+        "text": "Ex.ma. Senhora Presidente da Câmara Municipal\n\nA Assembleia pelo Direito à Habitação, constituída por várias organizações e pessoas [56] em defender este direito na nossa sociedade, [57], por este meio, solicitar à Presidente da Câmara Municipal uma reunião com a máxima urgência, com [58] a debater os problemas existentes na nossa autarquia, em [59], as questões da habitação, sobretudo as iminentes demolições em vários bairros, entre os [60] o de Santa Clara.\nA Assembleia da Habitação está a [61] do que está a acontecer no nosso município e sabe que a política de erradicação de casas autoconstruídas... viola os direitos fundamentais do [62] humano. A salvaguarda desses direitos deve ser a [63] de qualquer político e de qualquer governante.\n\nNão há legitimidade para avançar com as demolições, se não [64] programas de desenvolvimento de políticas de habitação. Sabemos que não poderá ser a autarquia a [65] todos os problemas de habitação do município, mas isso não legitima a destruição do [66] teto que os habitantes das casas autoconstruídas têm. O que defendemos, e [67] dispostos a apoiar a autarquia nisso, é [68] haja uma associação entre a autarquia e os movimentos sociais que ajude a criar um programa de desenvolvimento... Certos de que prevalecerá o bom senso e o cumprimento das leis superiores da República, [69] pelo agendamento da reunião de modo a que, juntos, possamos encontrar soluções. Caso [70], seremos obrigados a denunciar este novo atropelo da autarquia.\n\nCom os melhores cumprimentos,\nA Assembleia pelo Direito à Habitação",
+        "questions": [
+            { "id": "c2_q56", "question": "56", "answer": "interessadas" },
+            { "id": "c2_q57", "question": "57", "answer": "vem" },
+            { "id": "c2_q58", "question": "58", "answer": "vista" },
+            { "id": "c2_q59", "question": "59", "answer": "particular/concreto" },
+            { "id": "c2_q60", "question": "60", "answer": "quais" },
+            { "id": "c2_q61", "question": "61", "answer": "par" },
+            { "id": "c2_q62", "question": "62", "answer": "ser" },
+            { "id": "c2_q63", "question": "63", "answer": "bandeira" },
+            { "id": "c2_q64", "question": "64", "answer": "houver" },
+            { "id": "c2_q65", "question": "65", "answer": "resolver" },
+            { "id": "c2_q66", "question": "66", "answer": "único" },
+            { "id": "c2_q67", "question": "67", "answer": "estamos" },
+            { "id": "c2_q68", "question": "68", "answer": "que" },
+            { "id": "c2_q69", "question": "69", "answer": "aguardamos" },
+            { "id": "c2_q70", "question": "70", "answer": "contrário" }
+        ]
+    },
+    {
+        "id": "c2_co_p1",
+        "type": "audio",
+        "title": "Compreensão do Oral // 25 Questões",
+        "instruction": "Vai ouvir cada texto duas vezes.",
+        "audio_url": "/simulado/C2/CAPLE_C2_Audio.mp3",
+        "questions": [
+            { "id": "c2_co_q1", "textGroup": "Texto 1", "question": "1. Esta crónica relata", "options": ["A. inúmeros e variados casos de má assistência", "B. um episódio de verdadeira ineficácia", "C. um dos inusitados casos de má assistência"], "answer": 1 },
+            { "id": "c2_co_q2", "textGroup": "Texto 1", "question": "2. Confrontado com a avaria do computador, o consumidor", "options": ["A. viu-se obrigado, apesar da impaciência, a lidar com a situação.", "B. manteve a cabeça fria e fez um telefonema.", "C. acatou serenamente a situação e lidou com ela."], "answer": 0 },
+            { "id": "c2_co_q3", "textGroup": "Texto 1", "question": "3. O local onde o consumidor levou o computador", "options": ["A. situa-se numa zona de ruas emaranhadas.", "B. fica numa zona acessível.", "C. fica numa zona de ruas estreitas."], "answer": 2 },
+            { "id": "c2_co_q4", "textGroup": "Texto 1", "question": "4. No local onde julgava que ia deixar o computador, foi atendido", "options": ["A. com eficácia e diligência.", "B. de forma pouco zelosa.", "C. com prontidão."], "answer": 1 },
+            { "id": "c2_co_q5", "textGroup": "Texto 1", "question": "5. Quando finalmente chega à oficina de reparação, o cronista", "options": ["A. repara que tem dificuldade em aceder através da entrada estreita.", "B. é ajudado por funcionária.", "C. livra-se do computador e protesta."], "answer": 0 },
+            { "id": "c2_co_q6", "textGroup": "Texto 1", "question": "6. A atitude da funcionária é", "options": ["A. reveladora do profissionalismo.", "B. demonstrativa da desconsideração.", "C. exemplificativa do comportamento esperado."], "answer": 1 },
+            
+            { "id": "c2_co_q7", "textGroup": "Texto 2", "question": "7. A viagem de mota a Marrocos pode ser considerada um sucesso porque", "options": ["A. encontrou em todos os lugares a diversidade.", "B. conseguiu encontrar aqui e ali vestígios da variedade.", "C. conviveu com a desigualdade ao longo da semana."], "answer": 0 },
+            { "id": "c2_co_q8", "textGroup": "Texto 2", "question": "8. O cronista afirma que", "options": ["A. Marrocos serviu para cumprir todos os objetivos.", "B. os autores do livro precisavam contactar ambientes com portugueses.", "C. encontrou exotismo que procurava."], "answer": 2 },
+            { "id": "c2_co_q9", "textGroup": "Texto 2", "question": "9. O percurso traçado para a viagem previa percorrer", "options": ["A. entre 200 a 370 quilómetros, distâncias diárias.", "B. 350 quilómetros, em média, por dia.", "C. distâncias semelhantes às percorridas por outros."], "answer": 1 },
+            
+            { "id": "c2_co_q10", "textGroup": "Texto 3", "question": "10. A razão para não gostar de dar os parabéns à meia-noite:", "options": ["A. dia seguinte fica disponível para celebrações.", "B. resta tempo para abraços.", "C. pouco resta para o dia seguinte, restando repetições."], "answer": 2 },
+            { "id": "c2_co_q11", "textGroup": "Texto 3", "question": "11. Habituado a este ritual, o cronista", "options": ["A. recebeu os parabéns da irmã...", "B. não foi ver o mural.", "C. recebeu dos amigos e irmã."], "answer": 0 },
+            { "id": "c2_co_q12", "textGroup": "Texto 3", "question": "12. De acordo com um amigo, para dar os parabéns", "options": ["A. há um elemento comum: beijinho de viva voz.", "B. o facebook sai a perder.", "C. a 2.ª e 3.ª posições são semelhantes."], "answer": 1 },
+            
+            { "id": "c2_co_q13", "textGroup": "Texto 4", "question": "13. O livro sobre hábitos alimentares dos reis...", "options": ["A. é compilação de receitas.", "B. é estudo médico.", "C. resulta de investigação documental."], "answer": 2 },
+            
+            { "id": "c2_co_q14", "textGroup": "Texto 5", "question": "14. De acordo com a apresentação,", "options": ["A. leitores vão correr para os cinemas.", "B. há algo ainda mais extraordinário por o livro ser mais do que apenas livro.", "C. leitores recebem ferramentas virtuais no livro."], "answer": 1 },
+            { "id": "c2_co_q15", "textGroup": "Texto 5", "question": "15. O Livro dos Feitiços", "options": ["A. vem acompanhado de um CD e de uma câmara.", "B. é um áudio-livro.", "C. vem equipado com disco de instalação."], "answer": 2 },
+            
+            { "id": "c2_co_q16", "textGroup": "Texto 6", "question": "16. A interveniente", "options": ["A. insurge-se contra o facto de alguém afirmar que não apoia.", "B. sente-se desgostosa.", "C. afirma o apoio."], "answer": 0 },
+            { "id": "c2_co_q17", "textGroup": "Texto 6", "question": "17. Relativamente ao subsídio", "options": ["A. empenhamento aquém do esperado.", "B. foi graças à dedicação que poderão pensar noutros.", "C. esforço não chegou para voarem."], "answer": 1 },
+            
+            { "id": "c2_co_q18", "textGroup": "Texto 7", "question": "18. A interlocutora", "options": ["A. admite responsabilidades.", "B. reconhece insensatez.", "C. atingiu patamar que não é afetada."], "answer": 0 },
+            
+            { "id": "c2_co_q19", "textGroup": "Texto 8", "question": "19. No comentário, reconhece-se que", "options": ["A. foi claro insucesso.", "B. o projeto acabou por se realizar.", "C. projeto podia ter chegado a bom porto."], "answer": 1 },
+            { "id": "c2_co_q20", "textGroup": "Texto 8", "question": "20. Após uma fase menos positiva,", "options": ["A. receia-se que o projeto ainda possa fracassar.", "B. condenado ao fracasso.", "C. tudo parece correr agora sobre rodas."], "answer": 2 },
+            
+            { "id": "c2_co_q21", "textGroup": "Texto 9", "question": "21. A interlocutora", "options": ["A. regozija-se com o que aconteceu.", "B. manifesta solidariedade.", "C. receia o que aconteceu a alguém."], "answer": 0 },
+            { "id": "c2_co_q22", "textGroup": "Texto 9", "question": "22. No comentário, a interlocutora", "options": ["A. não tem ressentimentos.", "B. lamenta sentir rancor.", "C. demonstra pena."], "answer": 1 },
+            
+            { "id": "c2_co_q23", "textGroup": "Texto 10", "question": "23. A interlocutora informa", "options": ["A. se tivesse acontecido, levaria a tribunal.", "B. tribunal lhe daria razão.", "C. já passou por situação semelhante."], "answer": 0 },
+            
+            { "id": "c2_co_q24", "textGroup": "Texto 11", "question": "24. A interlocutora esclarece que", "options": ["A. o processo foi arquivado sem oposição.", "B. decisão tomada sem oposição.", "C. não haveria oposição a arquivamento."], "answer": 2 },
+            
+            { "id": "c2_co_q25", "textGroup": "Texto 12", "question": "25. A interlocutora", "options": ["A. a pessoa não tem atitudes de superioridade.", "B. é colaborando que se vai alto.", "C. mostra atitude crítica e condescendente."], "answer": 1 }
+        ]
+    }
+]
+
+with open("src/data/simulado_c2.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=4)
+
+print("C2 JSON data successfully generated!")

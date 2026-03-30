@@ -1,0 +1,1602 @@
+[
+    {
+        "word": "escola",
+        "translation": "学校",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Local de ensino.",
+        "examples": [
+            {
+                "pt": "A caminho da escola.",
+                "cn": "去学校的路上。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "colégio",
+        "translation": "中学",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Instituto de ensino.",
+        "examples": [
+            {
+                "pt": "Estudar num colégio.",
+                "cn": "在大学学习。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "universidade",
+        "translation": "大学",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Instituição de ensino superior.",
+        "examples": [
+            {
+                "pt": "Entrar na universidade.",
+                "cn": "进入大学。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "faculdade",
+        "translation": "学院",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Divisão de uma universidade.",
+        "examples": [
+            {
+                "pt": "Faculdade de Letras.",
+                "cn": "艺术学院。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "instituto",
+        "translation": "学院/研究所",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Estabelecimento de instrução.",
+        "examples": [
+            {
+                "pt": "Instituto Politécnico.",
+                "cn": "理工学院。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "estudante",
+        "translation": "学生",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Quem estuda.",
+        "examples": [
+            {
+                "pt": "Bons estudantes.",
+                "cn": "好学生。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "aluno",
+        "translation": "学生",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Que recebe ensino.",
+        "examples": [
+            {
+                "pt": "O aluno novo.",
+                "cn": "新来的学生。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "professor",
+        "translation": "老师/教授",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Quem ensina.",
+        "examples": [
+            {
+                "pt": "O professor ensinou.",
+                "cn": "老师教的。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "mestre",
+        "translation": "大师/老师",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Professor eminente.",
+        "examples": [
+            {
+                "pt": "Trabalho de mestre.",
+                "cn": "大师的作品。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "docente",
+        "translation": "大学教师",
+        "gender": "o/a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Pessoa que ensina no ensino superior.",
+        "examples": [
+            {
+                "pt": "Corpo docente.",
+                "cn": "学院。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "diretor",
+        "translation": "校长/主任",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Quem dirige a escola.",
+        "examples": [
+            {
+                "pt": "O diretor da escola.",
+                "cn": "学校校长。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "turma",
+        "translation": "班级",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Grupo de alunos.",
+        "examples": [
+            {
+                "pt": "A minha turma é boa.",
+                "cn": "我的课很好。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "classe",
+        "translation": "年级/班",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Grupo com grau comum.",
+        "examples": [
+            {
+                "pt": "Primeira classe.",
+                "cn": "头等舱。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "aula",
+        "translation": "课",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Sessão de ensino.",
+        "examples": [
+            {
+                "pt": "Aula de Matemática.",
+                "cn": "数学课。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "curso",
+        "translation": "课程",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Programa de estudos.",
+        "examples": [
+            {
+                "pt": "Curso intensivo.",
+                "cn": "强化课程。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "disciplina",
+        "translation": "学科",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Matéria de ensino.",
+        "examples": [
+            {
+                "pt": "A aula prátiva dessa disciplina.",
+                "cn": "本学科实践课。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "matéria",
+        "translation": "内容/课程",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Assunto lecionado.",
+        "examples": [
+            {
+                "pt": "Estudar toda a matéria.",
+                "cn": "研究所有材料。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "horário",
+        "translation": "时间表",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Mapa das aulas.",
+        "examples": [
+            {
+                "pt": "Ver no horário.",
+                "cn": "参见时间表。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "intervalo",
+        "translation": "课间休息",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Pausa entre aulas.",
+        "examples": [
+            {
+                "pt": "Brincar no intervalo.",
+                "cn": "课间休息时玩。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "recreio",
+        "translation": "课间操场",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Pátio ou tempo livre escolar.",
+        "examples": [
+            {
+                "pt": "Tempo de recreio.",
+                "cn": "休闲时间。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "biblioteca",
+        "translation": "图书馆",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Lugar de conservação de livros.",
+        "examples": [
+            {
+                "pt": "Ler na biblioteca.",
+                "cn": "在图书馆读书。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "cantina",
+        "translation": "食堂",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Local para refeições escolares.",
+        "examples": [
+            {
+                "pt": "Almoçar na cantina.",
+                "cn": "午餐在食堂吃。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "laboratório",
+        "translation": "实验室",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Local equipado para pesquisa.",
+        "examples": [
+            {
+                "pt": "Teste de laboratório.",
+                "cn": "实验室测试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ginásio",
+        "translation": "体育馆",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Edifício para ginástica.",
+        "examples": [
+            {
+                "pt": "Aula no ginásio.",
+                "cn": "在体育馆上课。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "secretaria",
+        "translation": "秘书处/行政处",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Repartição administrativa.",
+        "examples": [
+            {
+                "pt": "Ir à secretaria.",
+                "cn": "去秘书处吧。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "caderno",
+        "translation": "笔记本",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Livro para notas.",
+        "examples": [
+            {
+                "pt": "Abrir o caderno.",
+                "cn": "打开笔记本。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "livro",
+        "translation": "书",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Conjunto de folhas imprensas.",
+        "examples": [
+            {
+                "pt": "Ler o livro.",
+                "cn": "读这本书。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "manual",
+        "translation": "课本",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Livro escolar.",
+        "examples": [
+            {
+                "pt": "Manual de Física.",
+                "cn": "物理手册。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "dicionário",
+        "translation": "字典",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Livro que contém o vocabulário.",
+        "examples": [
+            {
+                "pt": "Consultar dicionário.",
+                "cn": "查字典。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "caneta",
+        "translation": "圆珠笔/钢笔",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Utensílio de escrita a tinta.",
+        "examples": [
+            {
+                "pt": "Caneta azul.",
+                "cn": "蓝色钢笔。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "lápis",
+        "translation": "铅笔",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Pauzinho de grafite para escrita.",
+        "examples": [
+            {
+                "pt": "Afiar o lápis.",
+                "cn": "削铅笔。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "borracha",
+        "translation": "橡皮擦",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Goma para apagar.",
+        "examples": [
+            {
+                "pt": "Emprestar a borracha.",
+                "cn": "借个橡皮。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "régua",
+        "translation": "尺子",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Instrumento para medir ou traçar.",
+        "examples": [
+            {
+                "pt": "Medir com a régua.",
+                "cn": "用尺子测量。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "mochila",
+        "translation": "双肩包",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Saco com alças usado nas costas.",
+        "examples": [
+            {
+                "pt": "Pôr livros na mochila.",
+                "cn": "把书放在背包里。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pasta",
+        "translation": "文件夹/公文包",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Invólucro para documentos.",
+        "examples": [
+            {
+                "pt": "Pasta do professor.",
+                "cn": "老师的文件夹。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "estojo",
+        "translation": "文具盒",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Caixa para objetos de escrita.",
+        "examples": [
+            {
+                "pt": "Abrir o estojo.",
+                "cn": "打开箱子。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "quadro",
+        "translation": "黑板",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Painel escolar.",
+        "examples": [
+            {
+                "pt": "Escrever no quadro.",
+                "cn": "写在黑板上。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "giz",
+        "translation": "粉笔",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Pó branco em pauzinhos.",
+        "examples": [
+            {
+                "pt": "Quadro e giz.",
+                "cn": "黑板和粉笔。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "marcador",
+        "translation": "马克笔",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Caneta grossa colorida.",
+        "examples": [
+            {
+                "pt": "Marcador amarelo.",
+                "cn": "黄色标记。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "computador",
+        "translation": "电脑",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Máquina informática.",
+        "examples": [
+            {
+                "pt": "Ligar o computador.",
+                "cn": "打开电脑。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "tablet",
+        "translation": "平板电脑",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Computador portátil tátil.",
+        "examples": [
+            {
+                "pt": "Estudar no tablet.",
+                "cn": "在平板电脑上学习。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "internet",
+        "translation": "互联网",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Rede mundial.",
+        "examples": [
+            {
+                "pt": "Pesquisar na internet.",
+                "cn": "上网搜索一下。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "pesquisa",
+        "translation": "调查/搜索",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Busca de conhecimentos.",
+        "examples": [
+            {
+                "pt": "Fazer a pesquisa.",
+                "cn": "做研究。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "trabalho",
+        "translation": "作业/工作",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Projeto longo.",
+        "examples": [
+            {
+                "pt": "Trabalho de casa.",
+                "cn": "我在家工作。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "projeto",
+        "translation": "项目",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Trabalho prático.",
+        "examples": [
+            {
+                "pt": "Projeto escolar.",
+                "cn": "学校项目。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "apresentação",
+        "translation": "展示",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Dar a conhecer algo.",
+        "examples": [
+            {
+                "pt": "Apresentação oral.",
+                "cn": "口头陈述。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "redação",
+        "translation": "作文",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Composição escrita.",
+        "examples": [
+            {
+                "pt": "Fazer uma redação.",
+                "cn": "写一篇论文。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ensaio",
+        "translation": "论文(短)",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Texto escrito analítico.",
+        "examples": [
+            {
+                "pt": "Escrever o ensaio.",
+                "cn": "写论文。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "resumo",
+        "translation": "总结",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Exposição abreviada.",
+        "examples": [
+            {
+                "pt": "Fazer um resumo.",
+                "cn": "做个总结。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "apontamento",
+        "translation": "笔记",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Nota que se tira.",
+        "examples": [
+            {
+                "pt": "Tirar um apontamento.",
+                "cn": "记下来。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "estudar",
+        "translation": "学习",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Aplicar a inteligência a.",
+        "examples": [
+            {
+                "pt": "Estudar muito.",
+                "cn": "多学习。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "aprender",
+        "translation": "学会",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Adquirir conhecimentos.",
+        "examples": [
+            {
+                "pt": "Aprender depressa.",
+                "cn": "学得快。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ensinar",
+        "translation": "教",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Transmitir instrução.",
+        "examples": [
+            {
+                "pt": "Ele ensina bem.",
+                "cn": "他教得很好。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "explicar",
+        "translation": "解释",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Tornar claro.",
+        "examples": [
+            {
+                "pt": "Explicar a lição.",
+                "cn": "解释一下教训。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "perguntar",
+        "translation": "提问",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Fazer perguntas.",
+        "examples": [
+            {
+                "pt": "Pode perguntar.",
+                "cn": "你可以问。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "responder",
+        "translation": "回答",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Dar volta a pergunta.",
+        "examples": [
+            {
+                "pt": "Ele vai responder.",
+                "cn": "他会回应的。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "compreender",
+        "translation": "理解",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Alcançar algo com a razão.",
+        "examples": [
+            {
+                "pt": "Compreender o caso.",
+                "cn": "了解案例。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "entender",
+        "translation": "明白",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Atribuir sentido, inteligir.",
+        "examples": [
+            {
+                "pt": "Eu não entendo.",
+                "cn": "我不明白。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "decorar",
+        "translation": "背诵",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Guardar na memória.",
+        "examples": [
+            {
+                "pt": "Decorar o poema.",
+                "cn": "记住这首诗。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "rever",
+        "translation": "复习",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Ver novamente; recapitular.",
+        "examples": [
+            {
+                "pt": "Rever a matéria.",
+                "cn": "查看材料。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "praticar",
+        "translation": "练习",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Exercitar; treinar.",
+        "examples": [
+            {
+                "pt": "Praticar o idioma.",
+                "cn": "练习语言。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ler",
+        "translation": "阅读",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Tomar conhecimento da escrita.",
+        "examples": [
+            {
+                "pt": "Ler atenta.",
+                "cn": "仔细阅读。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "escrever",
+        "translation": "写",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Fazer letras.",
+        "examples": [
+            {
+                "pt": "Escrever o nome.",
+                "cn": "写下名字。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "soletrar",
+        "translation": "拼写",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Sílaba por sílaba.",
+        "examples": [
+            {
+                "pt": "Sabe soletrar?",
+                "cn": "你会拼写吗？"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "sublinhar",
+        "translation": "划线(重点)",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Pôr linha por baixo.",
+        "examples": [
+            {
+                "pt": "Sublinhar o erro.",
+                "cn": "在错误下划线。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "apagar",
+        "translation": "擦掉",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Fazer desaparecer.",
+        "examples": [
+            {
+                "pt": "Apagar a letra.",
+                "cn": "删除这封信。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "corrigir",
+        "translation": "改正",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Emendar erro.",
+        "examples": [
+            {
+                "pt": "Corrigir os exames.",
+                "cn": "正确的考试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "erro",
+        "translation": "错误",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Falta, engano.",
+        "examples": [
+            {
+                "pt": "Encontrei um erro.",
+                "cn": "我发现一个错误。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "acerto",
+        "translation": "正确",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Acertar.",
+        "examples": [
+            {
+                "pt": "Tinha cem acertos.",
+                "cn": "他有一百次点击。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "nota",
+        "translation": "分数/笔记",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Classificação.",
+        "examples": [
+            {
+                "pt": "Tirar boa nota.",
+                "cn": "取得好成绩。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "classificação",
+        "translation": "等级/评分",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Atribuição de grau.",
+        "examples": [
+            {
+                "pt": "Classificação final.",
+                "cn": "最终分类。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "avaliação",
+        "translation": "评估",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Análise de mérito.",
+        "examples": [
+            {
+                "pt": "Avaliação escolar.",
+                "cn": "学校评估。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "exame",
+        "translation": "考试",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Prova final.",
+        "examples": [
+            {
+                "pt": "Exame nacional.",
+                "cn": "全国考试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "teste",
+        "translation": "测验",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Prova de avaliação contínua.",
+        "examples": [
+            {
+                "pt": "O primeiro teste.",
+                "cn": "第一个测试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "prova",
+        "translation": "证明/考试",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Exame escolar.",
+        "examples": [
+            {
+                "pt": "Prova escrita.",
+                "cn": "笔试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ficha",
+        "translation": "练习卷",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Folha de exercícios.",
+        "examples": [
+            {
+                "pt": "Preencher a ficha.",
+                "cn": "填写表格。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "oral",
+        "translation": "口语的",
+        "gender": "adj",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Feito por voz.",
+        "examples": [
+            {
+                "pt": "Exame oral.",
+                "cn": "口试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "escrito",
+        "translation": "笔试的",
+        "gender": "adj",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Por escrito.",
+        "examples": [
+            {
+                "pt": "Exame escrito.",
+                "cn": "笔试。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "passar",
+        "translation": "通过(考试)",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Ter transição de ano.",
+        "examples": [
+            {
+                "pt": "Vou passar de ano.",
+                "cn": "我要过年了"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "reprovar",
+        "translation": "不及格",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Falhar transição.",
+        "examples": [
+            {
+                "pt": "Ele reprovou.",
+                "cn": "他不同意。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "chumbar",
+        "translation": "挂科",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Não conseguir a nota mínima.",
+        "examples": [
+            {
+                "pt": "Chumbar ao exame.",
+                "cn": "考试不及格。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "faltar",
+        "translation": "旷课",
+        "gender": "v",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Não estar presente.",
+        "examples": [
+            {
+                "pt": "Faltar à aula.",
+                "cn": "缺课了。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "presença",
+        "translation": "出勤",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Estado de quem está presente.",
+        "examples": [
+            {
+                "pt": "Marque a presença.",
+                "cn": "标记你的存在。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "ausência",
+        "translation": "缺席",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Falta num lugar.",
+        "examples": [
+            {
+                "pt": "Reparar na ausência.",
+                "cn": "缺席时修理。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "justificação",
+        "translation": "请假条",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Comprovar motivos.",
+        "examples": [
+            {
+                "pt": "Dar justificação.",
+                "cn": "给出理由。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "matrícula",
+        "translation": "注册",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Ato de inscrever.",
+        "examples": [
+            {
+                "pt": "Fazer a matrícula.",
+                "cn": "登记。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "inscrição",
+        "translation": "登记",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Registar o nome.",
+        "examples": [
+            {
+                "pt": "Taxa de inscrição.",
+                "cn": "注册费。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "propina",
+        "translation": "学费",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Importância pecuniária paga.",
+        "examples": [
+            {
+                "pt": "Pagar propina mensal.",
+                "cn": "支付月费。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "bolsa",
+        "translation": "奖学金",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Subsídio pecuniário.",
+        "examples": [
+            {
+                "pt": "Ganhar a bolsa.",
+                "cn": "赢得奖学金。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "diploma",
+        "translation": "文凭",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Certificado oficial.",
+        "examples": [
+            {
+                "pt": "O diploma superior.",
+                "cn": "学位越高。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "certificado",
+        "translation": "证书",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Atestado oficial.",
+        "examples": [
+            {
+                "pt": "Recebeu o certificado.",
+                "cn": "收到证书了。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "grau",
+        "translation": "学位",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Titulação académica.",
+        "examples": [
+            {
+                "pt": "Grau de doutor.",
+                "cn": "博士学位。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "licenciatura",
+        "translation": "学士学位",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Grau base de universidade.",
+        "examples": [
+            {
+                "pt": "A licenciatura durou anos.",
+                "cn": "获得学位需要数年时间。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "formador",
+        "translation": "培训师",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Que dá formação.",
+        "examples": [
+            {
+                "pt": "O formador excelente.",
+                "cn": "优秀的教练。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "formando",
+        "translation": "学员",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Pessoa recetora de formação.",
+        "examples": [
+            {
+                "pt": "Formando na aula.",
+                "cn": "课堂上的训练。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "curso intensivo",
+        "translation": "速成班",
+        "gender": "o",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Aulas super rápidas.",
+        "examples": [
+            {
+                "pt": "Curso intensivo lá.",
+                "cn": "那里有强化课程。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "escola primária",
+        "translation": "小学",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Primeiro ciclo.",
+        "examples": [
+            {
+                "pt": "Estar na escola primária.",
+                "cn": "正在上小学。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "escola secundária",
+        "translation": "中学",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Escola de jovens.",
+        "examples": [
+            {
+                "pt": "Passar para a escola secundária.",
+                "cn": "继续升入中学。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "escola preparatória",
+        "translation": "预科班",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Segundo ciclo.",
+        "examples": [
+            {
+                "pt": "Foi à escola preparatória.",
+                "cn": "他去了预科学校。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    },
+    {
+        "word": "creche",
+        "translation": "托儿所",
+        "gender": "a",
+        "cefr_level": "B1",
+        "category": "estudo",
+        "priberam_definition": "Berçário.",
+        "examples": [
+            {
+                "pt": "O bebé está na creche.",
+                "cn": "宝宝在日托中心。"
+            }
+        ],
+        "synonyms": [],
+        "antonyms": []
+    }
+]
