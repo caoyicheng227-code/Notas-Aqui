@@ -123,7 +123,8 @@ export default function Exame({ masteredIds, onUnmaster }) {
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
-                minHeight: '60vh'
+                minHeight: '60vh',
+                paddingBottom: '60px'
             }}>
                 {count === 0 ? (
                     /* ── Empty State ── */
