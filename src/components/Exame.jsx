@@ -124,7 +124,7 @@ export default function Exame({ masteredIds, onUnmaster }) {
                 alignItems: 'center',
                 justifyContent: 'center',
                 minHeight: '60vh',
-                paddingBottom: '60px'
+                paddingBottom: '140px'
             }}>
                 {count === 0 ? (
                     /* ── Empty State ── */
