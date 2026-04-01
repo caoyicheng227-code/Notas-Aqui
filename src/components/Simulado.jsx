@@ -1238,7 +1238,7 @@ export default function Simulado({ currentLevel }) {
                             display: 'flex', flexDirection: 'column', gap: '5px'
                         }}>
                             <span style={{ fontSize: '0.8rem', color: g.color, fontWeight: 'bold', textTransform: 'uppercase' }}>{g.label}</span>
-                            <span style={{ fontSize: '0.9rem', color: 'var(--primary-dark)', fontWeight: '600' }}>{g.range}</span>
+                            <span style={{ fontSize: '0.9rem', color: 'var(--primary-dark)', fontWeight: '600', whiteSpace: 'nowrap' }}>{g.range}</span>
                         </div>
                     ))}
                 </div>
