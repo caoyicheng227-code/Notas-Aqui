@@ -393,7 +393,7 @@ function App() {
                                             <IconSpeaker />
                                         </button>
                                     </div>
-                                    <div style={{ position: 'absolute', top: '20px', right: '20px', display: 'flex', alignItems: 'flex-start', gap: '12px' }}>
+                                    <div style={{ position: 'absolute', top: '10px', right: '20px', display: 'flex', alignItems: 'flex-start', gap: '12px' }}>
                                         <div
                                             className="caderno-trigger"
                                             onClick={() => setShowCadernoMenu(true)}
