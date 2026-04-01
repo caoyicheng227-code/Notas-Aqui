@@ -1144,13 +1144,14 @@ export default function Simulado({ currentLevel }) {
                     {info.name}
                 </h1>
 
-                {/* Internal Level Selector (A2, C1, C2) */}
+                {/* Internal Level Selector */}
                 <div style={{
-                    display: 'flex',
-                    justifyContent: 'center',
+                    display: 'grid',
+                    gridTemplateColumns: 'repeat(3, 1fr)',
                     gap: '8px',
                     marginTop: '15px',
-                    marginBottom: '10px'
+                    marginBottom: '10px',
+                    padding: '0 10px'
                 }}>
                     {['A1','A2','B1','B2','C1','C2'].map(lvl => (
                         <button
@@ -1161,15 +1162,16 @@ export default function Simulado({ currentLevel }) {
                                 backgroundColor: simLevel === lvl ? 'var(--primary-deep)' : 'transparent',
                                 color: simLevel === lvl ? 'white' : 'var(--text-soft)',
                                 border: `1px solid ${simLevel === lvl ? 'var(--primary-deep)' : 'var(--text-soft)'}`,
-                                borderRadius: '15px',
-                                padding: '4px 14px',
+                                borderRadius: '12px',
+                                padding: '6px 0',
                                 fontSize: '0.85rem',
                                 fontWeight: 'bold',
                                 cursor: 'pointer',
-                                transition: 'all 0.2s'
+                                transition: 'all 0.2s',
+                                width: '100%'
                             }}
                         >
-                            Nível {lvl}
+                            {lvl}
                         </button>
                     ))}
                 </div>
