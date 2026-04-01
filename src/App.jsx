@@ -393,13 +393,13 @@ function App() {
                                             <IconSpeaker />
                                         </button>
                                     </div>
-                                    <div style={{ position: 'absolute', top: '20px', right: '20px', display: 'flex', alignItems: 'center', gap: '15px' }}>
+                                    <div style={{ position: 'absolute', top: '20px', right: '20px', display: 'flex', alignItems: 'flex-start', gap: '12px' }}>
                                         <div
                                             className="caderno-trigger"
                                             onClick={() => setShowCadernoMenu(true)}
-                                            style={{ cursor: 'pointer', display: 'flex', alignItems: 'center' }}
+                                            style={{ cursor: 'pointer', display: 'flex', alignItems: 'center', marginTop: '1px' }}
                                         >
-                                            <IconCaderno size={22} color="var(--primary-deep)" />
+                                            <IconCaderno size={20} color="var(--primary-deep)" />
                                         </div>
                                         <div
                                             className="priberam-trigger"
