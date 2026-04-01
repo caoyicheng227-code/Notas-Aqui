@@ -20,7 +20,7 @@ const GRADING = [
 
 export default function Simulado({ currentLevel }) {
     // Internal Level State for Simulado. Default to A2.
-    const [simLevel, setSimLevel] = useState(['A2', 'C1', 'C2'].includes(currentLevel) ? currentLevel : 'A2');
+    const [simLevel, setSimLevel] = useState(['A1','A2','B1','B2','C1','C2'].includes(currentLevel) ? currentLevel : 'A2');
     const [isTesting, setIsTesting] = useState(false);
     const [showResults, setShowResults] = useState(false);
     const [showWritingGuide, setShowWritingGuide] = useState(false);
@@ -30,7 +30,7 @@ export default function Simulado({ currentLevel }) {
 
     useEffect(() => {
         // Sync root level change if valid
-        if (['A2', 'C1', 'C2'].includes(currentLevel) && !isTesting) {
+        if (['A1','A2','B1','B2','C1','C2'].includes(currentLevel) && !isTesting) {
             setSimLevel(currentLevel);
         }
     }, [currentLevel, isTesting]);
@@ -301,7 +301,7 @@ export default function Simulado({ currentLevel }) {
                                                             <div style={{ width: '40px', flexShrink: 0, textAlign: 'right', paddingRight: '15px', color: 'var(--primary-deep)', fontSize: '0.85rem', userSelect: 'none', fontVariantNumeric: 'tabular-nums', fontWeight: 'bold', paddingTop: '2px' }}>
                                                                 {showNum ? lineNum : ''}
                                                             </div>
-                                                            <div style={{ flex: 1, color: 'var(--text-main)', textAlign: 'justify' }}>
+                                                            <div style={{ flex: 1, color: 'var(--text-main)', textAlign: 'left' }}>
                                                                 {para.trim()}
                                                             </div>
                                                         </div>
@@ -865,7 +865,25 @@ export default function Simulado({ currentLevel }) {
                         Preste atenção ao limite de palavras.
                     </p>
 
+                    {simLevel === 'A1' && (
+                        <div style={{ backgroundColor: 'rgba(255,255,255,0.7)', padding: '15px', borderRadius: '12px', borderLeft: '4px solid var(--primary-deep)', fontSize: '0.9rem', lineHeight: '1.7', color: 'var(--text-main)', display: 'flex', flexDirection: 'column', gap: '20px' }}>
+                            <div>
+                                <strong>📝 TEXTO 1 — Mensagem curta</strong><br />
+                                <em>Deixe uma mensagem escrita para o seu colega de trabalho a informar que chegará atrasado/a à reunião e a explicar o motivo. (15–25 palavras)</em><br /><br />
+                                <strong>💡 Resposta Modelo:</strong><br />
+                                Olá Tomás! Vou chegar um pouco atrasado à reunião — há muito trânsito. Comecem sem mim. Chego em 15 minutos. Desculpa!
+                            </div>
+                            <div style={{ borderTop: '1px solid var(--primary-light)', paddingTop: '20px' }}>
+                                <strong>📝 TEXTO 2 — Bilhete / Recado</strong><br />
+                                <em>Escreva um bilhete para o seu vizinho a pedir-lhe que tome conta do seu gato durante o fim de semana. Indique as instruções necessárias. (30–45 palavras)</em><br /><br />
+                                <strong>💡 Resposta Modelo:</strong><br />
+                                Olá Ana! Este fim de semana estou fora. Podes tomar conta do Bolinha, por favor? Ele come duas vezes por dia — de manhã e à noite. A ração está na cozinha. Muito obrigado! Beijinhos, Sara
+                            </div>
+                        </div>
+                    )}
+
                     {simLevel === 'A2' && (
+
                         <div style={{ backgroundColor: 'rgba(255,255,255,0.7)', padding: '15px', borderRadius: '12px', borderLeft: '4px solid var(--primary-deep)', fontSize: '0.9rem', lineHeight: '1.7', color: 'var(--text-main)', display: 'flex', flexDirection: 'column', gap: '20px' }}>
                             <div>
                                 <strong>📝 TEXTO 1:</strong><br />
@@ -895,7 +913,55 @@ export default function Simulado({ currentLevel }) {
                         </div>
                     )}
 
+                    {simLevel === 'B1' && (
+                        <div style={{ backgroundColor: 'rgba(255,255,255,0.7)', padding: '15px', borderRadius: '12px', borderLeft: '4px solid var(--primary-deep)', fontSize: '0.9rem', lineHeight: '1.7', color: 'var(--text-main)', display: 'flex', flexDirection: 'column', gap: '20px' }}>
+                            <div>
+                                <strong>📝 PARTE 1 — Email informal</strong><br />
+                                <em>Um amigo seu vai à Portugal pela primeira vez. Escreva-lhe um email onde: (1) dá boas-vindas e mostra entusiasmo; (2) sugere três coisas para visitar em Lisboa; (3) propõe um encontro. (80–100 palavras)</em><br /><br />
+                                <strong>💡 Resposta Modelo:</strong><br />
+                                Olá Marco!<br /><br />
+                                Que notícia fantástica! Fico mesmo entusiasmado por saberes que vens a Portugal. Tens de visitar o Mosteiro dos Jerónimos — é impressionante! Depois, sobe ao elétrico 28 e percorre o bairro de Alfama, cheio de história e fado. E não podes perder o Mercado da Ribeira para experimentar a gastronomia portuguesa.<br /><br />
+                                Que tal marcarmos jantar no sábado à noite? Conheço um restaurante espetacular perto do Tejo. Responde-me logo! Grande abraço, João
+                            </div>
+                            <div style={{ borderTop: '1px solid var(--primary-light)', paddingTop: '20px' }}>
+                                <strong>📝 PARTE 2 — Texto de opinião</strong><br />
+                                <em>Escreva um texto onde expressa a sua opinião sobre a seguinte afirmação: "As redes sociais aproximam as pessoas." (100–120 palavras)</em><br /><br />
+                                <strong>💡 Resposta Modelo:</strong><br />
+                                As redes sociais são uma realidade incontornável do mundo atual. Por um lado, permitem manter contacto com amigos e família que vivem longe, partilhar momentos e criar novas amizades com pessoas de culturas diferentes. Nesse sentido, contribuem para aproximar as pessoas.<br /><br />
+                                Por outro lado, o uso excessivo pode ter o efeito contrário. Muitos jovens preferem comunicar através de ecrãs em vez de se encontrarem pessoalmente, o que empobrece as relações humanas. Além disso, as redes sociais podem criar imagens falsas da realidade, gerando ansiedade e comparações prejudiciais.<br /><br />
+                                Concluindo, as redes sociais podem aproximar, mas o equilíbrio é fundamental para que não substituam o contacto humano genuíno.
+                            </div>
+                        </div>
+                    )}
+
+                    {simLevel === 'B2' && (
+                        <div style={{ backgroundColor: 'rgba(255,255,255,0.7)', padding: '15px', borderRadius: '12px', borderLeft: '4px solid var(--primary-deep)', fontSize: '0.9rem', lineHeight: '1.7', color: 'var(--text-main)', display: 'flex', flexDirection: 'column', gap: '20px' }}>
+                            <div>
+                                <strong>📝 PARTE 1 — Carta formal</strong><br />
+                                <em>Escreva uma carta ao diretor de um hotel onde se queixou de vários problemas durante a sua estadia (quarto ruidoso, serviço de limpeza deficiente, pequeno-almoço limitado). Peça uma compensação adequada. (150–180 palavras)</em><br /><br />
+                                <strong>💡 Resposta Modelo:</strong><br />
+                                Exmo. Senhor Diretor,<br /><br />
+                                Venho por este meio manifestar a minha total insatisfação com a estadia que realizei neste estabelecimento entre os dias 10 e 14 do corrente mês.<br /><br />
+                                Em primeiro lugar, o quarto que me foi atribuído ficava junto ao elevador, tornando impossível um descanso adequado devido ao ruído constante. Além disso, o serviço de limpeza demonstrou ser claramente insuficiente — o quarto não foi limpo em dois dos quatro dias. Por fim, o pequeno-almoço apresentava uma oferta extremamente limitada, longe do que o vosso website publicita.<br /><br />
+                                Perante as situações descritas, solicito uma compensação adequada, nomeadamente um reembolso parcial correspondente a duas noites de estadia, bem como um voucher para uma estadia futura.<br /><br />
+                                Aguardo a vossa resposta com brevidade. Com os melhores cumprimentos,<br />
+                                [Nome do cliente]
+                            </div>
+                            <div style={{ borderTop: '1px solid var(--primary-light)', paddingTop: '20px' }}>
+                                <strong>📝 PARTE 2 — Artigo de opinião</strong><br />
+                                <em>Escreva um artigo de opinião para o jornal da sua escola/empresa sobre o tema: "O trabalho remoto é o futuro das organizações modernas?" (180–200 palavras)</em><br /><br />
+                                <strong>💡 Resposta Modelo:</strong><br />
+                                <strong>Trabalho Remoto: Liberdade ou Isolamento?</strong><br /><br />
+                                A pandemia de Covid-19 acelerou de forma dramática a adoção do trabalho remoto em empresas de todo o mundo. O que começou como uma medida de emergência transformou-se, para muitos, num modelo de trabalho preferencial e, aos olhos de alguns especialistas, num caminho sem retorno.<br /><br />
+                                Os defensores do teletrabalho apontam para ganhos evidentes de produtividade, eliminação de deslocações desnecessárias e maior conciliação entre a vida pessoal e profissional. Do ponto de vista ambiental, a redução das emissões de CO₂ associadas às deslocações diárias é igualmente um argumento de peso.<br /><br />
+                                Contudo, o trabalho remoto não está isento de riscos. A dissolução das fronteiras entre o espaço doméstico e profissional pode gerar stress crónico, e o isolamento social tem impactos comprovados na saúde mental dos trabalhadores. A criatividade e a inovação também tendem a florescer em ambientes de colaboração presencial.<br /><br />
+                                Em suma, o futuro mais sustentável parece residir na hibridez — um modelo que concilie o melhor dos dois mundos.
+                            </div>
+                        </div>
+                    )}
+
                     {simLevel === 'C1' && (
+
                         <div style={{ backgroundColor: 'rgba(255,255,255,0.7)', padding: '15px', borderRadius: '12px', borderLeft: '4px solid var(--primary-deep)', fontSize: '0.9rem', lineHeight: '1.7', color: 'var(--text-main)', display: 'flex', flexDirection: 'column', gap: '20px' }}>
                             <div>
                                 <strong>📝 PARTE 1</strong><br />
@@ -1086,7 +1152,7 @@ export default function Simulado({ currentLevel }) {
                     marginTop: '15px',
                     marginBottom: '10px'
                 }}>
-                    {['A2', 'C1', 'C2'].map(lvl => (
+                    {['A1','A2','B1','B2','C1','C2'].map(lvl => (
                         <button
                             key={lvl}
                             onClick={() => setSimLevel(lvl)}
@@ -1177,8 +1243,8 @@ export default function Simulado({ currentLevel }) {
             </div>
 
             <div style={{ padding: '20px 10px', textAlign: 'center' }}>
-                {hasAssets ? (
-                    <div style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}>
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '15px' }}>
+                    {hasAssets ? (
                         <button
                             onClick={() => setIsTesting(true)}
                             className="action-btn"
@@ -1195,34 +1261,35 @@ export default function Simulado({ currentLevel }) {
                         >
                             Começar Simulado
                         </button>
-                        <button
-                            onClick={() => setShowWritingGuide(true)}
-                            style={{
-                                width: '100%',
-                                padding: '14px',
-                                backgroundColor: 'transparent',
-                                border: '2px dashed var(--primary-deep)',
-                                color: 'var(--primary-deep)',
-                                fontSize: '1.05rem',
-                                borderRadius: '16px',
-                                cursor: 'pointer',
-                                fontWeight: 'bold'
-                            }}
-                        >
-                            📖 Guia da Produção Escrita
-                        </button>
-                    </div>
-                ) : (
-                    <div style={{
-                        padding: '16px',
-                        backgroundColor: '#f5f5f5',
-                        borderRadius: '16px',
-                        color: 'var(--text-soft)',
-                        fontSize: '0.95rem'
-                    }}>
-                        Módulo de simulado {simLevel} temporariamente indisponível.
-                    </div>
-                )}
+                    ) : (
+                        <div style={{
+                            padding: '16px',
+                            backgroundColor: 'rgba(235,235,245,0.5)',
+                            border: '2px dashed rgba(46,90,136,0.25)',
+                            borderRadius: '16px',
+                            color: 'var(--text-soft)',
+                            fontSize: '0.95rem'
+                        }}>
+                            🚧 Simulado de {simLevel} em preparação — disponível em breve!
+                        </div>
+                    )}
+                    <button
+                        onClick={() => setShowWritingGuide(true)}
+                        style={{
+                            width: '100%',
+                            padding: '14px',
+                            backgroundColor: 'transparent',
+                            border: '2px dashed var(--primary-deep)',
+                            color: 'var(--primary-deep)',
+                            fontSize: '1.05rem',
+                            borderRadius: '16px',
+                            cursor: 'pointer',
+                            fontWeight: 'bold'
+                        }}
+                    >
+                        📖 Guia da Produção Escrita
+                    </button>
+                </div>
             </div>
         </div>
     );
